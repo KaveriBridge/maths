@@ -10,49 +10,49 @@
 
 ## I. Four alternatives are given for each of the following questions / incomplete statements. Choose the correct alternative and write the complete answer along with its letter of alphabet. 8 x 1 = 8
 
-#### 1.If the pair of Linear equations x + 2y = 3 and 2x + 4y = k are coincide then the value of ‘k’ is :
+#### 1.
  * A. 3 
  * B. 6 
  * C. -3 
  * D. -6
 
-#### 2. The nth term of an arithmetic progression is an = 4n + 5 then the 3rd term is :
- * A. 5 
- * B. 9 
- * C. 13 
- * D. 17
+#### 2. In an arithmetic progression, if a<sub>n</sub> = 2n + 1 , then the common difference of the given progression is:
+ * A. 0
+ * B. 1 
+ * C. 2
+ * D. 3
 
-#### 3. If the roots of the quadratic equation x2 + 6x + k = 0 are equal, then the value of ‘k’ is :
+#### 3.
  *  A. 9 
  *  B. -9 
  *  C. 8 
  * D. 5
 
-#### 4. The value of sin 60 × cos 30
+#### 4.
  * A. 1/4
  * B. &Sqrt;3/4
  * C. 3/4 
  * D. 1/2
 
-#### 5. The distance of the co-ordinate p(4, 3) from the x- axis is :
+#### 5. 
  * A. 2 units 
  * B. 3 units
  * C. 4 units 
  * D. 5 units
 
-#### 6. A straight line intersecting a circle at two points is called :
+#### 6. 
  * A. a secant 
  * B. a tangent
  * C. radius 
  * D. a normal
 
-#### 7. The volume of a cylinder is 300 m<sup>3</sup>  then the volume of a cone having the same radius and height as that of the cylinder is :
+#### 7. 
 * A. 900 m<sup>3</sup>
 * B. 600 m<sup>3</sup>
 * C. 150 m<sup>3</sup>
 * D. 100 m<sup>3</sup>
 
-#### 8. The surface area of a sphere of radius 7cm is :
+#### 8.
 * A. 154 cm<sup>2</sup>
 * B. 308 cm<sup>2</sup>
 * C. 616 cm<sup>2</sup>
@@ -102,7 +102,9 @@ OR
 #### 34. Find the solution of the pair of linear equations by graphical method.
  x + y = 7
  3x – y = 1
+ [![](https://img.youtube.com/vi/HXHaE2aN7ow/0.jpg)](https://www.youtube.com/watch?v=HXHaE2aN7ow)
 #### 35. There are five terms in an Arithmetic Progression. The sum of these terms is 55, and the fourth term is five more than the sum of the first two terms. Find the terms of the Arithmetic progression. 
+[![](https://img.youtube.com/vi/J_jtx_95O2k/0.jpg)](https://www.youtube.com/watch?v=J_jtx_95O2k)
 OR  
 #### 35. In an Arithmetic Progression sixth term is one more than twice the third term. The sum of the fourth and fifth terms is five times the second term. Find the tenth term of the Arithmetic Progression.
 #### 36. A tower and a pole stand vertically on the same level ground. It is observed that the angles of depression of top and foot of the pole from the top of the tower of height 60 m is 30° and 60° respectively. Find the height of the pole.
