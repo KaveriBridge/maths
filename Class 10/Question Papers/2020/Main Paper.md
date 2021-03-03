@@ -104,8 +104,11 @@ OR
 
 #### 35. There are five terms in an Arithmetic Progression. The sum of these terms is 55, and the fourth term is five more than the sum of the first two terms. Find the terms of the Arithmetic progression. 
 [![](https://img.youtube.com/vi/J_jtx_95O2k/0.jpg)](https://www.youtube.com/watch?v=J_jtx_95O2k)
-OR  
+
+#### OR  
+
 #### 35. In an Arithmetic Progression sixth term is one more than twice the third term. The sum of the fourth and fifth terms is five times the second term. Find the tenth term of the Arithmetic Progression.
+
 #### 36. A tower and a pole stand vertically on the same level ground. It is observed that the angles of depression of top and foot of the pole from the top of the tower of height 60 m is 30° and 60° respectively. Find the height of the pole.
 #### 37. A container opened from the top is in the form of a frustum of a cone of height 16 cm with radii of its lower and upper ends are 8 cm and 20 cm respectively. Find the cost of the milk which can completely fill the container at the rate of Rs. 20 per litre. [ Take π = 3·14 ]
 ## VI. Answer the following question : 1 x 5 = 5
