@@ -17,7 +17,10 @@
 * D. equations have infinitely many solutions
 
 #### 2. In an arithmetic progression, if a<sub>n</sub> = 2n + 1 , then the common difference of the given progression is:
-(A) 0 (B) 1 (C) 2 (D) 3
+* A. 0
+* B. 1 
+* C. 2
+* D. 3
 
 [![](https://img.youtube.com/vi/aW6dlH2xF_I/0.jpg)](https://www.youtube.com/watch?v=aW6dlH2xF_I)
 
