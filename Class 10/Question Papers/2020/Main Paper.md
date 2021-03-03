@@ -99,10 +99,9 @@ OR
 #### 33. A hand fan is made up of cloth fixed in between the metallic wires. It is in the shape of a sector of a circle of radius 21 cm and of angle 120° as shown in the figure. Calculate the area of the cloth used and also find the total length of the metallic wire required to make such a fan.
 
 ## V. Answer the following. 4 x 4 = 16
-#### 34. Find the solution of the pair of linear equations by graphical method.
- x + y = 7
- 3x – y = 1
- [![](https://img.youtube.com/vi/HXHaE2aN7ow/0.jpg)](https://www.youtube.com/watch?v=HXHaE2aN7ow)
+#### 34. Find the solution of the pair of linear equations by graphical method: x + y = 7, 3x – y = 1
+[![](https://img.youtube.com/vi/HXHaE2aN7ow/0.jpg)](https://www.youtube.com/watch?v=HXHaE2aN7ow)
+
 #### 35. There are five terms in an Arithmetic Progression. The sum of these terms is 55, and the fourth term is five more than the sum of the first two terms. Find the terms of the Arithmetic progression. 
 [![](https://img.youtube.com/vi/J_jtx_95O2k/0.jpg)](https://www.youtube.com/watch?v=J_jtx_95O2k)
 OR  
