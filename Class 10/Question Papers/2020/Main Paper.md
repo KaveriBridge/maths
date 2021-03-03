@@ -70,28 +70,24 @@
 
 ## III. Answer the following questions. 8 x 2 = 16
 #### 17. 
-#### 18. 
-OR
-#### 18. 
-#### 19. Solve : 3x + y = 15, 2x ˗ y = 5
-
-#### 20. Solve by using quadratic formula : x<sup>2</sup>-3x+1=0.
-#### 21. Find the discriminant of the quadratic equation 2x<sup>2</sup>˗6x+3=0 and hence write the nature of roots.
-OR
-#### 21. Prove that the quadratic equation x<sup>2</sup>+ax˗4=0 has distinct, real roots.
-#### 22. Find the distance between the co-ordinate of the points A(2, 3) and B(10, -3).
-#### 23. Draw a line segment of AB=8cm and divide it in the ratio 3:2 by geomtrical construction.
-#### 24. In the figure given below find the value of sinθ and cos∝ ?
-
+#### 17. 
+#### 18.
+#### 19.
+#### 20.
+#### 21.
+#### 21.
+#### 22.
+#### 23. The points A ( 1, 1 ), B ( 3, 2 ) and C ( 5, 3 ) cannot be the vertices of the triangle ABC. Justify.
+#### 24. Draw a pair of tangents to a circle of radius 3 cm which are inclined to each other at an angle of 60°
 ## IV. Answer the following questions. 9 x 3 = 27
 #### 25. Prove that &Sqrt;5 is an irrational number.
 OR
 #### 25.Find the HCF of 24 and 40 by using Euclid’s division algorithm. Hence find the LCM of HCF ( 24, 40 ) and 20.
 #### 26. To save fuel, to avoid air pollution and for good health two persons A and B ride bicycle for a distance of 12 km to reach their office. As the cycling speed of B is 2 km/h more than that of A, B takes 30 minutes less than that of A to reach the office. Find the time taken by A and B to reach the office.
 #### 27. If x = p tan θ + q sec θ and y = p sec θ + q tan θ then prove that x<sup>2</sup> − y<sup>2</sup> = q<sup>2</sup> − p<sup>2</sup>
-#### 28. Find the median of the following data 
+#### 28. Find the median of the following data.
 OR 
-#### 28. Find the mode of the following data
+#### 28. Find the mode of the following data.
 #### 29. The following table gives the information of daily income of 50 workers of a factory. Draw a ‘less than type ogive’ for the given data.
 #### 30. A bag contains 3 red balls, 5 white balls and 8 blue balls. One ball is taken out of the bag at random. Find the probability that the ball taken out is (a) a red ball, (b) not a white ball
 #### 31. Prove that the “lengths of tangents drawn from an external point to a circle are equal”. 
