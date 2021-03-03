@@ -86,14 +86,16 @@
 [![](https://img.youtube.com/vi/2_d7oj8TNcM/0.jpg)](https://www.youtube.com/watch?v=2_d7oj8TNcM)
 
 ## III. Answer the following questions. 8 x 2 = 16
-#### 17. 
-#### 17. 
-#### 18.
-#### 19.
-#### 20.
-#### 21.
-#### 21.
-#### 22.
+#### 17. Solve : 2x + y = 11, x + y = 8 
+#### 18. Find the sum of 5 + 8 + 11 + ... to 10 terms using the formula
+#### 19. Find the value of k, if the pair of linear equations 2x – 3y = 8 and 2(k–4)x –ky = k + 3 are inconsistent
+#### 20. Find the discriminant of the equation 2x<sup>2</sup> -5x + 3 = 0and hence write the nature of the roots.
+#### 21. If one zero of the polynomial p(x) = x<sup>2</sup> −6x + k is twice the other then find the value of k.
+#### OR
+#### 21. Find the polynomial of least degree that should be subtracted from p(x) = x^3 -2x^2 + 3x + 4  so that it is exactly divisible by g(x) = x^2 -3x + 1
+#### 22. Find the distance between the points ( – 5, 7 ) and ( – 1, 3 ). 
+#### OR
+#### 22. Find the coordinates of the point which divides the line joining the points ( 1, 6 ) and ( 4, 3 ) in the ratio 1 : 2
 #### 23. The points A ( 1, 1 ), B ( 3, 2 ) and C ( 5, 3 ) cannot be the vertices of the triangle ABC. Justify.
 #### 24. Draw a pair of tangents to a circle of radius 3 cm which are inclined to each other at an angle of 60°
 ## IV. Answer the following questions. 9 x 3 = 27
@@ -103,6 +105,8 @@ OR
 #### 26. To save fuel, to avoid air pollution and for good health two persons A and B ride bicycle for a distance of 12 km to reach their office. As the cycling speed of B is 2 km/h more than that of A, B takes 30 minutes less than that of A to reach the office. Find the time taken by A and B to reach the office.
 #### 27. If x = p tan θ + q sec θ and y = p sec θ + q tan θ then prove that x<sup>2</sup> − y<sup>2</sup> = q<sup>2</sup> − p<sup>2</sup>
 [![](https://img.youtube.com/vi/TJqxmUhSju8/0.jpg)](https://www.youtube.com/watch?v=TJqxmUhSju8)
+#### OR
+#### 27. Prove that cot<sup>2</sup>(90 - θ)/(tan<sup>2</sup>θ - 1) + cosec<sup>2</sup>θ/(sec<sup>2</sup>θ - cosec<sup>2</sup>θ) = 1 / (sin<sup>2</sup>θ - cos<sup>2</sup>θ).
 #### 28. Find the median of the following data.
 OR 
 #### 28. Find the mode of the following data.
@@ -126,6 +130,7 @@ OR
 #### OR  
 
 #### 35. In an Arithmetic Progression sixth term is one more than twice the third term. The sum of the fourth and fifth terms is five times the second term. Find the tenth term of the Arithmetic Progression.
+[![](https://img.youtube.com/vi/BOk4K4FllN0/0.jpg)](https://www.youtube.com/watch?v=BOk4K4FllN0)
 
 #### 36. A tower and a pole stand vertically on the same level ground. It is observed that the angles of depression of top and foot of the pole from the top of the tower of height 60 m is 30° and 60° respectively. Find the height of the pole.
 #### 37. A container opened from the top is in the form of a frustum of a cone of height 16 cm with radii of its lower and upper ends are 8 cm and 20 cm respectively. Find the cost of the milk which can completely fill the container at the rate of Rs. 20 per litre. [ Take π = 3·14 ]
