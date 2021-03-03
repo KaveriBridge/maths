@@ -90,15 +90,15 @@ OR
 #### 26. Prove that sin&theta;/(1-cot&theta;) + cos&theta;/(1-tan&theta;) = sin&theta; + cos&theta;
 OR
 #### 26. Prove that (cos&theta; - 2cos<sup>3</sup>&theta;)/(2sin<sup>3</sup>&theta; - sin&theta;) = cot&theta;
-#### 27. From a point on the ground, the angles of elevation of the top and bottom of a transmission tower fixed at the top of a 20m high building are 60&deg; and 45&deg; respectively. Find the height of the transmission tower.
-#### 28. Find the value of ‘k’. If the co-ordinates of the points A(2, -2), B(-4, 2) and C(-7, k) are collinear.
-#### 29. Calculate the ‘mean’ for the frequency distribution table given below, by direct method.
-#### 30. The following table gives the production yield per hectare of wheat of 100 farms of a village. Draw a ‘more than type ogive’ for the given data.
-#### 31. Prove that “the tangent at any point of a circle is perpendicular to the radius through the point of contact”.
-#### 32. Draw a pair of tangents to a circle of radius 4cm which are inclined to each other at an angle of 70&deg;  and write the measure of its length.
-#### 33. A right circular metalic cone of height 20cm and base radius 5cm is melted and recast into a solid sphere. Find the radius of the sphere.
+#### 27. 
+#### 28. 
+#### 29. 
+#### 30. 
+#### 31. Prove that the “lengths of tangents drawn from an external point to a circle are equal”. 
+#### 32. Construct a triangle ABC with sides BC = 3 cm, AB = 6 cm and AC = 4·5 cm. Then construct a triangle whose sides are 3 4 of the corresponding sides of the triangle ABC. 
+#### 33. ABCD is a rectangle of length 20 cm and breadth 10 cm. OAPB is a sector of a circle of radius 10 2 cm. Calculate the area of the shaded region. [ Take pi = 3·14 ]
 OR
-#### 33. A solid sphere of radius 3cm is melted and reformed by stretching it into a cylindrical shaped wire of length 9m. Find the radius of the wire
+#### 33. A hand fan is made up of cloth fixed in between the metallic wires. It is in the shape of a sector of a circle of radius 21 cm and of angle 120° as shown in the figure. Calculate the area of the cloth used and also find the total length of the metallic wire required to make such a fan.
 
 ## V. Answer the following. 4 x 4 = 16
 #### 34. Find the solution of the pair of linear equations by graphical method.
