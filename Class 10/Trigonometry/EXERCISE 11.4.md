@@ -9,7 +9,7 @@
 [![IMAGE ALT TEXT HERE](https://img.youtube.com/vi/wCnzYvcNMI8/1.jpg)](https://www.youtube.com/watch?v=wCnzYvcNMI8)
 
 ##### 5.Prove the following identities, where the angles involved are acute angles for which the expressions are defined.
-* (i) (cosec &Theta; - cot &Theta;)<sup>2</sup> = (1 - cos &theta;)/(1 + cos &theta;)
+* (i) (cosec &theta; - cot &theta;)<sup>2</sup> = (1 - cos &theta;)/(1 + cos &theta;)
 
 
 * (x) (1+tan<sup>2</sup>A)/(1+cot<sup>2</sup>A) = ((1-tanA)/(1-cotA))<sup>2</sup> = tan<sup>2</sup>A
