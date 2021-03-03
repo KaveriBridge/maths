@@ -45,3 +45,26 @@
  * B. a tangent
  * C. radius 
  * D. a normal
+
+
+#### 7. The volume of a cylinder is 300 m<sup>3</sup>  then the volume of a cone having the same radius and height as that of the cylinder is :
+* A. 900 m<sup>3</sup>
+* B. 600 m<sup>3</sup>
+* C. 150 m<sup>3</sup>
+* D. 100 m<sup>3</sup>
+
+#### 8. The surface area of a sphere of radius 7cm is :
+* A. 154 cm<sup>2</sup>
+* B. 308 cm<sup>2</sup>
+* C. 616 cm<sup>2</sup>
+* D. 770 cm<sup>2</sup>
+
+## II. Answer the following questions in a sentence each. 8 x 1 = 8
+#### 9. How many solutions have the pair of linear equations 2x+3y-9=0 and 4x + 6y - 18 = 0?
+#### 10. Write the standard form of a quadratic equation.
+#### 11. Find the value of tanθ - cot (90 - θ ).
+#### 12.	 In the figure ∠B=900, ∠A = ∠C and BC=10cm, then find the value of tan 45
+#### 13. Write the co-ordinates of the midpoint of the line segment joining the points A(x1, y1) and B (x2, y2).
+#### 14. Find the median of the scores 5, 8, 14, 16, 19 and 20 ?
+#### 15. State ‘Thale’s theorem ?
+#### 16.	 Write the formula to find the curved surface area of the frustum of a cone as shown in the figure?
