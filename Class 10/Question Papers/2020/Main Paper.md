@@ -61,12 +61,16 @@
 ## II. Answer the following questions in a sentence each. 8 x 1 = 8
 #### 9. 
 #### 10.
-#### 11.
-#### 12.
-#### 13.
+#### 11.Find the value of tan 45° + cot 45°.
+[![](https://img.youtube.com/vi/5rpH8PN77yw/0.jpg)](https://www.youtube.com/watch?v=5rpH8PN77yw)
+#### 12.Find the coordinates of the mid-point of the line joining the points ( x1, y1) and ( x2, y2).
+[![](https://img.youtube.com/vi/wOBj0USqWUk/0.jpg)](https://www.youtube.com/watch?v=wOBj0USqWUk)
+#### 13.State “Basic proportionality theorem”.
 #### 14.
-#### 15.
-#### 16.
+#### 15.Write (x+1)/2 = 1/x in the standard form of a quadratic equation
+[![](https://img.youtube.com/vi/BIBlOyMMQ-E/0.jpg)](https://www.youtube.com/watch?v=BIBlOyMMQ-E)
+#### 16.Write the formula to find the total surface area of the cone whose radius is ‘r’ units and slant height is ‘l’ units
+[![](https://img.youtube.com/vi/2_d7oj8TNcM/0.jpg)](https://www.youtube.com/watch?v=2_d7oj8TNcM)
 
 ## III. Answer the following questions. 8 x 2 = 16
 #### 17. 
