@@ -8,7 +8,7 @@
 * English Medium
 * Regular Fresh
 
-## I. Four choices are given for each of incomplete / statement / questions. Choose the correct answer and write the complete answer along with its letter of alphabet. 8 x 1 = 8
+## I. Four alternatives are given for each of the following questions / incomplete statements. Choose the correct alternative and write the complete answer along with its letter of alphabet. 8 x 1 = 8
 
 #### 1.If the pair of Linear equations x + 2y = 3 and 2x + 4y = k are coincide then the value of ‘k’ is :
  * A. 3 
@@ -101,13 +101,13 @@ OR
 #### 33. A solid sphere of radius 3cm is melted and reformed by stretching it into a cylindrical shaped wire of length 9m. Find the radius of the wire
 
 ## V. Answer the following. 4 x 4 = 16
-#### 34. Find the solution of the following pair of linear equations by the graphical method.
- 2x + y = 10
- x + y = 6
-#### 35. An arithmetic progression consists of 37 terms. The sum of the first 3 terms of it is 12 and the sum of its last 3 terms is 318, then find the first and last terms of the progression.
-OR
-#### 35. The sum of the first 7 terms of an arithmetic progression is 140 and the sum of the next 7 terms of the same progression is 385 then find the arithmetic progression
-#### 36. Construct a triangle with sides 4cm, 5cm, and 6cm and then another triangle whose sides are 5/3 of the corresponding sides of the first triangle.
-#### 37. A toy is made in the shape of a cylinder with one hemisphere stuck to one end and a cone to the other end, as shown in the figure, the length of the cylindrical part of the toy is 20cm and its diameter is 10cm. If the slant height of the cone is 13cm. Find the surface area of the toy.
+#### 34. Find the solution of the pair of linear equations by graphical method.
+ x + y = 7
+ 3x – y = 1
+#### 35. There are five terms in an Arithmetic Progression. The sum of these terms is 55, and the fourth term is five more than the sum of the first two terms. Find the terms of the Arithmetic progression. 
+OR  
+#### 35. In an Arithmetic Progression sixth term is one more than twice the third term. The sum of the fourth and fifth terms is five times the second term. Find the tenth term of the Arithmetic Progression.
+#### 36. A tower and a pole stand vertically on the same level ground. It is observed that the angles of depression of top and foot of the pole from the top of the tower of height 60 m is 30° and 60° respectively. Find the height of the pole.
+#### 37. A container opened from the top is in the form of a frustum of a cone of height 16 cm with radii of its lower and upper ends are 8 cm and 20 cm respectively. Find the cost of the milk which can completely fill the container at the rate of Rs. 20 per litre. [ Take π = 3·14 ]
 ## VI. Answer the following question : 1 x 5 = 5
-#### 38. Prove that the ratio of the areas of two similar triangles is equal to the square of the ratio of their corresponding sides.
+#### 38. State and prove Pythagoras theorem.
