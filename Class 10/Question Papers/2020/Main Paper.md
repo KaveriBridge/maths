@@ -36,6 +36,8 @@
 * C. 12/13
 * D. 13/12
 
+[![](https://img.youtube.com/vi/cUGgtTqswk8/0.jpg)](https://www.youtube.com/watch?v=cUGgtTqswk8)
+
 #### 5. In the figure, if Δ POQ ~ Δ SOR and PQ : RS = 1 : 2, then OP : OS is
  * A. 1:2
  * B. 2:1
