@@ -21,6 +21,7 @@
 * B. 1 
 * C. 2
 * D. 3
+[![](https://img.youtube.com/vi/aW6dlH2xF_I/0.jpg)](https://www.youtube.com/watch?v=aW6dlH2xF_I)
 
 #### 3.The degree of a linear polynomial is
 * A. 0
@@ -90,6 +91,7 @@ OR
 #### 25.Find the HCF of 24 and 40 by using Euclid’s division algorithm. Hence find the LCM of HCF ( 24, 40 ) and 20.
 #### 26. To save fuel, to avoid air pollution and for good health two persons A and B ride bicycle for a distance of 12 km to reach their office. As the cycling speed of B is 2 km/h more than that of A, B takes 30 minutes less than that of A to reach the office. Find the time taken by A and B to reach the office.
 #### 27. If x = p tan θ + q sec θ and y = p sec θ + q tan θ then prove that x<sup>2</sup> − y<sup>2</sup> = q<sup>2</sup> − p<sup>2</sup>
+[![](https://img.youtube.com/vi/TJqxmUhSju8/0.jpg)](https://www.youtube.com/watch?v=TJqxmUhSju8)
 #### 28. Find the median of the following data.
 OR 
 #### 28. Find the mode of the following data.
