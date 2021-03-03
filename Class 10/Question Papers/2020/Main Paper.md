@@ -29,6 +29,7 @@
 * B. 1 
 * C. 2
 * D. 3
+
 [![](https://img.youtube.com/vi/vdezWTRD8dU/0.jpg)](https://www.youtube.com/watch?v=vdezWTRD8dU)
 
 #### 4.If 13 sin θ = 12, then the value of cosec θ is
@@ -50,6 +51,7 @@
 * B. a secant
 * C. a radius
 * D. a transversal
+
 [![](https://img.youtube.com/vi/socQ_phUP7A/0.jpg)](https://www.youtube.com/watch?v=socQ_phUP7A)
 
 #### 7. Length of an arc of a sector of a circle of radius r and angle θ is
@@ -57,6 +59,7 @@
 * B. θ/360&deg; × 2πr<sup>2</sup>
 * C. θ/180&deg; × 2πr
 * D. θ/360&deg; × 2πr
+
 [![](https://img.youtube.com/vi/l4WpPkJSqPI/0.jpg)](https://www.youtube.com/watch?v=l4WpPkJSqPI)
 
 #### 8.If the area of the circular base of a cylinder is 22 cm2 and its height is 10 cm, then the volume of the cylinder is
@@ -64,6 +67,7 @@
 * B. 2200 cm<sup>3</sup>
 * C. 220 cm<sup>3</sup>
 * D. 220 cm<sup>2</sup>
+
 [![](https://img.youtube.com/vi/R54qKQfYOE0/0.jpg)](https://www.youtube.com/watch?v=R54qKQfYOE0)
 
 ## II. Answer the following questions in a sentence each. 8 x 1 = 8
