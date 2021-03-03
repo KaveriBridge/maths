@@ -71,24 +71,37 @@
 [![](https://img.youtube.com/vi/R54qKQfYOE0/0.jpg)](https://www.youtube.com/watch?v=R54qKQfYOE0)
 
 ## II. Answer the following questions in a sentence each. 8 x 1 = 8
+
 #### 9. Express the denominator of 20/23 in the form of 2^n × 5^m and state whether the given fraction is terminating or non-terminating repeating decimal.
+
 #### 10.The following graph represents the polynomial y = p(x). Write the number of zeroes that p(x) has.
 [![](https://img.youtube.com/vi/sTZsT7fzMFc/0.jpg)](https://www.youtube.com/watch?v=sTZsT7fzMFc)
+
 #### 11.Find the value of tan 45° + cot 45°.
 [![](https://img.youtube.com/vi/5rpH8PN77yw/0.jpg)](https://www.youtube.com/watch?v=5rpH8PN77yw)
+
 #### 12.Find the coordinates of the mid-point of the line joining the points ( x1, y1) and ( x2, y2).
 [![](https://img.youtube.com/vi/wOBj0USqWUk/0.jpg)](https://www.youtube.com/watch?v=wOBj0USqWUk)
+
 #### 13.State “Basic proportionality theorem”.
+
 #### 14.In the figure AB and AC are the two tangents drawn from the point A to the circle with centre O. If &angle;BOC = 130° then find &angle;BAC.
+
 #### 15.Write (x+1)/2 = 1/x in the standard form of a quadratic equation
 [![](https://img.youtube.com/vi/BIBlOyMMQ-E/0.jpg)](https://www.youtube.com/watch?v=BIBlOyMMQ-E)
+
 #### 16.Write the formula to find the total surface area of the cone whose radius is ‘r’ units and slant height is ‘l’ units
 [![](https://img.youtube.com/vi/2_d7oj8TNcM/0.jpg)](https://www.youtube.com/watch?v=2_d7oj8TNcM)
 
 ## III. Answer the following questions. 8 x 2 = 16
 #### 17. Solve : 2x + y = 11, x + y = 8 
+[![](https://img.youtube.com/vi/nHPrehEJ25Y/0.jpg)](https://www.youtube.com/watch?v=nHPrehEJ25Y)
+
 #### 18. Find the sum of 5 + 8 + 11 + ... to 10 terms using the formula
+[![](https://img.youtube.com/vi/F1fC1cgM6hw/0.jpg)](https://www.youtube.com/watch?v=F1fC1cgM6hw)
+
 #### 19. Find the value of k, if the pair of linear equations 2x – 3y = 8 and 2(k–4)x –ky = k + 3 are inconsistent
+
 #### 20. Find the discriminant of the equation 2x<sup>2</sup> -5x + 3 = 0and hence write the nature of the roots.
 #### 21. If one zero of the polynomial p(x) = x<sup>2</sup> −6x + k is twice the other then find the value of k.
 #### OR
@@ -107,6 +120,8 @@ OR
 [![](https://img.youtube.com/vi/TJqxmUhSju8/0.jpg)](https://www.youtube.com/watch?v=TJqxmUhSju8)
 #### OR
 #### 27. Prove that cot<sup>2</sup>(90 - θ)/(tan<sup>2</sup>θ - 1) + cosec<sup>2</sup>θ/(sec<sup>2</sup>θ - cosec<sup>2</sup>θ) = 1 / (sin<sup>2</sup>θ - cos<sup>2</sup>θ).
+[![](https://img.youtube.com/vi/pG59JZGY4ZE/0.jpg)](https://www.youtube.com/watch?v=pG59JZGY4ZE)
+
 #### 28. Find the median of the following data.
 OR 
 #### 28. Find the mode of the following data.
