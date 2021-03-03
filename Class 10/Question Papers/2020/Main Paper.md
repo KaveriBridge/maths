@@ -90,6 +90,8 @@ OR
 #### 28. Find the mode of the following data.
 #### 29. The following table gives the information of daily income of 50 workers of a factory. Draw a ‘less than type ogive’ for the given data.
 #### 30. A bag contains 3 red balls, 5 white balls and 8 blue balls. One ball is taken out of the bag at random. Find the probability that the ball taken out is (a) a red ball, (b) not a white ball
+[![](https://img.youtube.com/vi/Br4vfv0VyOI/2.jpg)](https://www.youtube.com/watch?v=Br4vfv0VyOI)
+
 #### 31. Prove that the “lengths of tangents drawn from an external point to a circle are equal”. 
 #### 32. Construct a triangle ABC with sides BC = 3 cm, AB = 6 cm and AC = 4·5 cm. Then construct a triangle whose sides are 3 4 of the corresponding sides of the triangle ABC. 
 #### 33. ABCD is a rectangle of length 20 cm and breadth 10 cm. OAPB is a sector of a circle of radius 10 2 cm. Calculate the area of the shaded region. [ Take pi = 3·14 ]
