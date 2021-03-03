@@ -96,3 +96,7 @@ OR
 #### 35. An arithmetic progression consists of 37 terms. The sum of the first 3 terms of it is 12 and the sum of its last 3 terms is 318, then find the first and last terms of the progression.
 OR
 #### 35. The sum of the first 7 terms of an arithmetic progression is 140 and the sum of the next 7 terms of the same progression is 385 then find the arithmetic progression
+#### 36. Construct a triangle with sides 4cm, 5cm, and 6cm and then another triangle whose sides are 5/3 of the corresponding sides of the first triangle.
+#### 37. A toy is made in the shape of a cylinder with one hemisphere stuck to one end and a cone to the other end, as shown in the figure, the length of the cylindrical part of the toy is 20cm and its diameter is 10cm. If the slant height of the cone is 13cm. Find the surface area of the toy.
+## VI. Answer the following question : 1 x 5 = 5
+#### 38. Prove that the ratio of the areas of two similar triangles is equal to the square of the ratio of their corresponding sides.
