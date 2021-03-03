@@ -18,6 +18,10 @@
  * D. 5
 
 #### 4. The value of sin 60 × cos 30
+ * A. 1/4
+ * B. &Sqrt;3/4
+ * C. 3/4 
+ * D. 1/2
 
 #### 5. The distance of the co-ordinate p(4, 3) from the x- axis is :
  * A. 2 units 
