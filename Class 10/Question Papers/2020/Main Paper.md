@@ -10,53 +10,53 @@
 
 ## I. Four alternatives are given for each of the following questions / incomplete statements. Choose the correct alternative and write the complete answer along with its letter of alphabet. 8 x 1 = 8
 
-#### 1.
- * A. 3 
- * B. 6 
- * C. -3 
- * D. -6
+#### 1.In the pair of linear equations a<sub>1</sub>x+b<sub>1</sub>y+c=0 and a<sub>2</sub>x+b<sub>1</sub>y+c=0, if a<sub>1</sub>/a<sub>2</sub> ≠ b<sub>1</sub>/b<sub>2</sub> then the
+* A. equations have no solution 
+* B. equations have unique solution 
+* C. equations have three solutions 
+* D. equations have infinitely many solutions
 
 #### 2. In an arithmetic progression, if a<sub>n</sub> = 2n + 1 , then the common difference of the given progression is:
- * A. 0
- * B. 1 
- * C. 2
- * D. 3
+* A. 0
+* B. 1 
+* C. 2
+* D. 3
 
-#### 3.
- *  A. 9 
- *  B. -9 
- *  C. 8 
- * D. 5
+#### 3.The degree of a linear polynomial is
+* A. 0
+* B. 1 
+* C. 2
+* D. 3
 
-#### 4.
- * A. 1/4
- * B. &Sqrt;3/4
- * C. 3/4 
- * D. 1/2
+#### 4.If 13 sin θ = 12, then the value of cosec θ is
+* A. 12/5
+* B. 13/5
+* C. 12/13
+* D. 13/12
 
-#### 5. 
- * A. 2 units 
- * B. 3 units
- * C. 4 units 
- * D. 5 units
+#### 5. In the figure, if Δ POQ ~ Δ SOR and PQ : RS = 1 : 2, then OP : OS is
+ * A. 1:2
+ * B. 2:1
+ * C. 3:1
+ * D. 1:3
 
-#### 6. 
- * A. a secant 
- * B. a tangent
- * C. radius 
- * D. a normal
+#### 6. A straight line passing through a point on a circle is 
+* A. a tangent
+* B. a secant
+* C. a radius
+* D. a transversal
 
-#### 7. 
-* A. 900 m<sup>3</sup>
-* B. 600 m<sup>3</sup>
-* C. 150 m<sup>3</sup>
-* D. 100 m<sup>3</sup>
+#### 7. Length of an arc of a sector of a circle of radius r and angle θ is
+* A. θ/360&deg; × πr<sup>2</sup>
+* B. 
+* C. 
+* D. 
 
-#### 8.
-* A. 154 cm<sup>2</sup>
-* B. 308 cm<sup>2</sup>
-* C. 616 cm<sup>2</sup>
-* D. 770 cm<sup>2</sup>
+#### 8.If the area of the circular base of a cylinder is 22 cm2 and its height is 10 cm, then the volume of the cylinder is
+* A. 2200 cm<sup>2</sup>
+* B. 2200 cm<sup>3</sup>
+* C. 220 cm<sup>3</sup>
+* D. 220 cm<sup>2</sup>
 
 ## II. Answer the following questions in a sentence each. 8 x 1 = 8
 #### 9. Express the denominator of 20/23 in the form of 2^n × 5^m and state whether the given fraction is terminating or non-terminating repeating decimal.
