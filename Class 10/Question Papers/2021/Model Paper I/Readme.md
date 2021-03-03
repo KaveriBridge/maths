@@ -46,7 +46,6 @@
  * C. radius 
  * D. a normal
 
-
 #### 7. The volume of a cylinder is 300 m<sup>3</sup>  then the volume of a cone having the same radius and height as that of the cylinder is :
 * A. 900 m<sup>3</sup>
 * B. 600 m<sup>3</sup>
@@ -63,8 +62,29 @@
 #### 9. How many solutions have the pair of linear equations 2x+3y-9=0 and 4x + 6y - 18 = 0?
 #### 10. Write the standard form of a quadratic equation.
 #### 11. Find the value of tanθ - cot (90 - θ ).
-#### 12.	 In the figure ∠B=900, ∠A = ∠C and BC=10cm, then find the value of tan 45
+#### 12. In the figure ∠B=900, ∠A = ∠C and BC=10cm, then find the value of tan 45
 #### 13. Write the co-ordinates of the midpoint of the line segment joining the points A(x1, y1) and B (x2, y2).
 #### 14. Find the median of the scores 5, 8, 14, 16, 19 and 20 ?
 #### 15. State ‘Thale’s theorem ?
-#### 16.	 Write the formula to find the curved surface area of the frustum of a cone as shown in the figure?
+#### 16. Write the formula to find the curved surface area of the frustum of a cone as shown in the figure?
+
+## III. Answer the following questions. 8 x 2 = 16
+#### 17. Find the 25th term of an arithmetic progression 2, 6, 10, 14, . . . . . . .
+#### 18. Find the sum of first 20 terms of the arithmetic progression 3, 8, 13, . . . . . . using the formula.
+OR
+#### 18. Find the sum of the first 30 positive integers divisible by 6.
+#### 19. Solve : 3x + y = 15, 2x ˗ y = 5
+
+#### 20. Solve by using quadratic formula : x<sup>2</sup>-3x+1=0.
+#### 21. Find the discriminant of the quadratic equation 2x<sup>2</sup>˗6x+3=0 and hence write the nature of roots.
+OR
+#### 21. Prove that the quadratic equation x<sup>2</sup>+ax˗4=0 has distinct, real roots.
+#### 22. Find the distance between the co-ordinate of the points A(2, 3) and B(10, -3).
+#### 23. Draw a line segment of AB=8cm and divide it in the ratio 3:2 by geomtrical construction.
+#### 24. In the figure given below find the value of sinθ and cos∝ ?
+
+## IV. Answer the following questions. 9 x 3 = 27
+#### 25. The sum of two natural numbers is 9 and the sum of their reciprocals is 9/20. Find the numbers.
+OR
+#### 25.The perimeter and area of a rectangular play ground are 80m and 384m2 respectively. Find the length and breadth of the play ground.
+#### 27. From a point on the ground, the angles of elevation of the top and bottom of a transmission tower fixed at the top of a 20m high building are 600 and 450 respectively. Find the height of the transmission tower.
