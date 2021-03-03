@@ -16,6 +16,8 @@
 * C. equations have three solutions 
 * D. equations have infinitely many solutions
 
+[![](https://img.youtube.com/vi/1mFOZY5-Cd0/0.jpg)](https://www.youtube.com/watch?v=1mFOZY5-Cd0)
+
 #### 2. In an arithmetic progression, if a<sub>n</sub> = 2n + 1 , then the common difference of the given progression is:
 * A. 0
 * B. 1 
@@ -101,14 +103,21 @@
 [![](https://img.youtube.com/vi/F1fC1cgM6hw/0.jpg)](https://www.youtube.com/watch?v=F1fC1cgM6hw)
 
 #### 19. Find the value of k, if the pair of linear equations 2x – 3y = 8 and 2(k–4)x –ky = k + 3 are inconsistent
+[![](https://img.youtube.com/vi/ZRKA-lGHuNk/0.jpg)](https://www.youtube.com/watch?v=ZRKA-lGHuNk)
 
 #### 20. Find the discriminant of the equation 2x<sup>2</sup> -5x + 3 = 0and hence write the nature of the roots.
+[![](https://img.youtube.com/vi/GxIG6lINnLE/0.jpg)](https://www.youtube.com/watch?v=GxIG6lINnLE)
+
 #### 21. If one zero of the polynomial p(x) = x<sup>2</sup> −6x + k is twice the other then find the value of k.
+[![](https://img.youtube.com/vi/34PALbfeqNE/0.jpg)](https://www.youtube.com/watch?v=34PALbfeqNE)
+
 #### OR
 #### 21. Find the polynomial of least degree that should be subtracted from p(x) = x^3 -2x^2 + 3x + 4  so that it is exactly divisible by g(x) = x^2 -3x + 1
 #### 22. Find the distance between the points ( – 5, 7 ) and ( – 1, 3 ). 
+[![](https://img.youtube.com/vi/l6tHJgSYcM0/0.jpg)](https://www.youtube.com/watch?v=l6tHJgSYcM0)
 #### OR
 #### 22. Find the coordinates of the point which divides the line joining the points ( 1, 6 ) and ( 4, 3 ) in the ratio 1 : 2
+[![](https://img.youtube.com/vi/KknHjtA-Iro/0.jpg)](https://www.youtube.com/watch?v=KknHjtA-Iro)
 #### 23. The points A ( 1, 1 ), B ( 3, 2 ) and C ( 5, 3 ) cannot be the vertices of the triangle ABC. Justify.
 #### 24. Draw a pair of tangents to a circle of radius 3 cm which are inclined to each other at an angle of 60°
 ## IV. Answer the following questions. 9 x 3 = 27
@@ -148,6 +157,7 @@ OR
 [![](https://img.youtube.com/vi/BOk4K4FllN0/0.jpg)](https://www.youtube.com/watch?v=BOk4K4FllN0)
 
 #### 36. A tower and a pole stand vertically on the same level ground. It is observed that the angles of depression of top and foot of the pole from the top of the tower of height 60 m is 30° and 60° respectively. Find the height of the pole.
+[![](https://img.youtube.com/vi/DmfTsU5znuA/0.jpg)](https://www.youtube.com/watch?v=DmfTsU5znuA)
 #### 37. A container opened from the top is in the form of a frustum of a cone of height 16 cm with radii of its lower and upper ends are 8 cm and 20 cm respectively. Find the cost of the milk which can completely fill the container at the rate of Rs. 20 per litre. [ Take π = 3·14 ]
 ## VI. Answer the following question : 1 x 5 = 5
 #### 38. State and prove Pythagoras theorem.
