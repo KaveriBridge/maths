@@ -29,10 +29,10 @@
 [![](https://img.youtube.com/vi/eeIjd9Qc6V4/0.jpg)](https://www.youtube.com/watch?v=eeIjd9Qc6V4)
 
 ##### 11. State whether the following are true or false. Justify your answer.
-(i) The value of tan A is always less than 1.
-(ii) sec A = 12/5 for some value of angle A.
-(iii) cos A is the abbreviation used for the cosecant of angle A.
-(iv) cot A is the product of cot and A.
-(v) sin θ = 4/3 for some angle θ.
+* (i) The value of tan A is always less than 1.
+* (ii) sec A = 12/5 for some value of angle A.
+* (iii) cos A is the abbreviation used for the cosecant of angle A.
+* (iv) cot A is the product of cot and A.
+* (v) sin θ = 4/3 for some angle θ.
 
 [![](https://img.youtube.com/vi/F1EI_hUuFhE/0.jpg)](https://www.youtube.com/watch?v=F1EI_hUuFhE)
