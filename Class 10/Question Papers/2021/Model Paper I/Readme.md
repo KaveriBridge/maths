@@ -87,4 +87,4 @@ OR
 #### 25. The sum of two natural numbers is 9 and the sum of their reciprocals is 9/20. Find the numbers.
 OR
 #### 25.The perimeter and area of a rectangular play ground are 80m and 384m2 respectively. Find the length and breadth of the play ground.
-#### 27. From a point on the ground, the angles of elevation of the top and bottom of a transmission tower fixed at the top of a 20m high building are 600 and 450 respectively. Find the height of the transmission tower.
+#### 27. From a point on the ground, the angles of elevation of the top and bottom of a transmission tower fixed at the top of a 20m high building are 60&deg; and 45&deg; respectively. Find the height of the transmission tower.
