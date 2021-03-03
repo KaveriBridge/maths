@@ -88,3 +88,11 @@ OR
 OR
 #### 25.The perimeter and area of a rectangular play ground are 80m and 384m2 respectively. Find the length and breadth of the play ground.
 #### 27. From a point on the ground, the angles of elevation of the top and bottom of a transmission tower fixed at the top of a 20m high building are 60&deg; and 45&deg; respectively. Find the height of the transmission tower.
+
+## V. Answer the following. 4 x 4 = 16
+#### 34. Find the solution of the following pair of linear equations by the graphical method.
+ 2x + y = 10
+ x + y = 6
+#### 35. An arithmetic progression consists of 37 terms. The sum of the first 3 terms of it is 12 and the sum of its last 3 terms is 318, then find the first and last terms of the progression.
+OR
+#### 35. The sum of the first 7 terms of an arithmetic progression is 140 and the sum of the next 7 terms of the same progression is 385 then find the arithmetic progression
