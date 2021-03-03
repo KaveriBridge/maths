@@ -11,6 +11,6 @@
 5. Prove the following identities, where the angles involved are acute angles for which the expressions are defined.
 (i) (cosec &Theta; - cot &Theta;)<sup>2</sup> = (1 - cos &theta;)/(1 + cos &theta;)
 
-<math>
-	H(s) = ∫<sub>0</sub><sup>∞</sup> e<sup>-st</sup> h(t) dt
-</math>
+
+(x) (1+tan<sup>2</sup>A)/(1+cot<sup>2</sup>A) = ((1-tanA)/(1-cotA))<sup>2</sup> = tan<sup>2</sup>A
+[![IMAGE ALT TEXT HERE](https://img.youtube.com/vi/FbcCjgW-hQQ/1.jpg)](https://www.youtube.com/watch?v=FbcCjgW-hQQ)
