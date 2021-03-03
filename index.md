@@ -26,19 +26,6 @@ Syntax highlighted code block
 [Link](url) and ![Image](src)
 ```
 
-### 10.The following graph represents the polynomial y = p(x). Write the number of zeroes that p(x) has.
-[![](https://img.youtube.com/vi/sTZsT7fzMFc/0.jpg)](https://www.youtube.com/watch?v=sTZsT7fzMFc)
-### 11.Find the value of tan 45° + cot 45°.
-[![](https://img.youtube.com/vi/5rpH8PN77yw/0.jpg)](https://www.youtube.com/watch?v=5rpH8PN77yw)
-### 12.Find the coordinates of the mid-point of the line joining the points ( x1, y1) and ( x2, y2).
-[![](https://img.youtube.com/vi/wOBj0USqWUk/0.jpg)](https://www.youtube.com/watch?v=wOBj0USqWUk)
-### 13.State “Basic proportionality theorem”.
-### 14.In the figure AB and AC are the two tangents drawn from the point A to the circle with centre O. If &angle;BOC = 130° then find &angle;BAC.
-### 15.Write (x+1)/2 = 1/x in the standard form of a quadratic equation
-[![](https://img.youtube.com/vi/BIBlOyMMQ-E/0.jpg)](https://www.youtube.com/watch?v=BIBlOyMMQ-E)
-### 16.Write the formula to find the total surface area of the cone whose radius is ‘r’ units and slant height is ‘l’ units
-[![](https://img.youtube.com/vi/2_d7oj8TNcM/0.jpg)](https://www.youtube.com/watch?v=2_d7oj8TNcM)
-
 For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
 
 ### Jekyll Themes
