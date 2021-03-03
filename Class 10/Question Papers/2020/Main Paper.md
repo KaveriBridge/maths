@@ -59,20 +59,20 @@
 * D. 770 cm<sup>2</sup>
 
 ## II. Answer the following questions in a sentence each. 8 x 1 = 8
-#### 9. How many solutions have the pair of linear equations 2x+3y-9=0 and 4x + 6y - 18 = 0?
-#### 10. Write the standard form of a quadratic equation.
-#### 11. Find the value of tanθ - cot (90 - θ ).
-#### 12. In the figure ∠B=900, ∠A = ∠C and BC=10cm, then find the value of tan 45
-#### 13. Write the co-ordinates of the midpoint of the line segment joining the points A(x1, y1) and B (x2, y2).
-#### 14. Find the median of the scores 5, 8, 14, 16, 19 and 20 ?
-#### 15. State ‘Thale’s theorem ?
-#### 16. Write the formula to find the curved surface area of the frustum of a cone as shown in the figure?
+#### 9. 
+#### 10.
+#### 11.
+#### 12.
+#### 13.
+#### 14.
+#### 15.
+#### 16.
 
 ## III. Answer the following questions. 8 x 2 = 16
-#### 17. Find the 25th term of an arithmetic progression 2, 6, 10, 14, . . . . . . .
-#### 18. Find the sum of first 20 terms of the arithmetic progression 3, 8, 13, . . . . . . using the formula.
+#### 17. 
+#### 18. 
 OR
-#### 18. Find the sum of the first 30 positive integers divisible by 6.
+#### 18. 
 #### 19. Solve : 3x + y = 15, 2x ˗ y = 5
 
 #### 20. Solve by using quadratic formula : x<sup>2</sup>-3x+1=0.
@@ -84,8 +84,6 @@ OR
 #### 24. In the figure given below find the value of sinθ and cos∝ ?
 
 ## IV. Answer the following questions. 9 x 3 = 27
-#### 25. The sum of two natural numbers is 9 and the sum of their reciprocals is 9/20. Find the numbers.
-OR
 #### 25. Prove that &Sqrt;5 is an irrational number.
 OR
 #### 25.Find the HCF of 24 and 40 by using Euclid’s division algorithm. Hence find the LCM of HCF ( 24, 40 ) and 20.
