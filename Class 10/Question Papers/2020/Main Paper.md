@@ -1,8 +1,8 @@
-# 2020-21 MODEL PAPER - 1 MATHEMATICS KSEEB
+# 2020 MAIN PAPER - MATHEMATICS KSEEB
 * KARNATAKA SECONDARY EDUCATION EXAMINATION BOARD
 * Malleshwaram, Bengaluru - 560003.
-* 2020-21 MODEL PAPER - 1
-* Subject : MATHEMATICS Subject Code : 81E
+* Subject : MATHEMATICS 
+* Subject Code : 81E
 * Time : 3 hrs. 15 minutes 
 * Max. Marks : 80
 * English Medium
