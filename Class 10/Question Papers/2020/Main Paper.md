@@ -86,14 +86,16 @@ OR
 ## IV. Answer the following questions. 9 x 3 = 27
 #### 25. The sum of two natural numbers is 9 and the sum of their reciprocals is 9/20. Find the numbers.
 OR
-#### 25.The perimeter and area of a rectangular play ground are 80m and 384m2 respectively. Find the length and breadth of the play ground.
-#### 26. Prove that sin&theta;/(1-cot&theta;) + cos&theta;/(1-tan&theta;) = sin&theta; + cos&theta;
+#### 25. Prove that &Sqrt;5 is an irrational number.
 OR
-#### 26. Prove that (cos&theta; - 2cos<sup>3</sup>&theta;)/(2sin<sup>3</sup>&theta; - sin&theta;) = cot&theta;
-#### 27. 
-#### 28. 
-#### 29. 
-#### 30. 
+#### 25.Find the HCF of 24 and 40 by using Euclid’s division algorithm. Hence find the LCM of HCF ( 24, 40 ) and 20.
+#### 26. To save fuel, to avoid air pollution and for good health two persons A and B ride bicycle for a distance of 12 km to reach their office. As the cycling speed of B is 2 km/h more than that of A, B takes 30 minutes less than that of A to reach the office. Find the time taken by A and B to reach the office.
+#### 27. If x = p tan θ + q sec θ and y = p sec θ + q tan θ then prove that x<sup>2</sup> − y<sup>2</sup> = q<sup>2</sup> − p<sup>2</sup>
+#### 28. Find the median of the following data 
+OR 
+#### 28. Find the mode of the following data
+#### 29. The following table gives the information of daily income of 50 workers of a factory. Draw a ‘less than type ogive’ for the given data.
+#### 30. A bag contains 3 red balls, 5 white balls and 8 blue balls. One ball is taken out of the bag at random. Find the probability that the ball taken out is (a) a red ball, (b) not a white ball
 #### 31. Prove that the “lengths of tangents drawn from an external point to a circle are equal”. 
 #### 32. Construct a triangle ABC with sides BC = 3 cm, AB = 6 cm and AC = 4·5 cm. Then construct a triangle whose sides are 3 4 of the corresponding sides of the triangle ABC. 
 #### 33. ABCD is a rectangle of length 20 cm and breadth 10 cm. OAPB is a sector of a circle of radius 10 2 cm. Calculate the area of the shaded region. [ Take pi = 3·14 ]
