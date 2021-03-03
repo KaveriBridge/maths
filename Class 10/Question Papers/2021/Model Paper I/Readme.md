@@ -1,3 +1,4 @@
+### I. Four choices are given for each of incomplete / statement / questions. Choose the correct answer and write the complete answer along with its letter of alphabet. 8 x 1 = 8
 
 #### 1.If the pair of Linear equations x + 2y = 3 and 2x + 4y = k are coincide then the value of ‘k’ is :
  * A. 3 
