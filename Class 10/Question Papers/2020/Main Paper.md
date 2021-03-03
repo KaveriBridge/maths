@@ -48,9 +48,9 @@
 
 #### 7. Length of an arc of a sector of a circle of radius r and angle θ is
 * A. θ/360&deg; × πr<sup>2</sup>
-* B. 
-* C. 
-* D. 
+* B. θ/360&deg; × 2πr<sup>2</sup>
+* C. θ/180&deg; × 2πr
+* D. θ/360&deg; × 2πr
 
 #### 8.If the area of the circular base of a cylinder is 22 cm2 and its height is 10 cm, then the volume of the cylinder is
 * A. 2200 cm<sup>2</sup>
