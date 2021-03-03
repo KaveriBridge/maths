@@ -1,3 +1,13 @@
+### 2020-21 MODEL PAPER - 1 MATHEMATICS KSEEB
+* KARNATAKA SECONDARY EDUCATION EXAMINATION BOARD
+* Malleshwaram, Bengaluru - 560003.
+* 2020-21 MODEL PAPER - 1
+* Subject : MATHEMATICS Subject Code : 81E
+* Time : 3 hrs. 15 minutes 
+* Max. Marks : 80
+* English Medium
+* Regular Fresh
+
 ### I. Four choices are given for each of incomplete / statement / questions. Choose the correct answer and write the complete answer along with its letter of alphabet. 8 x 1 = 8
 
 #### 1.If the pair of Linear equations x + 2y = 3 and 2x + 4y = k are coincide then the value of ‘k’ is :
