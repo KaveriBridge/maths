@@ -79,9 +79,13 @@
 
 #### 18. Find the sum of the first 30 positive integers divisible by 6.
 [![](https://img.youtube.com/vi/dc0j5xsz5EA/0.jpg)](https://www.youtube.com/watch?v=dc0j5xsz5EA)
+
 #### 19. Solve : 3x + y = 15, 2x ˗ y = 5
+[![](https://img.youtube.com/vi/4nTH8Gkd8vs/0.jpg)](https://www.youtube.com/watch?v=4nTH8Gkd8vs)
 
 #### 20. Solve by using quadratic formula : x<sup>2</sup>-3x+1=0.
+[![](https://img.youtube.com/vi/EFhmQeLV3Mo/0.jpg)](https://www.youtube.com/watch?v=EFhmQeLV3Mo)
+
 #### 21. Find the discriminant of the quadratic equation 2x<sup>2</sup>˗6x+3=0 and hence write the nature of roots.
 [![](https://img.youtube.com/vi/GHqFlNAUSfg/0.jpg)](https://www.youtube.com/watch?v=GHqFlNAUSfg)
 OR
