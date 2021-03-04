@@ -101,6 +101,8 @@ OR
 OR
 #### 25.The perimeter and area of a rectangular play ground are 80m and 384m2 respectively. Find the length and breadth of the play ground.
 #### 26. Prove that sin&theta;/(1-cot&theta;) + cos&theta;/(1-tan&theta;) = sin&theta; + cos&theta;
+##### Solution in English
+[![](https://img.youtube.com/vi/XBmNCGUme4o/0.jpg)](https://www.youtube.com/watch?v=XBmNCGUme4o)
 OR
 #### 26. Prove that (cos&theta; - 2cos<sup>3</sup>&theta;)/(2sin<sup>3</sup>&theta; - sin&theta;) = cot&theta;
 #### 27. From a point on the ground, the angles of elevation of the top and bottom of a transmission tower fixed at the top of a 20m high building are 60&deg; and 45&deg; respectively. Find the height of the transmission tower.
