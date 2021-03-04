@@ -105,7 +105,7 @@ OR
 [![](https://img.youtube.com/vi/XBmNCGUme4o/0.jpg)](https://www.youtube.com/watch?v=XBmNCGUme4o)
 ##### Solution in Kannada
 [![](https://img.youtube.com/vi/TeHCiJnDVxg/0.jpg)](https://www.youtube.com/watch?v=TeHCiJnDVxg)
-OR
+#### OR
 #### 26. Prove that (cos&theta; - 2cos<sup>3</sup>&theta;)/(2sin<sup>3</sup>&theta; - sin&theta;) = cot&theta;
 #### 27. From a point on the ground, the angles of elevation of the top and bottom of a transmission tower fixed at the top of a 20m high building are 60&deg; and 45&deg; respectively. Find the height of the transmission tower.
 #### 28. Find the value of ‘k’. If the co-ordinates of the points A(2, -2), B(-4, 2) and C(-7, k) are collinear.
