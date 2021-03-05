@@ -19,17 +19,23 @@
  * C. -3 
  * D. -6
 
+Solution: (B) k = 6
+
 #### 2. The nth term of an arithmetic progression is an = 4n + 5 then the 3rd term is :
  * A. 5 
  * B. 9 
  * C. 13 
  * D. 17
 
-#### 3. If the roots of the quadratic equation x2 + 6x + k = 0 are equal, then the value of ‘k’ is :
- *  A. 9 
- *  B. -9 
- *  C. 8 
+Solution: (D)17, 3rd term is 17
+
+#### 3. If the roots of the quadratic equation x^2 + 6x + k = 0 are equal, then the value of ‘k’ is :
+ * A. 9 
+ * B. -9 
+ * C. 8 
  * D. 5
+ 
+ Solution: (A)9, k is 9
 
 #### 4. The value of sin 60 × cos 30
  * A. 1/4
@@ -37,11 +43,15 @@
  * C. 3/4 
  * D. 1/2
 
+Solution: (C)3/4
+
 #### 5. The distance of the co-ordinate p(4, 3) from the x- axis is :
  * A. 2 units 
  * B. 3 units
  * C. 4 units 
  * D. 5 units
+
+Solution: (B)3 units
 
 #### 6. A straight line intersecting a circle at two points is called :
  * A. a secant 
@@ -49,17 +59,23 @@
  * C. radius 
  * D. a normal
 
+Solution: A. a secant 
+
 #### 7. The volume of a cylinder is 300 m<sup>3</sup>  then the volume of a cone having the same radius and height as that of the cylinder is :
 * A. 900 m<sup>3</sup>
 * B. 600 m<sup>3</sup>
 * C. 150 m<sup>3</sup>
 * D. 100 m<sup>3</sup>
 
+Solution: D. 100 m<sup>3</sup>
+
 #### 8. The surface area of a sphere of radius 7cm is :
 * A. 154 cm<sup>2</sup>
 * B. 308 cm<sup>2</sup>
 * C. 616 cm<sup>2</sup>
 * D. 770 cm<sup>2</sup>
+
+Solution: C. 616 cm<sup>2</sup>
 
 ## II. Answer the following questions in a sentence each. 8 x 1 = 8
 #### 9. How many solutions have the pair of linear equations 2x+3y-9=0 and 4x + 6y - 18 = 0?
