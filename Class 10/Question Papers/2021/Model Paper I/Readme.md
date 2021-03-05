@@ -10,6 +10,9 @@
 
 ## I. Four choices are given for each of incomplete / statement / questions. Choose the correct answer and write the complete answer along with its letter of alphabet. 8 x 1 = 8
 
+[![](https://img.youtube.com/vi/5-tJmWn1X0Y/0.jpg)](https://www.youtube.com/watch?v=5-tJmWn1X0Y)
+[![](https://img.youtube.com/vi/9LRuj9l-WoU/0.jpg)](https://www.youtube.com/watch?v=9LRuj9l-WoU)
+
 #### 1.If the pair of Linear equations x + 2y = 3 and 2x + 4y = k are coincide then the value of ‘k’ is :
  * A. 3 
  * B. 6 
@@ -57,9 +60,6 @@
 * B. 308 cm<sup>2</sup>
 * C. 616 cm<sup>2</sup>
 * D. 770 cm<sup>2</sup>
-
-[![](https://img.youtube.com/vi/5-tJmWn1X0Y/0.jpg)](https://www.youtube.com/watch?v=5-tJmWn1X0Y)
-[![](https://img.youtube.com/vi/9LRuj9l-WoU/0.jpg)](https://www.youtube.com/watch?v=9LRuj9l-WoU)
 
 ## II. Answer the following questions in a sentence each. 8 x 1 = 8
 #### 9. How many solutions have the pair of linear equations 2x+3y-9=0 and 4x + 6y - 18 = 0?
