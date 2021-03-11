@@ -1,5 +1,5 @@
 
-In this chapter, you have studied the following points:
+Key Points:
 1. A polynomial p(x) in one variable x is an algebraic expression in x of the form
 p(x) = 
 2. A polynomial of one term is called a monomial.
