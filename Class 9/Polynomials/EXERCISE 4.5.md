@@ -20,7 +20,9 @@
 * = 100<sup>2</sup> - 4<sup>2</sup>
 * = 10000 - 16 
 * = 9984
-##### 5. Factorize (i) 4x<sup>2</sup> + 9y<sup>2</sup> + 16z<sup>2</sup> + 12xy – 24yz – 16x
+##### 5. Factorize (i) 4x<sup>2</sup> + 9y<sup>2</sup> + 16z<sup>2</sup> + 12xy – 24yz – 16xz
+* Using (x + y + z)^2 = x^2 + y^2 + z^2 + 2xy + 2yz + 2zx
+* (2x + 3y - 4z)^2 = 4x^2 + 9y^2 + 16z^2 + 12xy - 24yz - 16xz
 
 ##### 7. Evaluate the following using suitable identities: (i) (99)<sup>3</sup> (ii) (102)<sup>3</sup> (iii) (998)<sup>3</sup>
 ###### (i) (99)<sup>3</sup>
