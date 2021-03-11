@@ -16,4 +16,4 @@ has no zero, and every real number is a zero of the zero polynomial.
 is divided by the linear polynomial x – a, then the remainder is p(a).
 11. Factor Theorem : x – a is a factor of the polynomial p(x), if p(a) = 0. Also, if x – a is a factor
 of p(x), then p(a) = 0.
-12. 
+12.  (x + y + z)<sup>2</sup> = x<sup>2</sup> + y<sup>2</sup> + z<sup>2</sup> + 2xy + 2yz + 2zx
