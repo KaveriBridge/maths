@@ -52,3 +52,18 @@ RHS = (x - y) (x<sup>2</sup> + xy + y<sup>2</sup>) <br>
 = x<sup>3</sup> + x<sup>2</sup>y + xy<sup>2</sup> - yx<sup>2</sup> - xy<sup>2</sup> - y<sup>3</sup> <br>
 = x<sup>3</sup> - y<sup>3</sup> <br>
 = LHS
+
+x^3 + y^3 + z^3 - 3xyz = (x + y + z) (x^2 + y^2 + z^2 – xy – yz – zx)
+##### 13. If x + y + z = 0, show that x^3 + y^3 + z^3 = 3xyz. 
+###### Solution:
+* Using x^3 + y^3 + z^3 - 3xyz = (x + y + z) (x^2 + y^2 + z^2 – xy – yz – zx), we can see that 
+* x^3 + y^3 + z^3 - 3xyz = (0) (x^2 + y^2 + z^2 – xy – yz – zx) when (x + y + z) = 0
+* x^3 + y^3 + z^3 - 3xyz = (0)
+* x^3 + y^3 + z^3 = 3xyz
+
+##### 14. Without actually calculating the cubes, find the value of each of the following: (i) (–12)^3 + (7)^3 + (5)^3 (ii) (28)^3 + (–15)^3 + (–13)^3
+###### Solution:
+* Using previous problem, we know that if x + y + z = 0, then x^3 + y^3 + z^3 = 3xyz. 
+* In both cases (i) and (ii) sum of numbers is 0. Hence
+* (i) (–12)^3 + (7)^3 + (5)^3 = 3 × -12 × 7 × 5 = -60 × 21 = -1260
+* (ii) (28)^3 + (–15)^3 + (–13)^3 = 3 × 28 × -15 × -13 = 16380
