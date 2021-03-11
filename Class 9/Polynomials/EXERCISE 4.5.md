@@ -20,12 +20,18 @@
 * = 100<sup>2</sup> - 4<sup>2</sup>
 * = 10000 - 16 
 * = 9984
-##### 2. Write the coefficients of x<sup>2</sup> in each of the following:
-##### 3. Give one example each of a binomial of degree 35, and of a monomial of degree 100.
-##### 4. Write the degree of each of the following polynomials:
-##### 5. Classify the following as linear, quadratic and cubic polynomials:
-[![](https://img.youtube.com/vi/ZgCD95CSwLE/0.jpg)](https://www.youtube.com/watch?v=ZgCD95CSwLE)
-[![](https://img.youtube.com/vi/zHoMSIf-BGo/0.jpg)](https://www.youtube.com/watch?v=zHoMSIf-BGo)
+##### 7. Evaluate the following using suitable identities: (i) (99)<sup>3</sup> (ii) (102)<sup>3</sup> (iii) (998)<sup>3</sup>
+###### (i) (99)<sup>3</sup>
+* (99)<sup>3</sup> can be written as (100 - 1)<sup>3</sup> and expanded using (x - y)<sup>3</sup> = x<sup>3</sup> - y<sup>3</sup> - 3xy(x - y)
+* = 100<sup>3</sup> - 1<sup>3</sup> - 3(100)(1)(100 - 1)
+* = 1000000 - 1 -300(100 - 1) 
+* = 1000000 - 1 -30000 + 300
+* = 1000000 - 30301
+* = 970299
+###### (ii) (102)<sup>3</sup>
+* (102)<sup>3</sup> can be written as (100 + 2)<sup>3</sup> and expanded using (x + y)<sup>3</sup> = x<sup>3</sup> + y<sup>3</sup> + 3xy(x + y)
+###### (iii) (998)<sup>3</sup>
+* (998)<sup>3</sup> can be written as (1000 - 2)<sup>3</sup> and expanded using (x - y)<sup>3</sup> = x<sup>3</sup> - y<sup>3</sup> - 3xy(x - y)
 ##### 9. Verify : (i) x<sup>3</sup> + y<sup>3</sup> = (x + y) (x <sup>2</sup> – xy + y <sup>2</sup>) 
 ###### Solution:
 RHS = (x + y) (x<sup>2</sup> – xy + y<sup>2</sup>) <br> 
