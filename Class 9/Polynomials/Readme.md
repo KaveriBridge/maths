@@ -1,5 +1,5 @@
 
-Key Points:
+### Key Points:
 1. A polynomial p(x) in one variable x is an algebraic expression in x of the form
 p(x) = 
 2. A polynomial of one term is called a monomial.
@@ -20,3 +20,7 @@ of p(x), then p(a) = 0.
 13.  (x + y)<sup>3</sup> = x<sup>3</sup> + y<sup>3</sup> + 3xy (x + y)
 14.  (x - y)<sup>3</sup> = x<sup>3</sup> - y<sup>3</sup> - 3xy (x - y)
 15.  x<sup>3</sup> + y<sup>3</sup> + z<sup>3</sup> - 3xyz = (x + y + z) (x<sup>2</sup> + y<sup>2</sup> + z<sup>2</sup> – xy – yz – zx)
+
+### Exercises
+* [EXERCISE 4.1] (EXERCISE 4.1.md)
+* [EXERCISE 4.2] (EXERCISE 4.2.md)
