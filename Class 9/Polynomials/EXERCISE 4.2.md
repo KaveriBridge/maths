@@ -1,8 +1,9 @@
 #### Questions
-##### 1. Which of the following expressions are polynomials in one variable and which are not? State reasons for your answer.
-##### 2. Write the coefficients of x<sup>2</sup> in each of the following:
-##### 3. Give one example each of a binomial of degree 35, and of a monomial of degree 100.
-##### 4. Write the degree of each of the following polynomials:
-##### 5. Classify the following as linear, quadratic and cubic polynomials:
-[![](https://img.youtube.com/vi/ZgCD95CSwLE/0.jpg)](https://www.youtube.com/watch?v=ZgCD95CSwLE)
-[![](https://img.youtube.com/vi/zHoMSIf-BGo/0.jpg)](https://www.youtube.com/watch?v=zHoMSIf-BGo)
+##### 1. Find the value of the polynomial 5x – 4x<sup>2</sup> + 3 at (i) x = 0 (ii) x = –1 (iii) x = 2
+##### 2. Find p(0), p(1) and p(2) for each of the following polynomials:
+[![](https://img.youtube.com/vi/VX8FxYdg-Rs/0.jpg)](https://www.youtube.com/watch?v=VX8FxYdg-Rs)
+[![](https://img.youtube.com/vi/ZJ6ox9YUS6g/0.jpg)](https://www.youtube.com/watch?v=ZJ6ox9YUS6g)
+##### 3. Verify whether the following are zeroes of the polynomial, indicated against them.
+[![](https://img.youtube.com/vi/Sgu0s5SbK78/0.jpg)](https://www.youtube.com/watch?v=Sgu0s5SbK78)
+[![](https://img.youtube.com/vi/iGq_7rrQbC0/0.jpg)](https://www.youtube.com/watch?v=iGq_7rrQbC0)
+##### 4. Find the zero of the polynomial in each of the following cases:
