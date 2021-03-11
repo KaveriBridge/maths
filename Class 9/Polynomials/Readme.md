@@ -22,5 +22,5 @@ of p(x), then p(a) = 0.
 15.  x<sup>3</sup> + y<sup>3</sup> + z<sup>3</sup> - 3xyz = (x + y + z) (x<sup>2</sup> + y<sup>2</sup> + z<sup>2</sup> – xy – yz – zx)
 
 ### Exercises
-* [EXERCISE 4.1] (EXERCISE 4.1.md)
-* [EXERCISE 4.2] (EXERCISE 4.2.md)
+* [EXERCISE 4.1](EXERCISE 4.1.md)
+* [EXERCISE 4.2](EXERCISE 4.2.md)
