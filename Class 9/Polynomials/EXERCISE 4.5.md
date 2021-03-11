@@ -20,6 +20,8 @@
 * = 100<sup>2</sup> - 4<sup>2</sup>
 * = 10000 - 16 
 * = 9984
+##### 5. Factorize (i) 4x<sup>2</sup> + 9y<sup>2</sup> + 16z<sup>2</sup> + 12xy – 24yz – 16x
+
 ##### 7. Evaluate the following using suitable identities: (i) (99)<sup>3</sup> (ii) (102)<sup>3</sup> (iii) (998)<sup>3</sup>
 ###### (i) (99)<sup>3</sup>
 * (99)<sup>3</sup> can be written as (100 - 1)<sup>3</sup> and expanded using (x - y)<sup>3</sup> = x<sup>3</sup> - y<sup>3</sup> - 3xy(x - y)
