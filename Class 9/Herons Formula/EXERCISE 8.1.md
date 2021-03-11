@@ -1,4 +1,4 @@
-#### EXERCISE 12.1
+#### EXERCISE 8.1
 #### 1. A traffic signal board, indicating ‘SCHOOL AHEAD’, is an equilateral triangle with side ‘a’. Find the area of the signal board, using Heron’s formula. If its perimeter is 180 cm, what will be the area of the signal board?
 ##### Solution: 
 * In the case of an equilateral triangle, all sides are equal = a
