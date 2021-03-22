@@ -140,7 +140,7 @@ OR
  2x + y = 10
  x + y = 6
 #### 35. An arithmetic progression consists of 37 terms. The sum of the first 3 terms of it is 12 and the sum of its last 3 terms is 318, then find the first and last terms of the progression.
-[![](https://img.youtube.com/vi/GUBJSr1wT0U/0.jpg)](https://www.youtube.com/watch?v=GUBJSr1wT0U)
+[![](https://img.youtube.com/vi/sFmWqZ1U7EY/0.jpg)](https://www.youtube.com/watch?v=sFmWqZ1U7EY)
 OR
 #### 35. The sum of the first 7 terms of an arithmetic progression is 140 and the sum of the next 7 terms of the same progression is 385 then find the arithmetic progression
 [![](https://img.youtube.com/vi/cf26ZWjy-UQ/0.jpg)](https://www.youtube.com/watch?v=cf26ZWjy-UQ)
