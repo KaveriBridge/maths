@@ -143,7 +143,8 @@ OR
 [![](https://img.youtube.com/vi/sFmWqZ1U7EY/0.jpg)](https://www.youtube.com/watch?v=sFmWqZ1U7EY)
 OR
 #### 35. The sum of the first 7 terms of an arithmetic progression is 140 and the sum of the next 7 terms of the same progression is 385 then find the arithmetic progression
-[![](https://img.youtube.com/vi/cf26ZWjy-UQ/0.jpg)](https://www.youtube.com/watch?v=cf26ZWjy-UQ)
+[![](https://img.youtube.com/vi/sHc0zmsbKog/0.jpg)](https://www.youtube.com/watch?v=sHc0zmsbKog)
+
 
 #### 36. Construct a triangle with sides 4cm, 5cm, and 6cm and then another triangle whose sides are 5/3 of the corresponding sides of the first triangle.
 #### 37. A toy is made in the shape of a cylinder with one hemisphere stuck to one end and a cone to the other end, as shown in the figure, the length of the cylindrical part of the toy is 20cm and its diameter is 10cm. If the slant height of the cone is 13cm. Find the surface area of the toy.
