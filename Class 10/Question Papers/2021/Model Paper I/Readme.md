@@ -88,6 +88,9 @@ Solution: C. 616 cm<sup>2</sup>
 #### 16. Write the formula to find the curved surface area of the frustum of a cone as shown in the figure?
 
 ## III. Answer the following questions. 8 x 2 = 16
+### All solutions for Kannada medium
+[![](https://img.youtube.com/vi/Lc2ng_U_B5M/0.jpg)](https://www.youtube.com/watch?v=Lc2ng_U_B5M)
+
 #### 17. Find the 25th term of an arithmetic progression 2, 6, 10, 14, . . . . . . .
 [![](https://img.youtube.com/vi/_Gsdd8JJuWA/0.jpg)](https://www.youtube.com/watch?v=_Gsdd8JJuWA)
 
