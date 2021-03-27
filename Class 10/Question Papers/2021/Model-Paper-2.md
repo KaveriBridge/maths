@@ -121,6 +121,8 @@ Solution: S<sub>20</sub> = (n/2)(2a + (n-1)d) = (20/2)(2*2 + (20-1)3) = (10)(4+5
 * Since Δ > 0, the equation has two real roots.
 
 #### 21. Solve x<sup>2</sup>−2x+3=0 by using the quadratic formula.
+* x=(−(−2)±√((−2)<sup>2</sup>−4(1)(3)))/2
+* x=(2±√−8)/2
 #### OR
 #### 21. Solve by factorisation x<sup>2</sup>+5x+6=0.
 Solution:
