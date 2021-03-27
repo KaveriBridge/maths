@@ -77,9 +77,11 @@ Solution:
 #### 9. In equation x+y=7, if x=3, then find the value of y ?
 #### 10. In the given figure “P” is a midpoint of BC, write the formula to find the coordinate of P ?
 #### 11. Write the measure of angle formed between tangent to a circle and radius drawn from the centre of the circle to the point of contact of the tangent.
-#### 12. Write the formula to find the total suface area of a right cylinder ?
+#### 12. Write the formula to find the total surface area of a right cylinder ?
 #### 13. Write the formula to find the volume of a solid sphere ?
-#### 14. Write the mathematical relation between slant height (l) height (h) and radius(r) of a cone ?
+#### 14. Write the mathematical relation between slant height (l) height (h) and radius(r) of a cone?
+Solution: l = √(h<sup>2</sup> + r<sup>2</sup>
+
 #### 15. In an arithmetic progression if an = 3n-2, then find the second term of the progression.
 #### 16. If, 15 cot A=8, then find the value of tan A?
 
