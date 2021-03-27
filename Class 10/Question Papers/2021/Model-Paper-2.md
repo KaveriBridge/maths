@@ -10,8 +10,6 @@
 
 ## I. Four choices are given for each of incomplete / statement / questions. Choose the correct answer and write the complete answer along with its letter of alphabet. 8 x 1 = 8
 
-[![](https://img.youtube.com/vi/5-tJmWn1X0Y/0.jpg)](https://www.youtube.com/watch?v=5-tJmWn1X0Y)
-[![](https://img.youtube.com/vi/9LRuj9l-WoU/0.jpg)](https://www.youtube.com/watch?v=9LRuj9l-WoU)
 
 #### 1.If the pair of Linear equations x + 2y = 3 and 2x + 4y = k are coincide then the value of ‘k’ is :
  * A. 3 
@@ -88,31 +86,18 @@ Solution: C. 616 cm<sup>2</sup>
 #### 16. Write the formula to find the curved surface area of the frustum of a cone as shown in the figure?
 
 ## III. Answer the following questions. 8 x 2 = 16
-### All solutions for Kannada medium
-[![](https://img.youtube.com/vi/Lc2ng_U_B5M/0.jpg)](https://www.youtube.com/watch?v=Lc2ng_U_B5M)
-
 #### 17. Find the 25th term of an arithmetic progression 2, 6, 10, 14, . . . . . . .
-[![](https://img.youtube.com/vi/_Gsdd8JJuWA/0.jpg)](https://www.youtube.com/watch?v=_Gsdd8JJuWA)
-
 #### 18. Find the sum of first 20 terms of the arithmetic progression 3, 8, 13, . . . . . . using the formula.
-[![](https://img.youtube.com/vi/eGD5EeSqygk/0.jpg)](https://www.youtube.com/watch?v=eGD5EeSqygk)
 
 #### OR
 
 #### 18. Find the sum of the first 30 positive integers divisible by 6.
-[![](https://img.youtube.com/vi/dc0j5xsz5EA/0.jpg)](https://www.youtube.com/watch?v=dc0j5xsz5EA)
-
 #### 19. Solve : 3x + y = 15, 2x ˗ y = 5
-[![](https://img.youtube.com/vi/4nTH8Gkd8vs/0.jpg)](https://www.youtube.com/watch?v=4nTH8Gkd8vs)
 
 #### 20. Solve by using quadratic formula : x<sup>2</sup>-3x+1=0.
-[![](https://img.youtube.com/vi/ANsWaNpF4SY/0.jpg)](https://www.youtube.com/watch?v=ANsWaNpF4SY)
-
 #### 21. Find the discriminant of the quadratic equation 2x<sup>2</sup>˗6x+3=0 and hence write the nature of roots.
-[![](https://img.youtube.com/vi/GHqFlNAUSfg/0.jpg)](https://www.youtube.com/watch?v=GHqFlNAUSfg)
 OR
 #### 21. Prove that the quadratic equation x<sup>2</sup>+ax˗4=0 has distinct, real roots.
-[![](https://img.youtube.com/vi/XAlTNadZK1s/0.jpg)](https://www.youtube.com/watch?v=XAlTNadZK1s)
 
 #### 22. Find the distance between the co-ordinate of the points A(2, 3) and B(10, -3).
 #### 23. Draw a line segment of AB=8cm and divide it in the ratio 3:2 by geomtrical construction.
@@ -144,10 +129,8 @@ OR
  2x + y = 10
  x + y = 6
 #### 35. An arithmetic progression consists of 37 terms. The sum of the first 3 terms of it is 12 and the sum of its last 3 terms is 318, then find the first and last terms of the progression.
-[![](https://img.youtube.com/vi/sFmWqZ1U7EY/0.jpg)](https://www.youtube.com/watch?v=sFmWqZ1U7EY)
 OR
 #### 35. The sum of the first 7 terms of an arithmetic progression is 140 and the sum of the next 7 terms of the same progression is 385 then find the arithmetic progression
-[![](https://img.youtube.com/vi/sHc0zmsbKog/0.jpg)](https://www.youtube.com/watch?v=sHc0zmsbKog)
 
 
 #### 36. Construct a triangle with sides 4cm, 5cm, and 6cm and then another triangle whose sides are 5/3 of the corresponding sides of the first triangle.
