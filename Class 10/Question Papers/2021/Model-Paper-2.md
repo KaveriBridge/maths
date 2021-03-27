@@ -11,97 +11,94 @@
 ## I. Four choices are given for each of incomplete / statement / questions. Choose the correct answer and write the complete answer along with its letter of alphabet. 8 x 1 = 8
 
 
-#### 1.If the pair of Linear equations x + 2y = 3 and 2x + 4y = k are coincide then the value of ‘k’ is :
- * A. 3 
- * B. 6 
- * C. -3 
- * D. -6
+#### 1.The pair of lines a1x+b1y+c1=0 and a2x+b2y+c2=0 are intersecting lines then the ratio of their coefficients is
+* A. a1/a2 ≠ b1/b2
+* B. a1/a2 = b1/b2 ≠ c1/c2
+* C. a1/a2 = b1/b2 = c1/c2
+* D. a1/b2 = b1/a2
 
-Solution: (B) k = 6
+Solution:
 
-#### 2. The nth term of an arithmetic progression is an = 4n + 5 then the 3rd term is :
- * A. 5 
- * B. 9 
- * C. 13 
- * D. 17
+#### 2. 2, x, 14 are in Arithmetic progression, then the value of x is :
+* A. 28 
+* B. 16
+* C. 7 
+* D. 8
 
-Solution: (D)17, 3rd term is 17
+Solution: (D) x = 8
 
-#### 3. If the roots of the quadratic equation x^2 + 6x + k = 0 are equal, then the value of ‘k’ is :
- * A. 9 
- * B. -9 
- * C. 8 
- * D. 5
+#### 3. The standard form of quadratic equation is :
+* A. ax^2˗bx+c=0 
+* B. ax^2+bx+c=0
+* C. ax^2˗bx˗c=0 
+* D. ax^2+bx˗c=0
+
+Solution: (B) ax^2+bx+c=0
+
+#### 4. sin (90-θ) is equal to :
+ * A. cos θ
+ * B. tan θ.
+ * C. sec θ.
+ * D. cot θ.
+
+Solution: (A)cos θ
+
+#### 5. The value of tan 45° is :
+ * A. √3
+ * B. 0 
+ * C. 1 
+ * D. 1/√3
+Solution: (C)1
+
+#### 6. In the given graph. The co-ordinate of point A is :
+* A. (-1, 0) 
+* B. (1, -1)
+* C. (0, 2) 
+* D. (2, 0)
  
- Solution: (A)9, k is 9
+Solution: D. (2,0)
 
-#### 4. The value of sin 60 × cos 30
- * A. 1/4
- * B. &Sqrt;3/4
- * C. 3/4 
- * D. 1/2
+#### 7. The emperical relationship between the three measures of central tendency is :
+* A. 2 Median = Mode + 3 Mean
+* B. 3 Median = Mode + 2 Mean
+* C. Median = Mode + Mean
+* D. Median = Mode ˗ Mean
 
-Solution: (C)3/4
+Solution:
 
-#### 5. The distance of the co-ordinate p(4, 3) from the x- axis is :
- * A. 2 units 
- * B. 3 units
- * C. 4 units 
- * D. 5 units
+#### 8. In the given figure ST||QR then PT/SQ is equal to
+* A. PT/TR
+* B. PS/TR
+* C. PT/SQ
+* D. PT/SR
 
-Solution: (B)3 units
-
-#### 6. A straight line intersecting a circle at two points is called :
- * A. a secant 
- * B. a tangent
- * C. radius 
- * D. a normal
-
-Solution: A. a secant 
-
-#### 7. The volume of a cylinder is 300 m<sup>3</sup>  then the volume of a cone having the same radius and height as that of the cylinder is :
-* A. 900 m<sup>3</sup>
-* B. 600 m<sup>3</sup>
-* C. 150 m<sup>3</sup>
-* D. 100 m<sup>3</sup>
-
-Solution: D. 100 m<sup>3</sup>
-
-#### 8. The surface area of a sphere of radius 7cm is :
-* A. 154 cm<sup>2</sup>
-* B. 308 cm<sup>2</sup>
-* C. 616 cm<sup>2</sup>
-* D. 770 cm<sup>2</sup>
-
-Solution: C. 616 cm<sup>2</sup>
+Solution: 
 
 ## II. Answer the following questions in a sentence each. 8 x 1 = 8
-#### 9. How many solutions have the pair of linear equations 2x+3y-9=0 and 4x + 6y - 18 = 0?
-#### 10. Write the standard form of a quadratic equation.
-#### 11. Find the value of tanθ - cot (90 - θ ).
-#### 12. In the figure ∠B=900, ∠A = ∠C and BC=10cm, then find the value of tan 45
-#### 13. Write the co-ordinates of the midpoint of the line segment joining the points A(x1, y1) and B (x2, y2).
-#### 14. Find the median of the scores 5, 8, 14, 16, 19 and 20 ?
-#### 15. State ‘Thale’s theorem ?
-#### 16. Write the formula to find the curved surface area of the frustum of a cone as shown in the figure?
+#### 9. In equation x+y=7, if x=3, then find the value of y ?
+#### 10. In the given figure “P” is a midpoint of BC, write the formula to find the coordinate of P ?
+#### 11. Write the measure of angle formed between tangent to a circle and radius drawn from the centre of the circle to the point of contact of the tangent.
+#### 12. Write the formula to find the total suface area of a right cylinder ?
+#### 13. Write the formula to find the volume of a solid sphere ?
+#### 14. Write the mathematical relation between slant height (l) height (h) and radius(r) of a cone ?
+#### 15. In an arithmetic progression if an = 3n-2, then find the second term of the progression.
+#### 16. If, 15 cot A=8, then find the value of tan A?
 
 ## III. Answer the following questions. 8 x 2 = 16
-#### 17. Find the 25th term of an arithmetic progression 2, 6, 10, 14, . . . . . . .
-#### 18. Find the sum of first 20 terms of the arithmetic progression 3, 8, 13, . . . . . . using the formula.
-
+#### 17. Solve by using elimination method?
+ x + y = 8
+ 2x ˗ y = 7
+#### 18. Find the 10th term of arithmetic progression 2, 7, 12 ....... using the formula.
+#### 19. Find the sum of 2+5+8+................. to 20 terms using the formula.
+#### 20. Find the discriminant of the equation 3x<sup>2</sup>−5x+2=0 and hence write the nature of its roots.
+#### 21. Solve x<sup>2</sup>−2x+3=0 by using the quadratic formula.
 #### OR
-
-#### 18. Find the sum of the first 30 positive integers divisible by 6.
-#### 19. Solve : 3x + y = 15, 2x ˗ y = 5
-
-#### 20. Solve by using quadratic formula : x<sup>2</sup>-3x+1=0.
-#### 21. Find the discriminant of the quadratic equation 2x<sup>2</sup>˗6x+3=0 and hence write the nature of roots.
-OR
-#### 21. Prove that the quadratic equation x<sup>2</sup>+ax˗4=0 has distinct, real roots.
-
-#### 22. Find the distance between the co-ordinate of the points A(2, 3) and B(10, -3).
-#### 23. Draw a line segment of AB=8cm and divide it in the ratio 3:2 by geomtrical construction.
-#### 24. In the figure given below find the value of sinθ and cos∝ ?
+#### 21. Solve by factorisation x<sup>2</sup>+5x+6=0.
+#### 22. Find the distance between the points A(3, 6) and B(5, 7) using distance formula.
+#### OR
+#### 22. Find the co-ordinates of the point P, which divides the line joining A(0, 0) and B(5, 10) in the ratio of 2:3.
+#### 23. Construct a tangent to a circle of radius 4cm at any point P on its circumference.
+#### 24. In the given figure, find the value of sin∝ + cosθ ?
 
 ## IV. Answer the following questions. 9 x 3 = 27
 #### 25. A train travels 480 km at a uniform speed. If the speed had been 10km/h more, it would have taken 4 hours less for the same journey, find the speed of the train?.
@@ -113,27 +110,30 @@ OR
 #### OR
 #### 26. Prove that {Cosec (90-θ) - Sin (90-θ)} {(Cosecθ - Sin θ) (tanθ + cotθ)} = 1
 
-
-#### 27. From a point on the ground, the angles of elevation of the top and bottom of a transmission tower fixed at the top of a 20m high building are 60&deg; and 45&deg; respectively. Find the height of the transmission tower.
-#### 28. Find the value of ‘k’. If the co-ordinates of the points A(2, -2), B(-4, 2) and C(-7, k) are collinear.
-#### 29. Calculate the ‘mean’ for the frequency distribution table given below, by direct method.
-#### 30. The following table gives the production yield per hectare of wheat of 100 farms of a village. Draw a ‘more than type ogive’ for the given data.
-#### 31. Prove that “the tangent at any point of a circle is perpendicular to the radius through the point of contact”.
-#### 32. Draw a pair of tangents to a circle of radius 4cm which are inclined to each other at an angle of 70&deg;  and write the measure of its length.
-#### 33. A right circular metalic cone of height 20cm and base radius 5cm is melted and recast into a solid sphere. Find the radius of the sphere.
-OR
-#### 33. A solid sphere of radius 3cm is melted and reformed by stretching it into a cylindrical shaped wire of length 9m. Find the radius of the wire
+#### 27. From the top of a building 50√3 m high, the angle of depression of a car on the ground is observed to be 60°. Find the distance of the car from the foot of a building.
+#### 28. Find the area of triangle ABC, whose co-ordinates are A(4, -6), B(3, -2) and C(5, 2) then find the length of the median AD?
+#### 29. Find the mean of the following data, by direct method.
+#### OR
+#### 29. Find the mode of the following data
+#### 30. Prove that “length of tangents drawn from an external point to a circle are equal
+#### 31. The slant height of a frustrum of a cone is 4cm and perimeters of its circular bases are 18cm and 6cm, find the curved surface area of the frustrum of a cone
+#### OR
+#### 31. The circumference of the base of a cylinder is 132cm and its height is 25cm. Find the volume of the cylinder?
+#### 32. Draw a “less than type ogive” for the data given in the following table.
+#### 33. Construct tangents to a circle of radius 5cm such that the angle between the tangents is 60°.
 
 ## V. Answer the following. 4 x 4 = 16
 #### 34. Find the solution of the following pair of linear equations by the graphical method.
- 2x + y = 10
- x + y = 6
-#### 35. An arithmetic progression consists of 37 terms. The sum of the first 3 terms of it is 12 and the sum of its last 3 terms is 318, then find the first and last terms of the progression.
+  x + y = 5
+ 2x ˗ y = 4
+#### 35. The third term of an arithmetic progression is 8 and its ninth term exceeds three times the third term by 2 find the sum of the first 19 terms.
 OR
-#### 35. The sum of the first 7 terms of an arithmetic progression is 140 and the sum of the next 7 terms of the same progression is 385 then find the arithmetic progression
+#### 35. In an arithmetic progressive the sum of the three terms is 24, and their product is 480, write three terms of the arithmetic progression?
 
 
-#### 36. Construct a triangle with sides 4cm, 5cm, and 6cm and then another triangle whose sides are 5/3 of the corresponding sides of the first triangle.
-#### 37. A toy is made in the shape of a cylinder with one hemisphere stuck to one end and a cone to the other end, as shown in the figure, the length of the cylindrical part of the toy is 20cm and its diameter is 10cm. If the slant height of the cone is 13cm. Find the surface area of the toy.
+#### 36. A toy is in the form of a cone mounted on a hemisphere with the some radius is as shown in the figure. If the diameter of the conical portion is 6cm and its height is 4cm, then find the surface area of the toy.
+
+#### 37. Construct a triangle ABC of its sides BC=4cm, AB=6cm and AC=4.5cm then construct a triangle similar to it, whose sides are 23 of the corresponding sides of the triangle ABC.
+
 ## VI. Answer the following question : 1 x 5 = 5
-#### 38. Prove that the ratio of the areas of two similar triangles is equal to the square of the ratio of their corresponding sides.
+#### 38. State and Prove “Basic proportionally theorem”.
