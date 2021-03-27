@@ -31,7 +31,7 @@ Solution: (D) x = 8
 * C. ax<sup>2</sup>˗bx˗c=0 
 * D. ax<sup>2</sup>+bx˗c=0
 
-Solution: (B) ax^2+bx+c=0
+Solution: (B) ax<sup>2</sup>+bx+c=0
 
 #### 4. sin (90-θ) is equal to :
  * A. cos θ
@@ -75,8 +75,13 @@ Solution:
 
 ## II. Answer the following questions in a sentence each. 8 x 1 = 8
 #### 9. In equation x+y=7, if x=3, then find the value of y ?
+Solution: y = 7 - x = 7 - 3 = 4
+
 #### 10. In the given figure “P” is a midpoint of BC, write the formula to find the coordinate of P?
+
 #### 11. Write the measure of angle formed between tangent to a circle and radius drawn from the centre of the circle to the point of contact of the tangent.
+Solution: The measure of angle is 90°.
+
 #### 12. Write the formula to find the total surface area of a right cylinder?
 Solution: The total surface area of a right cylinder of radius r and height h is 2πr(h+r)
 
@@ -86,8 +91,11 @@ Solution: Volume of a solid sphere of radius r = (4/3)πr<sup>3</sup>
 #### 14. Write the mathematical relation between slant height (l) height (h) and radius(r) of a cone?
 Solution: l = √(h<sup>2</sup> + r<sup>2</sup>)
 
-#### 15. In an arithmetic progression if an = 3n-2, then find the second term of the progression.
+#### 15. In an arithmetic progression if a<sub>n</sub> = 3n-2, then find the second term of the progression.
+Solution: a<sub>2</sub> = 3(2)-2 = 4
+
 #### 16. If, 15 cot A=8, then find the value of tan A?
+Solution: cotA = 8/15. tanA = 1/cotA = 1/(8/15) = 15/8.
 
 ## III. Answer the following questions. 8 x 2 = 16
 #### 17. Solve by using elimination method?
