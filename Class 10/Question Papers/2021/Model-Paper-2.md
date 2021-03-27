@@ -114,6 +114,12 @@ Solution: a<sub>10</sub> = a + (n-1)d = 2 + (10-1)5 = 2 + 9*5 = 47
 Solution: S<sub>20</sub> = (n/2)(2a + (n-1)d) = (20/2)(2*2 + (20-1)3) = (10)(4+57) = 610
 
 #### 20. Find the discriminant of the equation 3x<sup>2</sup>−5x+2=0 and hence write the nature of its roots.
+* Calculation of the discriminant of the polynomial : 3⋅x2−5⋅x+2
+* Applying the formula to calculate the discriminant Δ=b^2−4⋅a⋅c with : a=3, b=−5,c=2
+* Δ=(−5)^2−4⋅(3)⋅(2)=25−24=1
+* The discriminant of the polynomial 3⋅x2−5⋅x+2 is equal to 1
+* Since Δ > 0, the equation has two real roots.
+
 #### 21. Solve x<sup>2</sup>−2x+3=0 by using the quadratic formula.
 #### OR
 #### 21. Solve by factorisation x<sup>2</sup>+5x+6=0.
