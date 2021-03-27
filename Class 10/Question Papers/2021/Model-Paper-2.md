@@ -80,7 +80,7 @@ Solution:
 #### 12. Write the formula to find the total surface area of a right cylinder ?
 #### 13. Write the formula to find the volume of a solid sphere ?
 #### 14. Write the mathematical relation between slant height (l) height (h) and radius(r) of a cone?
-Solution: l = √(h<sup>2</sup> + r<sup>2</sup>
+Solution: l = √(h<sup>2</sup> + r<sup>2</sup>)
 
 #### 15. In an arithmetic progression if an = 3n-2, then find the second term of the progression.
 #### 16. If, 15 cot A=8, then find the value of tan A?
