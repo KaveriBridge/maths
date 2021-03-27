@@ -99,9 +99,17 @@ Solution: cotA = 8/15. tanA = 1/cotA = 1/(8/15) = 15/8.
 
 ## III. Answer the following questions. 8 x 2 = 16
 #### 17. Solve by using elimination method?
- x + y = 8
- 2x ˗ y = 7
+ * x + y = 8
+ * 2x ˗ y = 7
+ 
+ Solution: 
+ * Adding two equations gives 3x = 15 i.e. x = 5.
+ * y = 3, using x = 5 in x + y = 8
+ * x = 5 and y = 3
+  
 #### 18. Find the 10th term of arithmetic progression 2, 7, 12 ....... using the formula.
+Solution: a<sub>10</sub> = a + (n-1)d = 2 + (10-1)5 = 2 + 9*5 = 47
+
 #### 19. Find the sum of 2+5+8+................. to 20 terms using the formula.
 #### 20. Find the discriminant of the equation 3x<sup>2</sup>−5x+2=0 and hence write the nature of its roots.
 #### 21. Solve x<sup>2</sup>−2x+3=0 by using the quadratic formula.
