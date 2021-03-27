@@ -1,7 +1,7 @@
 # 2020-21 MODEL PAPER - 2 MATHEMATICS KSEEB
 * KARNATAKA SECONDARY EDUCATION EXAMINATION BOARD
 * Malleshwaram, Bengaluru - 560003.
-* 2020-21 MODEL PAPER - 1
+* 2020-21 MODEL PAPER - 2
 * Subject : MATHEMATICS Subject Code : 81E
 * Time : 3 hrs. 15 minutes 
 * Max. Marks : 80
@@ -23,7 +23,7 @@ Solution:
 * C. 7 
 * D. 8
 
-Solution: (D) x = 8
+Solution: (D). x = 8
 
 #### 3. The standard form of quadratic equation is :
 * A. ax<sup>2</sup>˗bx+c=0 
@@ -31,7 +31,7 @@ Solution: (D) x = 8
 * C. ax<sup>2</sup>˗bx˗c=0 
 * D. ax<sup>2</sup>+bx˗c=0
 
-Solution: (B) ax<sup>2</sup>+bx+c=0
+Solution: (B). ax<sup>2</sup>+bx+c=0
 
 #### 4. sin (90-θ) is equal to :
  * A. cos θ
@@ -39,7 +39,7 @@ Solution: (B) ax<sup>2</sup>+bx+c=0
  * C. sec θ.
  * D. cot θ.
 
-Solution: (A)cos θ
+Solution: (A). cos θ
 
 #### 5. The value of tan 45° is :
  * A. √3
@@ -47,7 +47,7 @@ Solution: (A)cos θ
  * C. 1 
  * D. 1/√3
  
-Solution: (C)1
+Solution: (C). 1
 
 #### 6. In the given graph. The co-ordinate of point A is :
 * A. (-1, 0) 
