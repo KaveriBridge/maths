@@ -123,6 +123,12 @@ Solution: S<sub>20</sub> = (n/2)(2a + (n-1)d) = (20/2)(2*2 + (20-1)3) = (10)(4+5
 #### 21. Solve x<sup>2</sup>−2x+3=0 by using the quadratic formula.
 #### OR
 #### 21. Solve by factorisation x<sup>2</sup>+5x+6=0.
+Solution:
+* x<sup>2</sup>+5x+6=0
+* (x+2)(x+3)=0
+* Setting factors equal to 0.
+* x+2=0 or x+3=0
+* x=−2 or x=−3
 #### 22. Find the distance between the points A(3, 6) and B(5, 7) using distance formula.
 #### OR
 #### 22. Find the co-ordinates of the point P, which divides the line joining A(0, 0) and B(5, 10) in the ratio of 2:3.
