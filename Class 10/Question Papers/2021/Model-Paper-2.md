@@ -111,6 +111,8 @@ Solution: cotA = 8/15. tanA = 1/cotA = 1/(8/15) = 15/8.
 Solution: a<sub>10</sub> = a + (n-1)d = 2 + (10-1)5 = 2 + 9*5 = 47
 
 #### 19. Find the sum of 2+5+8+................. to 20 terms using the formula.
+Solution: S<sub>20</sub> = (n/2)(2a + (n-1)d) = (20/2)(2*2 + (20-1)3) = (10)(4+57) = 610
+
 #### 20. Find the discriminant of the equation 3x<sup>2</sup>−5x+2=0 and hence write the nature of its roots.
 #### 21. Solve x<sup>2</sup>−2x+3=0 by using the quadratic formula.
 #### OR
