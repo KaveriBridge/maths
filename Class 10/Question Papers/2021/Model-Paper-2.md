@@ -78,7 +78,7 @@ Solution:
 #### 10. In the given figure “P” is a midpoint of BC, write the formula to find the coordinate of P?
 #### 11. Write the measure of angle formed between tangent to a circle and radius drawn from the centre of the circle to the point of contact of the tangent.
 #### 12. Write the formula to find the total surface area of a right cylinder?
-Solution: The total surface area of a right cylinder = 2πr(h+r)
+Solution: The total surface area of a right cylinder of radius r and height h is 2πr(h+r)
 
 #### 13. Write the formula to find the volume of a solid sphere?
 Solution: Volume of a solid sphere of radius r = (4/3)πr<sup>3</sup>
