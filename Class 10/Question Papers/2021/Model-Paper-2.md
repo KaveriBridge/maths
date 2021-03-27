@@ -11,7 +11,7 @@
 ## I. Four choices are given for each of incomplete / statement / questions. Choose the correct answer and write the complete answer along with its letter of alphabet. 8 x 1 = 8
 
 
-#### 1.The pair of lines a1x+b1y+c1=0 and a2x+b2y+c2=0 are intersecting lines then the ratio of their coefficients is
+#### 1.The pair of lines a<sub>1</sub>x+b1y+c1=0 and a2x+b2y+c2=0 are intersecting lines then the ratio of their coefficients is
 * A. a1/a2 ≠ b1/b2
 * B. a1/a2 = b1/b2 ≠ c1/c2
 * C. a1/a2 = b1/b2 = c1/c2
@@ -28,10 +28,10 @@ Solution:
 Solution: (D) x = 8
 
 #### 3. The standard form of quadratic equation is :
-* A. ax^2˗bx+c=0 
-* B. ax^2+bx+c=0
-* C. ax^2˗bx˗c=0 
-* D. ax^2+bx˗c=0
+* A. ax<sup>2</sup>˗bx+c=0 
+* B. ax<sup>2</sup>+bx+c=0
+* C. ax<sup>2</sup>˗bx˗c=0 
+* D. ax<sup>2</sup>+bx˗c=0
 
 Solution: (B) ax^2+bx+c=0
 
