@@ -1,4 +1,4 @@
-# 2020-21 MODEL PAPER - 1 MATHEMATICS KSEEB
+# 2020-21 MODEL PAPER - 2 MATHEMATICS KSEEB
 * KARNATAKA SECONDARY EDUCATION EXAMINATION BOARD
 * Malleshwaram, Bengaluru - 560003.
 * 2020-21 MODEL PAPER - 1
@@ -119,9 +119,11 @@ OR
 #### 24. In the figure given below find the value of sinθ and cos∝ ?
 
 ## IV. Answer the following questions. 9 x 3 = 27
-#### 25. The sum of two natural numbers is 9 and the sum of their reciprocals is 9/20. Find the numbers.
+#### 25. A train travels 480 km at a uniform speed. If the speed had been 10km/h more, it would have taken 4 hours less for the same journey, find the speed of the train?.
 OR
-#### 25.The perimeter and area of a rectangular play ground are 80m and 384m2 respectively. Find the length and breadth of the play ground.
+#### 25.Find two consecutive odd positive integers, sum of whose squares is 290.
+[![](https://img.youtube.com/vi/NVh4bRmtOro/0.jpg)](https://www.youtube.com/watch?v=NVh4bRmtOro)
+
 #### 26. Prove that sin&theta;/(1-cot&theta;) + cos&theta;/(1-tan&theta;) = sin&theta; + cos&theta;
 [![](https://img.youtube.com/vi/XBmNCGUme4o/0.jpg)](https://www.youtube.com/watch?v=XBmNCGUme4o)
 [![](https://img.youtube.com/vi/TeHCiJnDVxg/0.jpg)](https://www.youtube.com/watch?v=TeHCiJnDVxg)
