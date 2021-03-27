@@ -124,12 +124,12 @@ OR
 #### 25.Find two consecutive odd positive integers, sum of whose squares is 290.
 [![](https://img.youtube.com/vi/NVh4bRmtOro/0.jpg)](https://www.youtube.com/watch?v=NVh4bRmtOro)
 
-#### 26. Prove that sin&theta;/(1-cot&theta;) + cos&theta;/(1-tan&theta;) = sin&theta; + cos&theta;
+#### 26. Prove that sinθ/(1-cotθ) + cosθ/(1-tanθ) = sinθ + cosθ
 [![](https://img.youtube.com/vi/XBmNCGUme4o/0.jpg)](https://www.youtube.com/watch?v=XBmNCGUme4o)
 [![](https://img.youtube.com/vi/TeHCiJnDVxg/0.jpg)](https://www.youtube.com/watch?v=TeHCiJnDVxg)
 #### OR
-#### 26. Prove that (cos&theta; - 2cos<sup>3</sup>&theta;)/(2sin<sup>3</sup>&theta; - sin&theta;) = cot&theta;
-[![](https://img.youtube.com/vi/S7YjAF2SD_g/0.jpg)](https://www.youtube.com/watch?v=S7YjAF2SD_g)
+#### 26. Prove that (cosθ - 2cos<sup>3</sup>θ)/(2sin<sup>3</sup>θ - sinθ) = cotθ
+#### 26. Prove that {Cosec (90-θ) - Sin (90-θ)} {(Cosecθ - Sin θ) (tanθ + cotθ)} = 1
 #### 27. From a point on the ground, the angles of elevation of the top and bottom of a transmission tower fixed at the top of a 20m high building are 60&deg; and 45&deg; respectively. Find the height of the transmission tower.
 #### 28. Find the value of ‘k’. If the co-ordinates of the points A(2, -2), B(-4, 2) and C(-7, k) are collinear.
 #### 29. Calculate the ‘mean’ for the frequency distribution table given below, by direct method.
