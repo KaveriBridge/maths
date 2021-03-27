@@ -9,8 +9,6 @@
 * Regular Fresh
 
 ## I. Four choices are given for each of incomplete / statement / questions. Choose the correct answer and write the complete answer along with its letter of alphabet. 8 x 1 = 8
-
-
 #### 1.The pair of lines a<sub>1</sub>x+b1y+c1=0 and a2x+b2y+c2=0 are intersecting lines then the ratio of their coefficients is
 * A. a1/a2 ≠ b1/b2
 * B. a1/a2 = b1/b2 ≠ c1/c2
@@ -48,6 +46,7 @@ Solution: (A)cos θ
  * B. 0 
  * C. 1 
  * D. 1/√3
+ 
 Solution: (C)1
 
 #### 6. In the given graph. The co-ordinate of point A is :
