@@ -128,7 +128,7 @@ OR
 #### 35. The third term of an arithmetic progression is 8 and its ninth term exceeds three times the third term by 2 find the sum of the first 19 terms.
 OR
 #### 35. In an arithmetic progressive the sum of the three terms is 24, and their product is 480, write three terms of the arithmetic progression?
-
+[![](https://img.youtube.com/vi/Z3sEzym6SQs/0.jpg)](https://www.youtube.com/watch?v=Z3sEzym6SQs)
 
 #### 36. A toy is in the form of a cone mounted on a hemisphere with the some radius is as shown in the figure. If the diameter of the conical portion is 6cm and its height is 4cm, then find the surface area of the toy.
 
