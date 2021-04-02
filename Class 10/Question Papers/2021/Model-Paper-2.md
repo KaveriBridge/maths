@@ -169,6 +169,7 @@ OR
 [![](https://img.youtube.com/vi/Z3sEzym6SQs/0.jpg)](https://www.youtube.com/watch?v=Z3sEzym6SQs)
 
 #### 36. A toy is in the form of a cone mounted on a hemisphere with the some radius is as shown in the figure. If the diameter of the conical portion is 6cm and its height is 4cm, then find the surface area of the toy.
+[![](https://img.youtube.com/vi/9gcbwqmJ8AQ/0.jpg)](https://www.youtube.com/watch?v=9gcbwqmJ8AQ)
 
 #### 37. Construct a triangle ABC of its sides BC=4cm, AB=6cm and AC=4.5cm then construct a triangle similar to it, whose sides are 23 of the corresponding sides of the triangle ABC.
 
