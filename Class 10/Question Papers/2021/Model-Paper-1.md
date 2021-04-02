@@ -129,6 +129,7 @@ OR
 #### 26. Prove that (cosθ - 2cos<sup>3</sup>θ)/(2sin<sup>3</sup>θ - sinθ) = cotθ
 [![](https://img.youtube.com/vi/S7YjAF2SD_g/0.jpg)](https://www.youtube.com/watch?v=S7YjAF2SD_g)
 #### 27. From a point on the ground, the angles of elevation of the top and bottom of a transmission tower fixed at the top of a 20m high building are 60&deg; and 45&deg; respectively. Find the height of the transmission tower.
+[![](https://img.youtube.com/vi/7KGYonumW1E/0.jpg)](https://www.youtube.com/watch?v=7KGYonumW1E)
 #### 28. Find the value of ‘k’. If the co-ordinates of the points A(2, -2), B(-4, 2) and C(-7, k) are collinear.
 #### 29. Calculate the ‘mean’ for the frequency distribution table given below, by direct method.
 #### 30. The following table gives the production yield per hectare of wheat of 100 farms of a village. Draw a ‘more than type ogive’ for the given data.
