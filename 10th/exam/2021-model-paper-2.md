@@ -144,8 +144,10 @@ OR
 [![](https://img.youtube.com/vi/NVh4bRmtOro/0.jpg)](https://www.youtube.com/watch?v=NVh4bRmtOro)
 
 #### 26. Prove that (sinθ - cosθ)/(sinθ + cosθ) + (sinθ + cosθ)/(sinθ - cosθ) = 2/(2sin<sup>2</sup>θ-1)
+[![](https://img.youtube.com/vi/POkRLFuEvcg/0.jpg)](https://www.youtube.com/watch?v=POkRLFuEvcg)
 #### OR
 #### 26. Prove that {Cosec (90-θ) - Sin (90-θ)} {(Cosecθ - Sin θ) (tanθ + cotθ)} = 1
+[![](https://img.youtube.com/vi/rLw25IQ0_jA/0.jpg)](https://www.youtube.com/watch?v=rLw25IQ0_jA)
 
 #### 27. From the top of a building 50√3 m high, the angle of depression of a car on the ground is observed to be 60°. Find the distance of the car from the foot of a building.
 #### 28. Find the area of triangle ABC, whose co-ordinates are A(4, -6), B(3, -2) and C(5, 2) then find the length of the median AD?
