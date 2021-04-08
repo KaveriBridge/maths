@@ -127,7 +127,10 @@ OR
 [![](https://img.youtube.com/vi/TeHCiJnDVxg/0.jpg)](https://www.youtube.com/watch?v=TeHCiJnDVxg)
 #### OR
 #### 26. Prove that (cosθ - 2cos<sup>3</sup>θ)/(2sin<sup>3</sup>θ - sinθ) = cotθ
+##### English medium
 [![](https://img.youtube.com/vi/S7YjAF2SD_g/0.jpg)](https://www.youtube.com/watch?v=S7YjAF2SD_g)
+##### Kannada medium
+[![](https://img.youtube.com/vi/sL_GAhCc_50/0.jpg)](https://www.youtube.com/watch?v=sL_GAhCc_50)
 #### 27. From a point on the ground, the angles of elevation of the top and bottom of a transmission tower fixed at the top of a 20m high building are 60&deg; and 45&deg; respectively. Find the height of the transmission tower.
 ##### English medium
 [![](https://img.youtube.com/vi/7KGYonumW1E/0.jpg)](https://www.youtube.com/watch?v=7KGYonumW1E)
