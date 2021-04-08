@@ -161,3 +161,5 @@ OR
 #### 37. A toy is made in the shape of a cylinder with one hemisphere stuck to one end and a cone to the other end, as shown in the figure, the length of the cylindrical part of the toy is 20cm and its diameter is 10cm. If the slant height of the cone is 13cm. Find the surface area of the toy.
 ## VI. Answer the following question : 1 x 5 = 5
 #### 38. Prove that the ratio of the areas of two similar triangles is equal to the square of the ratio of their corresponding sides.
+#### English medium - Explained in Kannada
+[![](https://img.youtube.com/vi/zhqZUhFTEJk/0.jpg)](https://www.youtube.com/watch?v=zhqZUhFTEJk)
