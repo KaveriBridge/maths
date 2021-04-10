@@ -46,10 +46,10 @@
 2
  × 104
 #### 7. Simplify:
-(i) (– 4)3
-(ii) (–3) × (–2)3
-(iii) (–3)2 × (–5)2
-(iv) (–2)3 × (–10)3
+(i) (–4)<sup>3</sup>
+(ii) (–3) × (–2)<sup>3</sup>
+(iii) (–3)<sup>2</sup> × (–5)<sup>2</sup>
+(iv) (–2)<sup>3</sup> × (–10)<sup>3</sup>
 #### 8. Compare the following numbers:
 (i) 2.7 × 10<sup>12</sup> ; 1.5 × 10<sup>8</sup>
 (ii) 4 × 10<sup>14</sup> ; 3 × 10<sup>17</sup>
