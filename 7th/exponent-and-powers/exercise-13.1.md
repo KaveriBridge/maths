@@ -1,4 +1,3 @@
-Markdown
 #### 1. Find the value of: (i) 2<sup>6</sup> (ii) 9<sup>3</sup> (iii) 11<sup>2</sup> (iv) 5<sup>4</sup>
 
 #### 2. Express the following in exponential form:
