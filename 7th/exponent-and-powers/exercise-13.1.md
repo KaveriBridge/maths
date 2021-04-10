@@ -13,38 +13,24 @@
 #### 3. Express each of the following numbers using exponential notation:
 (i) 512 (ii) 343 (iii) 729 (iv) 3125
 #### 4. Identify the greater number, wherever possible, in each of the following?
-(i) 4
-3
- or 34
-(ii) 5
-3
- or 35
-(iii) 2
-8
- or 82
-(iv) 1002
- or 2100 (v) 2
-10 or 102
+(i) 4<sup>3</sup> or 3<sup>4</sup>
+(ii) 5<sup>3</sup> or 3<sup>5</sup>
+(iii) 2<sup>8</sup> or 8<sup>2</sup>
+(iv) 100<sup>2</sup> or 2<sup>100</sup> 
+(v) 2<sup>10</sup> or 10<sup>2</sup>
+
 #### 5. Express each of the following as product of powers of their prime factors:
 (i) 648 (ii) 405 (iii) 540 (iv) 3,600
+
 #### 6. Simplify:
-(i) 2 × 103
-(ii) 7
-2
- × 22
-(iii) 2
-3
- × 5 (iv) 3 × 44
-(v) 0 × 102
-(vi) 5
-2
- × 33
-(vii) 2
-4
- × 32
-(viii) 3
-2
- × 104
+(i) 2 × 10<sup>3</sup>
+(ii) 7<sup>2</sup> × 2<sup>2</sup>
+(iii) 2<sup>3</sup> × 5 
+(iv) 3 × 4<sup>4</sup>
+(v) 0 × 10<sup>2</sup>
+(vi) 5<sup>2</sup> × 3<sup>3</sup>
+(vii) 2<sup>4</sup> × 3<sup>2</sup>
+(viii) 3<sup>2</sup> × 10<sup>4</sup>
 #### 7. Simplify:
 (i) (–4)<sup>3</sup>
 (ii) (–3) × (–2)<sup>3</sup>
