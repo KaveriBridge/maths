@@ -17,7 +17,7 @@
 #### 13. A round table cover has six equal designs as shown in Fig. 12.14. If the radius of the cover is 28 cm, find the cost of making the designs at the rate of ₹0.35 per cm2. (Use √3 = 1.7)
 
 #### 14. Tick the correct answer in the following : Area of a sector of angle p (in degrees) of a circle with radius R is
-(A) p/180 × 2πR
-(B) p/180 × πR<sup>2</sup>
-(C) p/360 × 2πR
-(D) p/720 × 2πR<sup>2</sup>
+* (A) p/180 × 2πR
+* (B) p/180 × πR<sup>2</sup>
+* (C) p/360 × 2πR
+* (D) p/720 × 2πR<sup>2</sup>
