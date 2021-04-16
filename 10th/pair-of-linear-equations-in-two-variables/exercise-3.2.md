@@ -3,9 +3,9 @@
 * (ii) 5 pencils and 7 pens together cost ₹50, whereas 7 pencils and 5 pens together cost ₹46. Find the cost of one pencil and that of one pen.
 
 #### 2. On comparing the ratios , find out whether the lines representing the following pairs of linear equations intersect at a point, are parallel or coincident:
-(i) 5x – 4y + 8 = 0; 7x + 6y – 9 = 0
-(ii) 9x + 3y + 12 = 0; 18x + 6y + 24 = 0
-(iii) 6x – 3y + 10 = 0; 2x – y + 9 = 0
+* (i) 5x – 4y + 8 = 0; 7x + 6y – 9 = 0
+* (ii) 9x + 3y + 12 = 0; 18x + 6y + 24 = 0
+* (iii) 6x – 3y + 10 = 0; 2x – y + 9 = 0
 
 
 #### 3. On comparing the ratios, find out whether the following pair of linear equations are consistent, or inconsistent.
