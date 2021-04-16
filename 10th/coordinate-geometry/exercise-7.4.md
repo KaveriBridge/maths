@@ -8,9 +8,9 @@
 #### 6. The vertices of a △ ABC are A(4, 6), B(1, 5) and C(7, 2). A line is drawn to intersect sides AB and AC at D and E respectively, such that AD/AB = AE/AC = 1/4. Calculate the area of the
 △ ADE and compare it with the area of △ ABC. (Recall Theorem 6.2 and Theorem 6.6).
 #### 7. Let A (4, 2), B(6, 5) and C(1, 4) be the vertices of △ ABC.
-(i) The median from A meets BC at D. Find the coordinates of the point D.
-(ii) Find the coordinates of the point P on AD such that AP : PD = 2 : 1
-(iii) Find the coordinates of points Q and R on medians BE and CF respectively such that BQ : QE = 2 : 1 and CR : RF = 2 : 1.
-(iv) What do you observe?
-(v) If A(x1, y1), B(x2, y2) and C(x3, y3) are the vertices of △ ABC, find the coordinates of the centroid of the triangle.
+* (i) The median from A meets BC at D. Find the coordinates of the point D.
+* (ii) Find the coordinates of the point P on AD such that AP : PD = 2 : 1
+* (iii) Find the coordinates of points Q and R on medians BE and CF respectively such that BQ : QE = 2 : 1 and CR : RF = 2 : 1.
+* (iv) What do you observe?
+* (v) If A(x1, y1), B(x2, y2) and C(x3, y3) are the vertices of △ ABC, find the coordinates of the centroid of the triangle.
 #### 8. ABCD is a rectangle formed by the points A(–1, –1), B(– 1, 4), C(5, 4) and D(5, – 1). P, Q, R and S are the mid-points of AB, BC, CD and DA respectively. Is the quadrilateral PQRS a square? a rectangle? or a rhombus? Justify your answer
