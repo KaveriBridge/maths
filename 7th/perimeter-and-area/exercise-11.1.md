@@ -1,4 +1,4 @@
-#### 1.The length and the breadth of a rectangular piece of land are 500 m and 300 m respectively. Find (i) its area (ii) the cost of the land, if 1 m2 of the land costs ₹ 10,000.
+#### 1.The length and the breadth of a rectangular piece of land are 500 m and 300 m respectively. Find (i) its area (ii) the cost of the land, if 1 m<sup>2</sup> of the land costs ₹ 10,000.
 #### 2. Find the area of a square park whose perimeter is 320 m.
 #### 3. Find the breadth of a rectangular plot of land, if its area is 440 m<sup>2</sup> and the length is 22 m. Also find its perimeter.
 #### 4. The perimeter of a rectangular sheet is 100 cm. If the length is 35 cm, find its breadth. Also find the area.
