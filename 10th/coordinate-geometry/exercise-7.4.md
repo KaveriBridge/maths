@@ -5,8 +5,7 @@
 #### 5. The Class X students of a secondary school in Krishinagar have been allotted a rectangular plot of land for their gardening activity. Sapling of Gulmohar are planted on the boundary at a distance of 1m from each other. There is a triangular grassy lawn in the plot as shown in the Fig. 7.14. The students are to sow seeds of flowering plants on the remaining area of the plot. 
 * (i) Taking A as origin, find the coordinates of the vertices of the triangle.
 * (ii) What will be the coordinates of the vertices of △ PQR if C is the origin? Also calculate the areas of the triangles in these cases. What do you observe?
-#### 6. The vertices of a △ ABC are A(4, 6), B(1, 5) and C(7, 2). A line is drawn to intersect sides AB and AC at D and E respectively, such that AD/AB = AE/AC = 1/4. Calculate the area of the
-△ ADE and compare it with the area of △ ABC. (Recall Theorem 6.2 and Theorem 6.6).
+#### 6. The vertices of a △ ABC are A(4, 6), B(1, 5) and C(7, 2). A line is drawn to intersect sides AB and AC at D and E respectively, such that AD/AB = AE/AC = 1/4. Calculate the area of the △ ADE and compare it with the area of △ ABC. (Recall Theorem 6.2 and Theorem 6.6).
 #### 7. Let A (4, 2), B(6, 5) and C(1, 4) be the vertices of △ ABC.
 * (i) The median from A meets BC at D. Find the coordinates of the point D.
 * (ii) Find the coordinates of the point P on AD such that AP : PD = 2 : 1
