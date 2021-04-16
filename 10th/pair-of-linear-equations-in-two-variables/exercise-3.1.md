@@ -1,0 +1,3 @@
+#### 1. Aftab tells his daughter, “Seven years ago, I was seven times as old as you were then. Also, three years from now, I shall be three times as old as you will be.” (Isn’t this interesting?) Represent this situation algebraically and graphically.
+#### 2. The coach of a cricket team buys 3 bats and 6 balls for ₹3900. Later, she buys another bat and 3 more balls of the same kind for ₹1300. Represent this situation algebraically and geometrically.
+#### 3. The cost of 2 kg of apples and 1kg of grapes on a day was found to be ₹160. After a month, the cost of 4 kg of apples and 2 kg of grapes is ₹300. Represent the situation algebraically and geometrically
