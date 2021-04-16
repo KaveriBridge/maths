@@ -1,3 +1,13 @@
+#### 1. Solve the following pair of linear equations by the substitution method.
+* (i) x + y = 14; x - y = 4
+* (ii) s – t = 3; s/3 + t/2 = 6
+* (iii) 3x – y = 3; 9x – 3y = 9
+* (iv) 0.2x + 0.3y = 1.3; 0.4x + 0.5y = 2.3
+* (v) √2x + √3y = 0; √3x-√8y = 0
+* (vi) 3x/2 -5y/3 = -2; x/3 + y/2 = 13/6
+
+#### 2. Solve 2x + 3y = 11 and 2x – 4y = – 24 and hence find the value of ‘m’ for which y = mx + 3.
+
 #### 3. Form the pair of linear equations for the following problems and find their solution by substitution method.
 * (i) The difference between two numbers is 26 and one number is three times the other. Find them.
 * (ii) The larger of two supplementary angles exceeds the smaller by 18 degrees. Find them.
