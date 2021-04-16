@@ -15,7 +15,14 @@
 * (iv) 5x – 3y = 11; – 10x + 6y = –22
 * (v) 4/3x + 2y = 8; 2x + 3y = 12
 
-#### 5. Half the perimeter of a rectangular garden, whose length is 4 m more than its width, is 36 m. Find the dimensions of the garden
+#### 4. Which of the following pairs of linear equations are consistent/inconsistent? If consistent, obtain the solution graphically:
+(i) x + y = 5, 2x + 2y = 10
+(ii) x – y = 8, 3x – 3y = 16
+(iii) 2x + y – 6 = 0, 4x – 2y – 4 = 0
+(iv) 2x – 2y – 2 = 0, 4x – 4y – 5 = 0
+
+#### 5. Half the perimeter of a rectangular garden, whose length is 4 m more than its width, is 36 m. Find the dimensions of the garden.
+
 #### 6. Given the linear equation 2x + 3y – 8 = 0, write another linear equation in two variables such that the geometrical representation of the pair so formed is: 
 * (i) intersecting lines 
 * (ii) parallel lines
