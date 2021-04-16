@@ -1,6 +1,6 @@
 ## Summary
 
-### Defnition
+### Definition
 In a right triangle ABC, right-angled at B, 
 * sin A = side opposite to angle A / hypotenuse 
 * cos A = side adjacent to angle A / hypotenuse
