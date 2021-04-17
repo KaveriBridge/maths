@@ -2,11 +2,13 @@
 ## Perimeter
 * Perimeter is the distance around a closed figure.
 * Area is the part of plane occupied by the closed figure.
-### Square and Rectangle
+### Square
 * (a) Perimeter of a square = 4 × side
-* (b) Perimeter of a rectangle = 2 × (length + breadth)
-* (c) Area of a square = side × side
-* (d) Area of a rectangle = length × breadth
+* (b) Area of a square = side × side
+
+### Rectangle
+* (a) Perimeter of a rectangle = 2 × (length + breadth)
+* (b) Area of a rectangle = length × breadth
 
 [![](https://img.youtube.com/vi/mnW-1XaggP8/0.jpg)](https://www.youtube.com/watch?v=mnW-1XaggP8)
 
