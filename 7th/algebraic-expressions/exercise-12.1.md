@@ -22,3 +22,5 @@
 * (d) xy + 2x<sup>2</sup>y<sup>2</sup>
 * (e) pq + q 
 * (f) 1.2 ab – 2.4 b + 3.6 a
+* (g) 3/4x +1/4
+* (h) 0.1 p<sup>2</sup> + 0.2 q<sup>2</sup>
