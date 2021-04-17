@@ -11,4 +11,4 @@
 [![](https://img.youtube.com/vi/4S8An4hcRZA/0.jpg)](https://www.youtube.com/watch?v=4S8An4hcRZA)
 #### 9. Two water taps together can fill a tank in 398 hours. The tap of larger diameter takes 10 hours less than the smaller one to fill the tank separately. Find the time in which each tap can separately fill the tank.
 #### 10. An express train takes 1 hour less than a passenger train to travel 132 km between Mysore and Bangalore (without taking into consideration the time they stop at intermediate stations). If the average speed of the express train is 11km/h more than that of the passenger train, find the average speed of the two trains.
-#### 11. Sum of the areas of two squares is 468 m2. If the difference of their perimeters is 24 m, find the sides of the two squares.
+#### 11. Sum of the areas of two squares is 468 m<sup>2</sup>. If the difference of their perimeters is 24 m, find the sides of the two squares.
