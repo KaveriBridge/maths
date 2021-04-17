@@ -23,6 +23,6 @@
 * Area of a circle = πr<sup>2</sup>, where r is the radius of the circle.
 ## Unit conversion
 * Based on the conversion of units for lengths, studied earlier, the units of areas can also be converted:
-* 1 cm2 = 100 mm<sup>2</sup>
-* 1 m2 = 10000 cm<sup>2</sup>
+* 1 cm<sup>2</sup> = 100 mm<sup>2</sup>
+* 1 m<sup>2</sup> = 10000 cm<sup>2</sup>
 * 1 hectare = 10000 m<sup>2</sup>
