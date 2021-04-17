@@ -61,7 +61,7 @@
 * (xii) 1 + x + x<sup>2</sup>
 #### 6. State whether a given pair of terms is of like or unlike terms.
 * (i) 1, 100 
-* (ii) –7x,52x 
+* (ii) –7x,5/2x 
 * (iii) – 29x, – 29y
 * (iv) 1/4xy, 4/2yx 
 * (v) 4m<sup>2</sup>p, 4mp<sup>2</sup>
