@@ -7,7 +7,9 @@
 * (b) Perimeter of a rectangle = 2 × (length + breadth)
 * (c) Area of a square = side × side
 * (d) Area of a rectangle = length × breadth
+
 [![](https://img.youtube.com/vi/mnW-1XaggP8/0.jpg)](https://www.youtube.com/watch?v=mnW-1XaggP8)
+
 ### Parallelogram
 * Area of a parallelogram = base × height
 ### Triangle
