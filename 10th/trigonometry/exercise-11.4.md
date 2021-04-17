@@ -1,22 +1,28 @@
 ### Questions
 #### 1: Express the trigonometric ratios sin A, sec A and tan A in terms of cot A.
-
-[![In Kannada on YouTube](https://img.youtube.com/vi/piqy3d9q_k8/0.jpg)](https://www.youtube.com/watch?v=piqy3d9q_k8)
+[![](https://img.youtube.com/vi/piqy3d9q_k8/0.jpg)](https://www.youtube.com/watch?v=piqy3d9q_k8)
 
 #### 2.Write all the other trigonometric ratios of  ∠A in terms of sec A.
-
 [![](https://img.youtube.com/vi/wCnzYvcNMI8/0.jpg)](https://www.youtube.com/watch?v=wCnzYvcNMI8)
 
+
+#### 4. Choose the correct option. Justify your choice.
+* (i) 9sec^2A – 9tan^2A =
+* (A) 1 (B) 9 (C) 8 (D) 0
+* (ii) (1 + tan θ + sec θ) (1 + cot θ – cosec θ) =
+* (A) 0 (B) 1 (C) 2 (D) –1
+* (iii) (sec A + tan A) (1 – sin A) =
+* (A) sec A (B) sin A (C) cosec A (D) cos A
+* (iv)221 tan A1 + cot A
 ##### 5.Prove the following identities, where the angles involved are acute angles for which the expressions are defined.
 ##### 5.(i)  (cosecθ - cotθ)<sup>2</sup> = (1 - cosθ)/(1 + cosθ)
-* (ii)
+##### 5.(ii) cosA/(1+sinA) + sinA/(1+cosA) = 2sec A
 ##### 5.(iii) tanθ/(1-cotθ) + cotθ/(1-tanθ) = 1 + secθ cosecθ 
 ##### 5.(iv)(1 + sec A)/(secA) = sin<sup>2</sup>A /(1 – cos A)
-* (v)
-* (vi)
-* (vii)
+##### 5.(v) (cos A – sin A + 1)/(cos A + sin A – 1) = cosec A + cot A,
+##### 5.(vi) √(1+sinA)/√(1-sinA) = secA + tanA
+##### 5.(vii) (sinθ-2sin^3θ)/(2cos^3θ-cosθ) = tanθ
 ##### 5.(viii) (sinA + cosecA)<sup>2</sup> + (cosA + secA)<sup>2</sup> = 7 + tan<sup>2</sup>A + cot<sup>2</sup>A
-* (ix)
+##### 5.(ix)(cosec A – sin A)(sec A – cos A) = 1 / (tanA +cotA)
 ##### 5.(x) (1+tan<sup>2</sup>A)/(1+cot<sup>2</sup>A) = ((1-tanA)/(1-cotA))<sup>2</sup> = tan<sup>2</sup>A
-
 [![](https://img.youtube.com/vi/FbcCjgW-hQQ/0.jpg)](https://www.youtube.com/watch?v=FbcCjgW-hQQ)
