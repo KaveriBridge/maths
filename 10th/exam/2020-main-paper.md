@@ -74,7 +74,7 @@
 
 ## II. Answer the following questions in a sentence each. 8 x 1 = 8
 
-#### 9. Express the denominator of 20/23 in the form of 2^n × 5^m and state whether the given fraction is terminating or non-terminating repeating decimal.
+#### 9. Express the denominator of 20/23 in the form of 2<sup>n</sup> × 5<sup>m</sup> and state whether the given fraction is terminating or non-terminating repeating decimal.
 
 #### 10.The following graph represents the polynomial y = p(x). Write the number of zeroes that p(x) has.
 [![](https://img.youtube.com/vi/sTZsT7fzMFc/0.jpg)](https://www.youtube.com/watch?v=sTZsT7fzMFc)
