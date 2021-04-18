@@ -17,5 +17,5 @@ pqr, p<sup>2</sup>q + pq<sup>2</sup>, <sup>2</sup>p + <sup>2</sup>q3.
 * (iv) l<sup>2</sup> + m<sup>2</sup>, m<sup>2</sup> + n<sup>2</sup>, n<sup>2</sup> + l<sup>2</sup>,<sup>2</sup>lm + <sup>2</sup>mn + <sup>2</sup>nl
 
 #### 4.(a) Subtract 4a - 7ab + 3b + 12 from 12a - 9ab + 5b - 3 5. 
-#### 4.(b) Subtract 3xy + 5yz - 7zx from 5xy - 2yz - 2zx + 10xyz<sup>6</sup>. 
-#### 4.(c) Subtract 4p<sup>2</sup>q - 3pq + 5pq<sup>2</sup> - 8p + 7q - 10 from 18 - 3p - 11q + 5pq - <sup>2</sup>pq<sup>2</sup> + 5p<sup>2</sup>q
+#### 4.(b) Subtract 3xy + 5yz - 7zx from 5xy - 2yz - 2zx + 10xyz 
+#### 4.(c) Subtract 4p<sup>2</sup>q - 3pq + 5pq<sup>2</sup> - 8p + 7q - 10 from 18 - 3p - 11q + 5pq - 2pq<sup>2</sup> + 5p<sup>2</sup>q
