@@ -1,3 +1,4 @@
+## Questions
 #### 1. What could be the possible ‘one’s’ digits of the square root of each of the following numbers?
 (i) 9801 (ii) 99856 (iii) 998001 (iv) 657666025
 #### 2. Without doing any calculation, find the numbers which are surely not perfect squares.
@@ -21,7 +22,7 @@
 1, 1, 1
 #### 8. 2025 plants are to be planted in a garden in such a way that each row contains as many plants as the number of rows. Find the number of rows and the number of plants in each row.
 
-##### YouTube video solution in Kannada 
+## YouTube video solution in Kannada 
 [![](https://img.youtube.com/vi/FDqlpLBYLsk/0.jpg)](https://www.youtube.com/watch?v=FDqlpLBYLsk)
 [![](https://img.youtube.com/vi/7KNrlwVJ8Ik/0.jpg)](https://www.youtube.com/watch?v=7KNrlwVJ8Ik)
 [![](https://img.youtube.com/vi/M6WapFJk8aw/0.jpg)](https://www.youtube.com/watch?v=M6WapFJk8aw)
