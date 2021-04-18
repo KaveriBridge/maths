@@ -1,18 +1,10 @@
 #### 1. Amina thinks of a number and subtracts 52 from it. She multiplies the result by 8. The result now obtained is 3 times the same number she thought of. What is the number?
 #### 2. A positive number is 5 times another number. If 21 is added to both the numbers, then one of the new numbers becomes twice the other new number. What are the numbers?
-#### 3. Sum of the digits of a two-digit number is 9. When we interchange the digits, it is found that the resulting new number is greater than the original number by 27. What
-is the two-digit number?
-#### 4. One of the two digits of a two digit number is three times the other digit. If you interchange the digits of this two-digit number and add the resulting number to the
-original number, you get 88. What is the original number?
-#### 5. Shobo’s mother’s present age is six times Shobo’s present age. Shobo’s age five years from now will be one third of his mother’s present age. What are their
-present ages?
-#### 6. There is a narrow rectangular plot, reserved for a school, in Mahuli village. The length and breadth of the plot are in the ratio 11:4. At the rate ₹100 per metre it will cost the village panchayat ₹75000 to fence the plot. What are the dimensions of
-the plot?
-#### 7. Hasan buys two kinds of cloth materials for school uniforms, shirt material that costs him ₹50 per metre and trouser material that costs him ₹90 per metre. For every 3 meters of the shirt material he buys 2 metres
-of the trouser material. He sells the materials at 12%
-and 10% profit respectively. His total sale is ₹36,600.
-How much trouser material did he buy?
-#### 8. Half of a herd of deer are grazing in the field and three fourths of the remaining are playing nearby. The rest 9 are drinking water from the pond. Find the number of
-deer in the herd.
+#### 3. Sum of the digits of a two-digit number is 9. When we interchange the digits, it is found that the resulting new number is greater than the original number by 27. What is the two-digit number?
+#### 4. One of the two digits of a two digit number is three times the other digit. If you interchange the digits of this two-digit number and add the resulting number to the original number, you get 88. What is the original number?
+#### 5. Shobo’s mother’s present age is six times Shobo’s present age. Shobo’s age five years from now will be one third of his mother’s present age. What are their present ages?
+#### 6. There is a narrow rectangular plot, reserved for a school, in Mahuli village. The length and breadth of the plot are in the ratio 11:4. At the rate ₹100 per metre it will cost the village panchayat ₹75000 to fence the plot. What are the dimensions of the plot?
+#### 7. Hasan buys two kinds of cloth materials for school uniforms, shirt material that costs him ₹50 per metre and trouser material that costs him ₹90 per metre. For every 3 meters of the shirt material he buys 2 metres of the trouser material. He sells the materials at 12% and 10% profit respectively. His total sale is ₹36,600. How much trouser material did he buy?
+#### 8. Half of a herd of deer are grazing in the field and three fourths of the remaining are playing nearby. The rest 9 are drinking water from the pond. Find the number of deer in the herd.
 #### 9. A grandfather is ten times older than his granddaughter. He is also 54 years older than her. Find their present ages. 
 #### 10. Aman’s age is three times his son’s age. Ten years ago he was five times his son’s age. Find their present ages.
