@@ -8,6 +8,7 @@
 * (iv) 5 × 5× 7 × 7 × 7 
 * (v) 2 × 2 × a × a 
 * (vi) a × a × a × c × c × c × c × d
+
 [![](https://img.youtube.com/vi/7v6fb1pLHPk/0.jpg)](https://www.youtube.com/watch?v=7v6fb1pLHPk)
 
 #### 3. Express each of the following numbers using exponential notation:
