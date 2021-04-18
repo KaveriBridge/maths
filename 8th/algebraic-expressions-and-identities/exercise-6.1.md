@@ -3,7 +3,7 @@
 * (ii) 1 + x + x<sup>2</sup>
 * (iii) 4x<sup>2</sup>y<sup>2</sup> - 4x<sup>2</sup>y<sup>2</sup>z<sup>2</sup> + z<sup>2</sup>
 * (iv) 3 - pq + qr - rp 
-* (v)<sup>2</sup> <sup>2</sup>x y+ - xy 
+* (v) x/2 + y/2 - xy 
 * (vi) 0.3a - 0.6ab + 0.5b
 
 #### 2. Classify the following polynomials as monomials, binomials, trinomials. Which polynomials do not fit in any of these three categories?
