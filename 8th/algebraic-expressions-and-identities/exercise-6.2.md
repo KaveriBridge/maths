@@ -7,7 +7,8 @@
 
 #### 4. Obtain the volume of rectangular boxes with the following length, breadth and height respectively.
 #### 5. Obtain the product of
-* (i) xy, yz, zx (ii) a, – a<sup>2</sup>, a<sup>3</sup>
+* (i) xy, yz, zx 
+* (ii) a, – a<sup>2</sup>, a<sup>3</sup>
 * (iii) 2, 4y, 8y<sup>2</sup>, 16y<sup>3</sup>
 * (iv) a, 2b, 3c, 6abc 
 * (v) m, – mn, mnp
