@@ -1,4 +1,4 @@
-#### 1. If you subtract 1/2 from a number and multiply the result by 1/2, you get 1/8. What isthe number?
+#### 1. If you subtract 1/2 from a number and multiply the result by 1/2, you get 1/8. What is the number?
 #### 2. The perimeter of a rectangular swimming pool is 154 m. Its length is 2 m more thantwice its breadth. What are the length and the breadth of the pool?
 #### 3. The base of an isosceles triangle is 4/3cm. The perimeter of the triangle is 4 2/15 cm. What is the length of either of the remaining equal sides?
 #### 4. Sum of two numbers is 95. If one exceeds the other by 15, find the numbers.
