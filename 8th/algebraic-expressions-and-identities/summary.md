@@ -9,8 +9,8 @@
 #### 9. In carrying out the multiplication of a polynomial by a binomial (or trinomial), we multiply term by term, i.e., every term of the polynomial is multiplied by every term in the binomial (or trinomial). Note that in such multiplication, we may get terms in the product which are like and have to be combined.
 #### 10. An identity is an equality, which is true for all values of the variables in the equality. On the other hand, an equation is true only for certain values of its variables. An equation is not anidentity.
 #### 11. The following are the standard identities:
-* (a + b)2 = a2 + 2ab + b2 (I)
-* (a – b)2 = a2 – 2ab + b2(II)
-* (a + b) (a – b) = a2 – b2(III)
+* (a + b)<sup>2</sup> = a<sup>2</sup> + 2ab + b<sup>2</sup> (I)
+* (a – b)<sup>2</sup> = a<sup>2</sup> – 2ab + b<sup>2</sup> (II)
+* (a + b) (a – b) = a<sup>2</sup> – b<sup>2</sup>(III)
 #### 12. Another useful identity is (x + a) (x + b) = x2 + (a + b) x + ab (IV)
 #### 13. The above four identities are useful in carrying out squares and products of algebraic expressions. They also allow easy alternative methods to calculate products of numbers and so on.
