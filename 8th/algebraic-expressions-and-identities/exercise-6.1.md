@@ -7,8 +7,16 @@
 * (vi) 0.3a - 0.6ab + 0.5b
 
 #### 2. Classify the following polynomials as monomials, binomials, trinomials. Which polynomials do not fit in any of these three categories?
-* x + y, 1000, x + x<sup>2</sup> + x3 + x4, 7 + y + 5x, <sup>2</sup>y - 3y<sup>2</sup>, <sup>2</sup>y - 3y<sup>2</sup> + 4y3, 5x - 4y + 3xy,4z - 15z<sup>2</sup>, ab + bc + cd + da, 
-pqr, p<sup>2</sup>q + pq<sup>2</sup>, <sup>2</sup>p + <sup>2</sup>q3. 
+* x + y,
+* 1000, 
+* x + x<sup>2</sup> + x3 + x4, 
+* 7 + y + 5x, <sup>2</sup>y - 3y<sup>2</sup>, 
+* 2y - 3y<sup>2</sup> + 4y<sup>3</sup>, 
+* 5x - 4y + 3xy,
+* 4z - 15z<sup>2</sup>, 
+* ab + bc + cd + da, 
+* pqr, 
+* p<sup>2</sup>q + pq<sup>2</sup>, 2p + 2q<sup>3</sup>. 
 
 #### 3. Add the following.
 * (i) ab - bc, bc - ca, ca - ab 
