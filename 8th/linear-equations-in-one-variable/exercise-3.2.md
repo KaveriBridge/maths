@@ -1,6 +1,13 @@
 #### 1. If you subtract 1/2 from a number and multiply the result by 1/2, you get 1/8. What is the number?
+##### Solution explained in English and Kannada - YouTube video link
+[![](https://img.youtube.com/vi/_77nGFH5iWw/0.jpg)](https://www.youtube.com/watch?v=_77nGFH5iWw)
 #### 2. The perimeter of a rectangular swimming pool is 154 m. Its length is 2 m more thantwice its breadth. What are the length and the breadth of the pool?
+##### Solution explained in English and Kannada - YouTube video link
+[![](https://img.youtube.com/vi/_77nGFH5iWw/0.jpg)](https://www.youtube.com/watch?v=_77nGFH5iWw)
 #### 3. The base of an isosceles triangle is 4/3cm. The perimeter of the triangle is 4 2/15 cm. What is the length of either of the remaining equal sides?
+##### Solution explained in English and Kannada - YouTube video link
+[![](https://img.youtube.com/vi/_77nGFH5iWw/0.jpg)](https://www.youtube.com/watch?v=_77nGFH5iWw)
+
 #### 4. Sum of two numbers is 95. If one exceeds the other by 15, find the numbers.
 #### 5. Two numbers are in the ratio 5:3. If they differ by 18, what are the numbers?
 #### 6. Three consecutive integers add up to 51. What are these integers?
