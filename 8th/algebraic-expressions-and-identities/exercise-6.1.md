@@ -13,8 +13,8 @@ pqr, p<sup>2</sup>q + pq<sup>2</sup>, <sup>2</sup>p + <sup>2</sup>q3.
 #### 3. Add the following.
 * (i) ab - bc, bc - ca, ca - ab 
 * (ii) a - b + ab, b - c + bc, c - a + ac
-* (iii) <sup>2</sup>p<sup>2</sup>q<sup>2</sup> - 3pq + 4, 5 + 7pq - 3p<sup>2</sup>q<sup>2</sup>
-* (iv) l<sup>2</sup> + m<sup>2</sup>, m<sup>2</sup> + n<sup>2</sup>, n<sup>2</sup> + l<sup>2</sup>,<sup>2</sup>lm + <sup>2</sup>mn + <sup>2</sup>nl
+* (iii) 2p<sup>2</sup>q<sup>2</sup> - 3pq + 4, 5 + 7pq - 3p<sup>2</sup>q<sup>2</sup>
+* (iv) l<sup>2</sup> + m<sup>2</sup>, m<sup>2</sup> + n<sup>2</sup>, n<sup>2</sup> + l<sup>2</sup>,2lm + 2mn + 2nl
 
 #### 4.(a) Subtract 4a - 7ab + 3b + 12 from 12a - 9ab + 5b - 3 5. 
 #### 4.(b) Subtract 3xy + 5yz - 7zx from 5xy - 2yz - 2zx + 10xyz 
