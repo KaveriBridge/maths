@@ -16,7 +16,7 @@
 * 4z - 15z<sup>2</sup>, 
 * ab + bc + cd + da, 
 * pqr, 
-* p<sup>2</sup>q + pq<sup>2</sup>, 2p + 2q<sup>3</sup>. 
+* p<sup>2</sup>q + pq<sup>2</sup>, 2p + 2q
 
 #### 3. Add the following.
 * (i) ab - bc, bc - ca, ca - ab 
