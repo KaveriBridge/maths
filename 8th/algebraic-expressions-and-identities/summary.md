@@ -12,5 +12,5 @@
 * (a + b)<sup>2</sup> = a<sup>2</sup> + 2ab + b<sup>2</sup> (I)
 * (a – b)<sup>2</sup> = a<sup>2</sup> – 2ab + b<sup>2</sup> (II)
 * (a + b) (a – b) = a<sup>2</sup> – b<sup>2</sup>(III)
-#### 12. Another useful identity is (x + a) (x + b) = x2 + (a + b) x + ab (IV)
+#### 12. Another useful identity is (x + a) (x + b) = x<sup>2</sup> + (a + b) x + ab (IV)
 #### 13. The above four identities are useful in carrying out squares and products of algebraic expressions. They also allow easy alternative methods to calculate products of numbers and so on.
