@@ -13,3 +13,6 @@
 (a) If AB = 6 cm, BC = 8 cm, find AC (b) If AC = 13 cm, BC = 5 cm, find AB
 #### 8. A gardener has 1000 plants. He wants to plant these in such a way that the number of rows and the number of columns remain same. Find the minimum number of plants he needs more for this.
 #### 9. There are 500 children in a school. For a P.T. drill they have to stand in such a manner that the number of rows is equal to number of columns. How many children would be left out in this arrangement.
+
+##### YouTube video for Q6-Q9 in Kannada 
+vU6Wq1ECrkQ
