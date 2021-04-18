@@ -15,4 +15,5 @@
 #### 9. There are 500 children in a school. For a P.T. drill they have to stand in such a manner that the number of rows is equal to number of columns. How many children would be left out in this arrangement.
 
 ##### YouTube video for Q6-Q9 in Kannada 
-vU6Wq1ECrkQ
+[![](https://img.youtube.com/vi/vU6Wq1ECrkQ/0.jpg)](https://www.youtube.com/watch?v=vU6Wq1ECrkQ)
+
