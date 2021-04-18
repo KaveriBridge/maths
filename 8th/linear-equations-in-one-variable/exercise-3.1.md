@@ -12,5 +12,5 @@
 11. 17 + 6p = 9 
 12. x/3 + 1 = 7/15
 
-
+##### Solution explained in English and Kannada - YouTube video link
 [![](https://img.youtube.com/vi/zmd2QgIBjyo/0.jpg)](https://www.youtube.com/watch?v=zmd2QgIBjyo)
