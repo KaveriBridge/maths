@@ -1,4 +1,4 @@
-#### 1. Amina thinks of a number and subtracts 52 from it. She multiplies the result by 8. The result now obtained is 3 times the same number she thought of. What is the number?
+#### 1. Amina thinks of a number and subtracts 5/2 from it. She multiplies the result by 8. The result now obtained is 3 times the same number she thought of. What is the number?
 #### 2. A positive number is 5 times another number. If 21 is added to both the numbers, then one of the new numbers becomes twice the other new number. What are the numbers?
 #### 3. Sum of the digits of a two-digit number is 9. When we interchange the digits, it is found that the resulting new number is greater than the original number by 27. What is the two-digit number?
 #### 4. One of the two digits of a two digit number is three times the other digit. If you interchange the digits of this two-digit number and add the resulting number to the original number, you get 88. What is the original number?
