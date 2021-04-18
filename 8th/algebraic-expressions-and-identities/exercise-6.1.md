@@ -9,7 +9,7 @@
 #### 2. Classify the following polynomials as monomials, binomials, trinomials. Which polynomials do not fit in any of these three categories?
 * x + y,
 * 1000, 
-* x + x<sup>2</sup> + x3 + x4, 
+* x + x<sup>2</sup> + x<sup>3</sup> + x<sup>4</sup>, 
 * 7 + y + 5x, 
 * 2y - 3y<sup>2</sup>, 
 * 2y - 3y<sup>2</sup> + 4y<sup>3</sup>, 
