@@ -5,7 +5,7 @@
 * (iii) (2.5l – 0.5m) and (2.5l + 0.5m) 
 * (iv) (a + 3b) and (x + 5)
 * (v) (2pq + 3q<sup>2</sup>) and (3pq – 2q<sup>2</sup>)
-* (vi) (3/4a^2 + 3b^2) and 4(a^2 -2/3b^2)
+* (vi) (3/4a<sup>2</sup> + 3b<sup>2</sup>) and 4(a<sup>2</sup> -2/3b<sup>2</sup>)
 #### 2. Find the product.
 * (i) (5 – 2x) (3 + x) 
 * (ii) (x + 7y) (7x – y)
