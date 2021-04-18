@@ -20,3 +20,8 @@
 5 1, 1, 5
 1, 1, 1
 #### 8. 2025 plants are to be planted in a garden in such a way that each row contains as many plants as the number of rows. Find the number of rows and the number of plants in each row.
+
+https://www.youtube.com/watch?v=FDqlpLBYLsk
+https://www.youtube.com/watch?v=7KNrlwVJ8Ik
+https://www.youtube.com/watch?v=M6WapFJk8aw
+https://www.youtube.com/watch?v=7xplja7R5J8
