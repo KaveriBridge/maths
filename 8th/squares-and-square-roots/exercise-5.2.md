@@ -1,3 +1,4 @@
+## Problems - Exercise 5.2
 #### 1. Find the square of the following numbers.
 (i) 32 
 (ii) 35 
@@ -11,4 +12,6 @@
 (iii) 16 
 (iv) 18
 
-https://www.youtube.com/watch?v=xwBFa705zUs
+## YouTube video solution in Kannada 
+[![](https://img.youtube.com/vi/xwBFa705zUs/0.jpg)](https://www.youtube.com/watch?v=xwBFa705zUs)
+
