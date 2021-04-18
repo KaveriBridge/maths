@@ -17,6 +17,6 @@
 * (iii) (t + s<sup>2</sup>) (t<sup>2</sup> – s)
 * (iv) (a + b) (c – d) + (a – b) (c + d) + 2 (ac + bd)
 * (v) (x + y)(2x + y) + (x + 2y)(x – y) 
-* (vi) (x + y)(x<sup>2</sup> – xy + <sup>y2</sup>)
+* (vi) (x + y)(x<sup>2</sup> – xy + y<sup>2</sup>)
 * (vii) (1.5x – 4y)(1.5x + 4y + 3) – 4.5x + 12y
 * (viii) (a + b + c)(a + b – c)
