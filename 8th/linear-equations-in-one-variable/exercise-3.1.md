@@ -11,3 +11,4 @@
 10. 14y – 8 = 13 
 11. 17 + 6p = 9 
 12. x/3 + 1 = 7/15
+[![](https://img.youtube.com/vi/zmd2QgIBjyo/0.jpg)](https://www.youtube.com/watch?v=zmd2QgIBjyo)
