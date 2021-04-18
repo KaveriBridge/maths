@@ -9,3 +9,7 @@
 #### 8. 2x/3 + 1 = 7x/15 + 3
 #### 9. 2y + 5/3 = 26/3 - y
 #### 10. 3m = 5m – 8/5
+
+
+## YouTube video in Kannada
+https://www.youtube.com/watch?v=Ezv3u8fFDhU
