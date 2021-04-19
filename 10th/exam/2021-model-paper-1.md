@@ -143,6 +143,9 @@ OR
 #### 31. Prove that “the tangent at any point of a circle is perpendicular to the radius through the point of contact”.
 #### 32. Draw a pair of tangents to a circle of radius 4cm which are inclined to each other at an angle of 70&deg;  and write the measure of its length.
 #### 33. A right circular metalic cone of height 20cm and base radius 5cm is melted and recast into a solid sphere. Find the radius of the sphere.
+##### English medium - Explained in Kannada and English
+[![](https://img.youtube.com/vi/wHoCw4ws2n0/0.jpg)](https://www.youtube.com/watch?v=wHoCw4ws2n0)
+
 OR
 #### 33. A solid sphere of radius 3cm is melted and reformed by stretching it into a cylindrical shaped wire of length 9m. Find the radius of the wire
 
