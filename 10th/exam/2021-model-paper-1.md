@@ -148,6 +148,7 @@ OR
 
 OR
 #### 33. A solid sphere of radius 3cm is melted and reformed by stretching it into a cylindrical shaped wire of length 9m. Find the radius of the wire
+[![](https://img.youtube.com/vi/CIPoqaoInNY/0.jpg)](https://www.youtube.com/watch?v=CIPoqaoInNY)
 
 ## V. Answer the following. 4 x 4 = 16
 #### 34. Find the solution of the following pair of linear equations by the graphical method.
