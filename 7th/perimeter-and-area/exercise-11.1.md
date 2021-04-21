@@ -6,4 +6,5 @@
 #### 5. The area of a square park is the same as of a rectangular park. If the side of the square park is 60 m and the length of the rectangular park is 90 m, find the breadth of the rectangular park.
 #### 6. A wire is in the shape of a rectangle. Its length is 40 cm and breadth is 22 cm. If the ame wire is rebent in the shape of a square, what will be the measure of each side. Also find which shape encloses more area?
 #### 7. The perimeter of a rectangle is 130 cm. If the breadth of the rectangle is 30 cm, find its length. Also find the area of the rectangle.
+[![](https://img.youtube.com/vi/pnEOBZM4LNE/0.jpg)](https://www.youtube.com/watch?v=pnEOBZM4LNE)
 #### 8. A door of length 2 m and breadth 1m is fitted in a wall. The length of the wall is 4.5 m and the breadth is 3.6 m (Fig11.6). Find the cost of white washing the wall, if the rate of white washing the wall is  ₹20 per m<sup>2</sup>.
