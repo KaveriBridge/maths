@@ -67,35 +67,27 @@
 
 #### 9. In two linear equations 0 1 1 1 a x + b y + c = and 0 2 2 2 a x + b y + c = , if ≠ , then write the number of solutions these pair of equations have
 
-#### 10.If cos θ = 24/25, then write the value of sec θ
+#### 10.If cos θ = 24/25, then write the value of sec θ.
 
-
-#### 11.In the figure, O is the centre of a circle, AC is a diameter. If ACB = 50°, then find the measure of BAC .
+#### 11.In the figure, O is the centre of a circle, AC is a diameter. If ∠ACB = 50°, then find the measure of ∠BAC .
 
 #### 12.Write the formula to find the total surface area of a right-circular cone whose circular base radius is ‘r’ and slant height is ‘l’. 
 
-#### 13.Find the H.C.F. of the smallest prime number and the smallest composite number
+#### 13.Find the H.C.F. of the smallest prime number and the smallest composite number.
 
 #### 14. If P(x) = 2x^3 + 3x^2 − 11x + 6, then find the value of P(1).
 [![](https://img.youtube.com/vi/dt4_T4bdswo/0.jpg)](https://www.youtube.com/watch?v=dt4_T4bdswo)
 
-#### 15.If one root of the equation ( x + 4 ) ( x + 3 ) = 0 is – 4, then find the another root of the equation. 
+#### 15.If one root of the equation (x + 4)(x + 3)= 0 is – 4, then find the another root of the equation. 
 
 #### 16.If sin^2 A = 0, then find the value of cos A. 
-
 
 ## III. Answer the following questions. 8 x 2 = 16
 #### 17. Solve the following pair of linear equations : 2x + 3y = 11, 2x – 4y = – 24 
 
-
 #### 18. Find the sum of first 20 terms of arithmetic series 5 + 10 + 15 + ..... using suitable formula. 
-
-
-#### 19. Find the value of k of the polynomial P ( x ) = 2x − 6x + k 2 , such that the sum of zeros of it is equal to half of the product of their zeros
-
-
-#### 20. Find the value of the discriminant of the quadratic equation 2 5 1 0 2x − x − = , and hence write the nature of its roots
-
+#### 19. Find the value of k of the polynomial P (x) = 2x^2 − 6x + k, such that the sum of zeros of it is equal to half of the product of their zeros.
+#### 20. Find the value of the discriminant of the quadratic equation 2 5 1 0 2x − x − = , and hence write the nature of its roots.
 
 #### 21. Prove that cosec A ( 1 – cos A ) ( cosec A + cot A ) = 1. 
 #### OR
@@ -123,7 +115,7 @@ OR
 
 ## V. Answer the following. 4 x 4 = 16
 #### 34. Find the solution of the following pair of linear equations by the graphical method.: 2x + y = 8, x + y = 5
-
+[![](https://img.youtube.com/vi/W5cCaNhzKZo/0.jpg)](https://www.youtube.com/watch?v=W5cCaNhzKZo)
 
 #### 35. An aircraft flying parallel to the ground in the sky from the point A through the point B is observed, the angle of elevation of aircraft at A from a point on the level ground is 60°, after 10 seconds it is observed that the angle of elevation of aircraft at B is found to be 30° from the same point. Find at what height the aircraft is flying, if the velocity of aircraft is 648 km/hr.
 
