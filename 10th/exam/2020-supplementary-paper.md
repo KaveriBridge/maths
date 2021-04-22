@@ -47,13 +47,13 @@
 * (C) – 5 
 * (D) 25.
 
-[![](https://img.youtube.com/vi/socQ_phUP7A/0.jpg)](https://www.youtube.com/watch?v=socQ_phUP7A)
 
 #### 7. If P(A) = 2/3, then P(Ā) is
 * (A) 1/3 
 * (B) 3
 * (C) 1 
 * (D) 3/2.
+
 [![](https://img.youtube.com/vi/Q2wBA3bFUfw/0.jpg)](https://www.youtube.com/watch?v=Q2wBA3bFUfw)
 
 #### 8.The surface area of a sphere of radius 7 cm is
@@ -62,7 +62,6 @@
 * (C) 616 cm2 
 * (D) 308 cm2
 
-[![](https://img.youtube.com/vi/R54qKQfYOE0/0.jpg)](https://www.youtube.com/watch?v=R54qKQfYOE0)
 
 ## II. Answer the following questions in a sentence each. 8 x 1 = 8
 
