@@ -12,7 +12,7 @@
 ## I. Four alternatives are given for each of the following questions / incomplete statements. Choose the correct alternative and write the complete answer along with its letter of alphabet. 8 x 1 = 8
 
 #### 1.In the given graph, the number of zeros of the polynomial y = p(x) is
-[![](https://img.youtube.com/vi/1mFOZY5-Cd0/0.jpg)](https://www.youtube.com/watch?v=1mFOZY5-Cd0)
+[![](https://img.youtube.com/vi/gnHhK3iEVXw/0.jpg)](https://www.youtube.com/watch?v=gnHhK3iEVXw)
 
 #### 2.The value of sec<sup>2</sup> 26° − tan<sup>2</sup> 26° is:
 * A. 1/2
@@ -31,7 +31,7 @@
 * (C) 90 cm3 
 * (D) 360 cm3
 
-[![](https://img.youtube.com/vi/cUGgtTqswk8/0.jpg)](https://www.youtube.com/watch?v=cUGgtTqswk8)
+[![](https://img.youtube.com/vi/au2r2Rwd4tw/0.jpg)](https://www.youtube.com/watch?v=au2r2Rwd4tw)
 
 
 #### 5. The lines represented by x + 2y – 4 = 0 and 2x + 4y – 12 = 0 are,
@@ -53,8 +53,7 @@
 * (B) 3
 * (C) 1 
 * (D) 3/2.
-
-[![](https://img.youtube.com/vi/l4WpPkJSqPI/0.jpg)](https://www.youtube.com/watch?v=l4WpPkJSqPI)
+[![](https://img.youtube.com/vi/Q2wBA3bFUfw/0.jpg)](https://www.youtube.com/watch?v=Q2wBA3bFUfw)
 
 #### 8.The surface area of a sphere of radius 7 cm is
 * (A) 154 cm2 
@@ -77,9 +76,11 @@
 #### 12.Find the coordinates of the mid-point of the line joining the points ( x1, y1) and ( x2, y2).
 [![](https://img.youtube.com/vi/wOBj0USqWUk/0.jpg)](https://www.youtube.com/watch?v=wOBj0USqWUk)
 
+
 #### 13.State “Basic proportionality theorem”.
 
-#### 14.In the figure AB and AC are the two tangents drawn from the point A to the circle with centre O. If &angle;BOC = 130° then find &angle;BAC.
+#### 14. If P(x) = 2x^3 + 3x^2 − 11x + 6, then find the value of P(1).
+[![](https://img.youtube.com/vi/dt4_T4bdswo/0.jpg)](https://www.youtube.com/watch?v=dt4_T4bdswo)
 
 #### 15.Write (x+1)/2 = 1/x in the standard form of a quadratic equation
 [![](https://img.youtube.com/vi/BIBlOyMMQ-E/0.jpg)](https://www.youtube.com/watch?v=BIBlOyMMQ-E)
