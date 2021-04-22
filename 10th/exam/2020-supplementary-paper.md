@@ -125,4 +125,5 @@ OR
 #### 37. A right circular cone of height 30 cm is cut and removed by a plane parallel to its base from the vertex. If the volume of smaller cone obtained is 271 of the volume of the given cone, calculate the height of the remaining part of the cone
 
 ## VI. Answer the following question : 1 x 5 = 5
-#### 38. The common difference of two different arithmetic progressions are equal. The first term of the first progression is 3 more than the first term of second progression. If the 7th term of first progression is 28 and 8th term of second progression is 29, then find the both different arithmetic progressions
+#### 38. The common difference of two different arithmetic progressions are equal. The first term of the first progression is 3 more than the first term of second progression. If the 7th term of first progression is 28 and 8th term of second progression is 29, then find the both different arithmetic progressions.
+[![](https://img.youtube.com/vi/fZC0-k-mDYU/0.jpg)](https://www.youtube.com/watch?v=fZC0-k-mDYU)
