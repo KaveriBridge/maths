@@ -118,6 +118,7 @@ OR
 [![](https://img.youtube.com/vi/W5cCaNhzKZo/0.jpg)](https://www.youtube.com/watch?v=W5cCaNhzKZo)
 
 #### 35. An aircraft flying parallel to the ground in the sky from the point A through the point B is observed, the angle of elevation of aircraft at A from a point on the level ground is 60°, after 10 seconds it is observed that the angle of elevation of aircraft at B is found to be 30° from the same point. Find at what height the aircraft is flying, if the velocity of aircraft is 648 km/hr.
+[![](https://img.youtube.com/vi/n6HcDNHKCpw/0.jpg)](https://www.youtube.com/watch?v=n6HcDNHKCpw)
 
 #### 36. Prove that “if in two triangles, corresponding angles are equal, then their corresponding sides are in the same ratio ( or proportion ) and hence the two triangles are similar”. 
 #### 37. A medicine capsule is in the shape of a cylinder with hemispheres stuck to each of its ends. The length of the entire capsule is 14 mm and the diameter of the capsule is 5 mm. Find its surface area
