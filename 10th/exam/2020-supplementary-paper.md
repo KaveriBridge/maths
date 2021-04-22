@@ -1,5 +1,5 @@
 
-# 2020 MAIN PAPER - MATHEMATICS KSEEB
+# 2020 Supplementary PAPER - MATHEMATICS KSEEB
 * KARNATAKA SECONDARY EDUCATION EXAMINATION BOARD
 * Malleshwaram, Bengaluru - 560003.
 * Subject : MATHEMATICS 
@@ -7,69 +7,60 @@
 * Time : 3 hrs. 15 minutes 
 * Max. Marks : 80
 * English Medium
-* Regular Fresh
+* Regular Repeater
 
 ## I. Four alternatives are given for each of the following questions / incomplete statements. Choose the correct alternative and write the complete answer along with its letter of alphabet. 8 x 1 = 8
 
-#### 1.In the pair of linear equations a<sub>1</sub>x+b<sub>1</sub>y+c=0 and a<sub>2</sub>x+b<sub>1</sub>y+c=0, if a<sub>1</sub>/a<sub>2</sub> ≠ b<sub>1</sub>/b<sub>2</sub> then the
-* A. equations have no solution 
-* B. equations have unique solution 
-* C. equations have three solutions 
-* D. equations have infinitely many solutions
-
+#### 1.In the given graph, the number of zeros of the polynomial y = p(x) is
 [![](https://img.youtube.com/vi/1mFOZY5-Cd0/0.jpg)](https://www.youtube.com/watch?v=1mFOZY5-Cd0)
 
-#### 2. In an arithmetic progression, if a<sub>n</sub> = 2n + 1 , then the common difference of the given progression is:
-* A. 0
-* B. 1 
+#### 2.The value of sec<sup>2</sup> 26° − tan<sup>2</sup> 26° is:
+* A. 1/2
+* B. 0 
 * C. 2
-* D. 3
+* D. 1
 
 [![](https://img.youtube.com/vi/aW6dlH2xF_I/0.jpg)](https://www.youtube.com/watch?v=aW6dlH2xF_I)
 
-#### 3.The degree of a linear polynomial is
-* A. 0
-* B. 1 
-* C. 2
-* D. 3
+#### 3. In the Δ ABC, if DE || AC, then the correct relation is
 
-[![](https://img.youtube.com/vi/vdezWTRD8dU/0.jpg)](https://www.youtube.com/watch?v=vdezWTRD8dU)
 
-#### 4.If 13 sin θ = 12, then the value of cosec θ is
-* A. 12/5
-* B. 13/5
-* C. 12/13
-* D. 13/12
+#### 4.The base radius and height of a right circular cylinder and a right circular cone are equal and if the volume of the cylinder is 360 cm3 , then the volume of cone is
+* (A) 120 cm3 
+* (B) 180 cm3
+* (C) 90 cm3 
+* (D) 360 cm3
 
 [![](https://img.youtube.com/vi/cUGgtTqswk8/0.jpg)](https://www.youtube.com/watch?v=cUGgtTqswk8)
 
-#### 5. In the figure, if Δ POQ ~ Δ SOR and PQ : RS = 1 : 2, then OP : OS is
- * A. 1:2
- * B. 2:1
- * C. 3:1
- * D. 1:3
 
-#### 6. A straight line passing through a point on a circle is 
-* A. a tangent
-* B. a secant
-* C. a radius
-* D. a transversal
+#### 5. The lines represented by x + 2y – 4 = 0 and 2x + 4y – 12 = 0 are,
+* (A) intersecting lines
+* (B) parallel lines
+* (C) coincident lines
+* (D) perpendicular lines to each other
+ 
+#### 6. If the nth term of an arithmetic progression an = 3n − 2 , then its 9th term is
+* (A) – 25 
+* (B) 5
+* (C) – 5 
+* (D) 25.
 
 [![](https://img.youtube.com/vi/socQ_phUP7A/0.jpg)](https://www.youtube.com/watch?v=socQ_phUP7A)
 
-#### 7. Length of an arc of a sector of a circle of radius r and angle θ is
-* A. θ/360&deg; × πr<sup>2</sup>
-* B. θ/360&deg; × 2πr<sup>2</sup>
-* C. θ/180&deg; × 2πr
-* D. θ/360&deg; × 2πr
+#### 7. If P(A) = 2/3, then P(Ā) is
+* (A) 1/3 
+* (B) 3
+* (C) 1 
+* (D) 3/2.
 
 [![](https://img.youtube.com/vi/l4WpPkJSqPI/0.jpg)](https://www.youtube.com/watch?v=l4WpPkJSqPI)
 
-#### 8.If the area of the circular base of a cylinder is 22 cm2 and its height is 10 cm, then the volume of the cylinder is
-* A. 2200 cm<sup>2</sup>
-* B. 2200 cm<sup>3</sup>
-* C. 220 cm<sup>3</sup>
-* D. 220 cm<sup>2</sup>
+#### 8.The surface area of a sphere of radius 7 cm is
+* (A) 154 cm2 
+* (B) 616 cm3
+* (C) 616 cm2 
+* (D) 308 cm2
 
 [![](https://img.youtube.com/vi/R54qKQfYOE0/0.jpg)](https://www.youtube.com/watch?v=R54qKQfYOE0)
 
