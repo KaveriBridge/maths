@@ -93,7 +93,10 @@
 [![](https://img.youtube.com/vi/p7MYsdyHhDU/0.jpg)](https://www.youtube.com/watch?v=p7MYsdyHhDU)
 
 #### 19. Find the value of k of the polynomial P (x) = 2x^2 − 6x + k, such that the sum of zeros of it is equal to half of the product of their zeros.
+[![](https://img.youtube.com/vi/E14qpOBBniA/0.jpg)](https://www.youtube.com/watch?v=E14qpOBBniA)
+
 #### 20. Find the value of the discriminant of the quadratic equation 2x^2 -5x -1 =0 , and hence write the nature of its roots.
+[![](https://img.youtube.com/vi/HUq1CZVhqJw/0.jpg)](https://www.youtube.com/watch?v=HUq1CZVhqJw)
 
 #### 21. Prove that cosec A ( 1 – cos A ) ( cosec A + cot A ) = 1. 
 [![](https://img.youtube.com/vi/mmH_l1_fimE/0.jpg)](https://www.youtube.com/watch?v=mmH_l1_fimE)
