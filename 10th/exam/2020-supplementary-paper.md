@@ -20,7 +20,8 @@
 * C. 2
 * D. 1
 
-[![](https://img.youtube.com/vi/aW6dlH2xF_I/0.jpg)](https://www.youtube.com/watch?v=aW6dlH2xF_I)
+[![](https://img.youtube.com/vi/U-BUU8TdLEA/0.jpg)](https://www.youtube.com/watch?v=U-BUU8TdLEA)
+
 
 #### 3. In the Δ ABC, if DE || AC, then the correct relation is
 
