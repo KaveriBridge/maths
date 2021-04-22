@@ -120,6 +120,7 @@ OR
 
 ## IV. Answer the following questions. 9 x 3 = 27
 #### 25. The sum of two natural numbers is 9 and the sum of their reciprocals is 9/20. Find the numbers.
+[![](https://img.youtube.com/vi/T3ZcTrc5um0/0.jpg)](https://www.youtube.com/watch?v=T3ZcTrc5um0)
 OR
 #### 25.The perimeter and area of a rectangular play ground are 80m and 384m<sup>2</sup> respectively. Find the length and breadth of the play ground.
 #### 26. Prove that sinθ/(1-cotθ) + cosθ/(1-tanθ) = sinθ + cosθ
