@@ -103,7 +103,12 @@
 OR
 #### 25.Find L.C.M. of H.C.F. ( 306, 657 ) and 12
 #### 26.The diagonal of a rectangular playground is 60 m more than the smaller side of the rectangle. If the longer side is 30 m more than the smaller side, find the sides of the playground.
+[![](https://img.youtube.com/vi/BhS2sTc_FJA/0.jpg)](https://www.youtube.com/watch?v=BhS2sTc_FJA)
+[![](https://img.youtube.com/vi/t_kUkMBJUNI/0.jpg)](https://www.youtube.com/watch?v=t_kUkMBJUNI)
+
 #### 26.The altitude of a triangle is 6 cm more than its base. If its area is 108 cm2 , find the base and height of the triangle.
+[![](https://img.youtube.com/vi/ugHpRc2VfPw/0.jpg)](https://www.youtube.com/watch?v=ugHpRc2VfPw)
+
 #### 27. 
 
 #### 28. Calculate the mode for the following frequency distribution table
