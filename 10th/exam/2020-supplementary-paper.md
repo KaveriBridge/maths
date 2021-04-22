@@ -68,10 +68,12 @@
 #### 9. In two linear equations 0 1 1 1 a x + b y + c = and 0 2 2 2 a x + b y + c = , if ≠ , then write the number of solutions these pair of equations have
 
 #### 10.If cos θ = 24/25, then write the value of sec θ.
+[![](https://img.youtube.com/vi/pG0rMjbQ0z4/0.jpg)](https://www.youtube.com/watch?v=pG0rMjbQ0z4)
 
 #### 11.In the figure, O is the centre of a circle, AC is a diameter. If ∠ACB = 50°, then find the measure of ∠BAC .
 
 #### 12.Write the formula to find the total surface area of a right-circular cone whose circular base radius is ‘r’ and slant height is ‘l’. 
+[![](https://img.youtube.com/vi/2_d7oj8TNcM/0.jpg)](https://www.youtube.com/watch?v=2_d7oj8TNcM)
 
 #### 13.Find the H.C.F. of the smallest prime number and the smallest composite number.
 
@@ -84,15 +86,20 @@
 
 ## III. Answer the following questions. 8 x 2 = 16
 #### 17. Solve the following pair of linear equations : 2x + 3y = 11, 2x – 4y = – 24 
+[![](https://img.youtube.com/vi/FoWrYhjf5tM/0.jpg)](https://www.youtube.com/watch?v=FoWrYhjf5tM)
+
 
 #### 18. Find the sum of first 20 terms of arithmetic series 5 + 10 + 15 + ..... using suitable formula. 
+[![](https://img.youtube.com/vi/p7MYsdyHhDU/0.jpg)](https://www.youtube.com/watch?v=p7MYsdyHhDU)
+
 #### 19. Find the value of k of the polynomial P (x) = 2x^2 − 6x + k, such that the sum of zeros of it is equal to half of the product of their zeros.
-#### 20. Find the value of the discriminant of the quadratic equation 2 5 1 0 2x − x − = , and hence write the nature of its roots.
+#### 20. Find the value of the discriminant of the quadratic equation 2x^2 -5x -1 =0 , and hence write the nature of its roots.
 
 #### 21. Prove that cosec A ( 1 – cos A ) ( cosec A + cot A ) = 1. 
+[![](https://img.youtube.com/vi/mmH_l1_fimE/0.jpg)](https://www.youtube.com/watch?v=mmH_l1_fimE)
 #### OR
 #### 21. Prove that (tan A - sinA)/(tanA + sinA) = (secA - 1)/(sec A + 1)
-
+[![](https://img.youtube.com/vi/zrtW4KBdsiU/0.jpg)](https://www.youtube.com/watch?v=zrtW4KBdsiU)
 #### 22. Find the coordinates of the mid-point of the line segment joining the points ( 2, 3 ) and ( 4, 7 ).
 #### 23. Letters of English alphabets A B C D E I are marked on the faces of a cubical die. If this die is rolled once, then find the probability of getting a vowel on its top face.
 #### 23. A game of chance consists of rotating an arrow which comes to rest pointing at one of the numbers 1, 2, 3, 4, 5, 6, 7, 8 and these are equally possible outcomes. Find the probability that it will point at an odd number.
@@ -106,7 +113,7 @@ OR
 [![](https://img.youtube.com/vi/BhS2sTc_FJA/0.jpg)](https://www.youtube.com/watch?v=BhS2sTc_FJA)
 [![](https://img.youtube.com/vi/t_kUkMBJUNI/0.jpg)](https://www.youtube.com/watch?v=t_kUkMBJUNI)
 
-#### 26.The altitude of a triangle is 6 cm more than its base. If its area is 108 cm2 , find the base and height of the triangle.
+#### 26.The altitude of a triangle is 6 cm more than its base. If its area is 108 cm<sup>2</sup> , find the base and height of the triangle.
 [![](https://img.youtube.com/vi/ugHpRc2VfPw/0.jpg)](https://www.youtube.com/watch?v=ugHpRc2VfPw)
 
 #### 27. 
