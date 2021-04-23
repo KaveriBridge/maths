@@ -65,7 +65,7 @@
 
 ## II. Answer the following questions in a sentence each. 8 x 1 = 8
 
-#### 9. In two linear equations 0 1 1 1 a x + b y + c = and 0 2 2 2 a x + b y + c = , if ≠ , then write the number of solutions these pair of equations have
+#### 9. In two linear equations a<sub>1</sub>x+b<sub>1</sub>x+c<sub>1</sub>=0 and a<sub>2</sub>x+b<sub>2</sub>y+c<sub>2</sub>=0, if a<sub>1</sub>/a<sub>2</sub> ≠ b<sub>1</sub>/b<sub>2</sub>, then write the number of solutions these pair of equations have.
 
 #### 10.If cos θ = 24/25, then write the value of sec θ.
 [![](https://img.youtube.com/vi/pG0rMjbQ0z4/0.jpg)](https://www.youtube.com/watch?v=pG0rMjbQ0z4)
