@@ -7,7 +7,13 @@
 * (v) (5 cos<sup>2</sup> 60° + 4 sec<sup>2</sup> 30° + tan<sup>2</sup> 45°)/(sin<sup>2</sup> 30° + cos<sup>2</sup> 30°)
 
 #### 2. Choose the correct option and justify your choice :
+##### 2. (i)
 
+##### 2. (ii) (1 - tan<sup>2</sup>45°)/(1 + tan<sup>2</sup>45°)
+(A) tan 90° (B) 1 (C) sin 45° (D) 0
+
+##### 2. (iii)
+##### 2. (iv)
 #### 3. If tan (A + B) = √3 and tan (A – B) = 1/√3; 0° < A + B ≤ 90°; A > B, find A and B.
 
 #### 4. State whether the following are true or false. Justify your answer.
