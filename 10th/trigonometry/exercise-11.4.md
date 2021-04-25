@@ -7,28 +7,28 @@
 
 
 #### 4. Choose the correct option. Justify your choice.
-#### 4. (i) 9sec<sup>2</sup>A – 9tan<sup>2</sup>A =
+##### 4. (i) 9sec<sup>2</sup>A – 9tan<sup>2</sup>A =
 * (A) 1 
 * (B) 9 
 * (C) 8 
 * (D) 0
-#### 4. (ii) (1 + tan θ + sec θ) (1 + cot θ – cosec θ) =
+##### 4. (ii) (1 + tan θ + sec θ) (1 + cot θ – cosec θ) =
 * (A) 0 
 * (B) 1 
 * (C) 2 
 * (D) –1
-#### 4. (iii) (sec A + tan A) (1 – sin A) =
+##### 4. (iii) (sec A + tan A) (1 – sin A) =
 * (A) sec A 
 * (B) sin A 
 * (C) cosec A 
 * (D) cos A
-#### 4. (iv) (1 + tan<sup>2</sup> A)/(1 + cot<sup>2</sup>A)
+##### 4. (iv) (1 + tan<sup>2</sup> A)/(1 + cot<sup>2</sup>A)
 * (A) sec<sup>2</sup>A
 * (B) –1 
 * (C) cot<sup>2</sup>A
 * (D) tan<sup>2</sup>A
 
-##### 5.Prove the following identities, where the angles involved are acute angles for which the expressions are defined.
+#### 5.Prove the following identities, where the angles involved are acute angles for which the expressions are defined.
 ##### 5.(i)  (cosecθ - cotθ)<sup>2</sup> = (1 - cosθ)/(1 + cosθ)
 ##### 5.(ii) cosA/(1+sinA) + sinA/(1+cosA) = 2sec A
 ##### 5.(iii) tanθ/(1-cotθ) + cotθ/(1-tanθ) = 1 + secθ cosecθ 
