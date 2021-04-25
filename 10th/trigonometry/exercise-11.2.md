@@ -9,7 +9,6 @@
 #### 2. Choose the correct option and justify your choice :
 
 #### 3. If tan (A + B) = √3 and tan (A – B) = 1/√3; 0° < A + B ≤ 90°; A > B, find A and B.
-\frac{n!}{k!(n-k)!}
 
 #### 4. State whether the following are true or false. Justify your answer.
 * (i) sin (A + B) = sin A + sin B.
