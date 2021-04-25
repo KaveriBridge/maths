@@ -35,7 +35,7 @@
 ##### 5.(iv)(1 + sec A)/(secA) = sin<sup>2</sup>A /(1 – cos A)
 ##### 5.(v) (cos A – sin A + 1)/(cos A + sin A – 1) = cosec A + cot A,
 ##### 5.(vi) √(1+sinA)/√(1-sinA) = secA + tanA
-##### 5.(vii) (sinθ-2sin^3θ)/(2cos^3θ-cosθ) = tanθ
+##### 5.(vii) (sinθ-2sin<sup>3</sup>θ)/(2cos<sup>3</sup>θ-cosθ) = tanθ
 ##### 5.(viii) (sinA + cosecA)<sup>2</sup> + (cosA + secA)<sup>2</sup> = 7 + tan<sup>2</sup>A + cot<sup>2</sup>A
 ##### 5.(ix)(cosec A – sin A)(sec A – cos A) = 1 / (tanA +cotA)
 ##### 5.(x) (1+tan<sup>2</sup>A)/(1+cot<sup>2</sup>A) = ((1-tanA)/(1-cotA))<sup>2</sup> = tan<sup>2</sup>A
