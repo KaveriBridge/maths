@@ -1,6 +1,6 @@
 ### Questions
 #### 1: Express the trigonometric ratios sin A, sec A and tan A in terms of cot A.
-[![](https://img.youtube.com/vi/piqy3d9q_k8/0.jpg)](https://www.youtube.com/watch?v=piqy3d9q_k8)
+[![](https://img.youtube.com/vi/ASwo4HJ-PLE/0.jpg)](https://www.youtube.com/watch?v=ASwo4HJ-PLE)
 
 #### 2.Write all the other trigonometric ratios of  ∠A in terms of sec A.
 [![](https://img.youtube.com/vi/wCnzYvcNMI8/0.jpg)](https://www.youtube.com/watch?v=wCnzYvcNMI8)
