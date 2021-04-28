@@ -23,7 +23,7 @@
 ##### 8. If 3 cot A = 4, check whether (1 + tan<sup>2</sup>A) / (1 - tan<sup>2</sup>A) = cos<sup>2</sup>A - sin<sup>2</sup>A or not.
 [![](https://img.youtube.com/vi/hiDstPG-AiI/0.jpg)](https://www.youtube.com/watch?v=hiDstPG-AiI)
 
-##### 9. In triangle ABC, right-angled at B, if tan A = 1/&Sqrt;3, find the value of: (i) sin A cos C + cos A sin C (ii) cos A cos C – sin A sin C
+##### 9. In triangle ABC, right-angled at B, if tan A = 1/√3, find the value of: (i) sin A cos C + cos A sin C (ii) cos A cos C – sin A sin C
 [![](https://img.youtube.com/vi/XwNrfLX57IA/0.jpg)](https://www.youtube.com/watch?v=XwNrfLX57IA)
 
 ##### 10. In Δ PQR, right-angled at Q, PR + QR = 25 cm and PQ = 5 cm. Determine the values of sin P, cos P and tan P.
