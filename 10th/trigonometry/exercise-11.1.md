@@ -3,7 +3,7 @@
 ##### 1. In Δ ABC, right-angled at B, AB = 24 cm, BC = 7 cm. Determine : (i) sin A, cos A (ii) sin C, cos C
 [![](https://img.youtube.com/vi/piqy3d9q_k8/0.jpg)](https://www.youtube.com/watch?v=piqy3d9q_k8)
 
-##### 2. In Fig. 8.13, find tan P – cot R.
+##### 2. In Fig. 11.13, find tan P – cot R.
 [![](https://img.youtube.com/vi/5V2a0RCvPss/0.jpg)](https://www.youtube.com/watch?v=5V2a0RCvPss)
 
 ##### 3. If sin A = 3/4, calculate cos A and tan A.
@@ -15,7 +15,7 @@
 ##### 5. Given sec θ = 13/12, calculate all other trigonometric ratios.
 [![](https://img.youtube.com/vi/lR5oD7hzSKw/0.jpg)](https://www.youtube.com/watch?v=lR5oD7hzSKw)
 
-##### 6. If &angle; A and &angle; B are acute angles such that cos A = cos B, then show that &angle; A = &angle; B.
+##### 6. If ∠A and ∠B are acute angles such that cos A = cos B, then show that ∠A = ∠B.
 
 ##### 7. If cot θ = 7/8, evaluate : (i) (1 + sinθ )(1 - sinθ)/(1 + cosθ )(1 - cosθ) (ii) cot<sup>2</sup>θ
 [![](https://img.youtube.com/vi/Gd4xe_4Gxk8/0.jpg)](https://www.youtube.com/watch?v=Gd4xe_4Gxk8)
