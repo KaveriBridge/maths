@@ -10,6 +10,7 @@
 #### 8. An AP consists of 50 terms of which 3rd term is 12 and the last term is 106. Find the 29th term.
 #### 9. If the 3rd and the 9th terms of an AP are 4 and – 8 respectively, which term of this AP is zero?
 #### 10. The 17th term of an AP exceeds its 10th term by 7. Find the common difference.
+[![](https://img.youtube.com/vi/opn3gZiSPkk/0.jpg)](https://www.youtube.com/watch?v=opn3gZiSPkk)
 #### 11. Which term of the AP : 3, 15, 27, 39, . . . will be 132 more than its 54th term?
 #### 12. Two APs have the same common difference. The difference between their 100th terms is 100, what is the difference between their 1000th terms?
 #### 13. How many three-digit numbers are divisible by 7?
@@ -17,6 +18,7 @@
 #### 15. For what value of n, are the nth terms of two APs: 63, 65, 67, . . . and 3, 10, 17, . . . equal?
 #### 16. Determine the AP whose third term is 16 and the 7th term exceeds the 5th term by 12.
 #### 17. Find the 20th term from the last term of the AP : 3, 8, 13, . . ., 253.
+
 #### 18. The sum of the 4th and 8th terms of an AP is 24 and the sum of the 6th and 10th terms is 44. Find the first three terms of the AP.
 #### 19. Subba Rao started work in 1995 at an annual salary of ₹5000 and received an increment of ₹200 each year. In which year did his income reach ₹7000?
 #### 20. Ramkali saved ₹5 in the first week of a year and then increased her weekly savings by ₹1.75. If in the nth week, her weekly savings become ₹20.75, find n.
