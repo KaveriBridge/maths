@@ -33,6 +33,7 @@
 ##### 5.(ii) cosA/(1+sinA) + (1+sinA)/cosA = 2sec A
 ##### 5.(iii) tanθ/(1-cotθ) + cotθ/(1-tanθ) = 1 + secθ cosecθ 
 ##### 5.(iv)(1 + sec A)/(secA) = sin<sup>2</sup>A /(1 – cos A)
+[![](https://img.youtube.com/vi/GRVYd-wH8KA/0.jpg)](https://www.youtube.com/watch?v=GRVYd-wH8KA)
 ##### 5.(v) (cos A – sin A + 1)/(cos A + sin A – 1) = cosec A + cot A,
 ##### 5.(vi) √(1+sinA)/√(1-sinA) = secA + tanA
 ##### 5.(vii) (sinθ-2sin<sup>3</sup>θ)/(2cos<sup>3</sup>θ-cosθ) = tanθ
