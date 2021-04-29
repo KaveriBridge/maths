@@ -30,6 +30,7 @@
 
 #### 5.Prove the following identities, where the angles involved are acute angles for which the expressions are defined.
 ##### 5.(i)  (cosecθ - cotθ)<sup>2</sup> = (1 - cosθ)/(1 + cosθ)
+[![](https://img.youtube.com/vi/YZjbHKHQDwc/0.jpg)](https://www.youtube.com/watch?v=YZjbHKHQDwc)
 ##### 5.(ii) cosA/(1+sinA) + (1+sinA)/cosA = 2sec A
 ##### 5.(iii) tanθ/(1-cotθ) + cotθ/(1-tanθ) = 1 + secθ cosecθ 
 ##### 5.(iv)(1 + sec A)/(secA) = sin<sup>2</sup>A /(1 – cos A)
