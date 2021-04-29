@@ -139,7 +139,8 @@ Solution:
 
 ## IV. Answer the following questions. 9 x 3 = 27
 #### 25. A train travels 480 km at a uniform speed. If the speed had been 10km/h more, it would have taken 4 hours less for the same journey, find the speed of the train?.
-OR
+[![](https://img.youtube.com/vi/ZW82L7sDo6w/0.jpg)](https://www.youtube.com/watch?v=ZW82L7sDo6w)
+#### OR
 #### 25.Find two consecutive odd positive integers, sum of whose squares is 290.
 [![](https://img.youtube.com/vi/NVh4bRmtOro/0.jpg)](https://www.youtube.com/watch?v=NVh4bRmtOro)
 
