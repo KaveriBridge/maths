@@ -1,1 +1,8 @@
-
+## EXERCISE 15.5
+#### 1. A copper wire, 3 mm in diameter, is wound about a cylinder whose length is 12 cm, and diameter 10 cm, so as to cover the curved surface of the cylinder. Find the length and mass of the wire, assuming the density of copper to be 8.88 g per cm3 .
+#### 2. A right triangle, whose sides are 3 cm and 4 cm (other than hypotenuse) is made to revolve about its hypotenuse. Find the volume and surface area of the double cone so formed. (Choose value of π as found appropriate.)
+#### 3. A cistern, internally measuring 150 cm × 120 cm × 110 cm, has 129600 cm3 of water in it. Porous bricks are placed in the water until the cistern is full to the brim. Each brick absorbs one-seventeenth of its own volume of water. How many bricks can be put in without overflowing the water, each brick being 22.5 cm × 7.5 cm × 6.5 cm?
+#### 4. In one fortnight of a given month, there was a rainfall of 10 cm in a river valley. If the area of the valley is 7280 km2, show that the total rainfall was approximately equivalent to the addition to the normal water of three rivers each 1072 km long, 75 m wide and 3 mdeep.
+#### 5. An oil funnel made of tin sheet consists of a 10 cm long cylindrical portion attached to a frustum of a cone. If the total height is 22 cm, diameter of the cylindrical portion is 8 cm and the diameter of the top of the funnel is 18 cm, find the area of the tin sheet required to make the funnel (see Fig. 15.25).
+#### 6. Derive the formula for the curved surface area and total surface area of the frustum of a cone, given to you in Section 13.5, using the symbols as explained. 
+#### 7. Derive the formula for the volume of the frustum of a cone, given to you in Section 13.5, using the symbols as explained.
