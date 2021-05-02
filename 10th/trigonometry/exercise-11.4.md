@@ -22,6 +22,8 @@
 * (B) sin A 
 * (C) cosec A 
 * (D) cos A
+[![](https://img.youtube.com/vi/Nm0C_eEtCMk/0.jpg)](https://www.youtube.com/watch?v=Nm0C_eEtCMk)
+
 ##### 4. (iv) (1 + tan<sup>2</sup> A)/(1 + cot<sup>2</sup>A)
 * (A) sec<sup>2</sup>A
 * (B) –1 
