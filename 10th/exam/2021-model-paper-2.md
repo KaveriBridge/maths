@@ -157,6 +157,7 @@ Solution:
 #### 29. Find the mode of the following data
 #### 30. Prove that “length of tangents drawn from an external point to a circle are equal
 #### 31. The slant height of a frustrum of a cone is 4cm and perimeters of its circular bases are 18cm and 6cm, find the curved surface area of the frustrum of a cone
+[![](https://img.youtube.com/vi/AfM1V82wBbU/0.jpg)](https://www.youtube.com/watch?v=AfM1V82wBbU)
 #### OR
 #### 31. The circumference of the base of a cylinder is 132cm and its height is 25cm. Find the volume of the cylinder?
 #### 32. Draw a “less than type ogive” for the data given in the following table.
