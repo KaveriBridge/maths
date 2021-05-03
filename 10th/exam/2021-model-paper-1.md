@@ -29,7 +29,7 @@ Solution: (B) k = 6
 
 Solution: (D)17, 3rd term is 17
 
-#### 3. If the roots of the quadratic equation x^2 + 6x + k = 0 are equal, then the value of ‘k’ is :
+#### 3. If the roots of the quadratic equation x<sup>2</sup> + 6x + k = 0 are equal, then the value of ‘k’ is :
  * A. 9 
  * B. -9 
  * C. 8 
