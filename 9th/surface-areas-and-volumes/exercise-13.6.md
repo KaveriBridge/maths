@@ -1,1 +1,8 @@
-## TBD
+#### 1. The circumference of the base of a cylindrical vessel is 132 cm and its height is 25 cm. How many litres of water can it hold? (1000 cm3  = 1l)
+#### 2. The inner diameter of a cylindrical wooden pipe is 24 cm and its outer diameter is 28 cm. The length of the pipe is 35 cm. Find the mass of the pipe, if 1 cm3  of wood has a mass of 0.6 g.
+#### 3. A soft drink is available in two packs – (i) a tin can with a rectangular base of length 5 cm and width 4 cm, having a height of 15 cm and (ii) a plastic cylinder with circular base of diameter 7 cm and height 10 cm. Which container has greater capacity and by how much?
+#### 4. If the lateral surface of a cylinder is 94.2 cm2  and its height is 5 cm, then find (i) radius of its base (ii) its volume. (Use p = 3.14)
+#### 5. It costs $2200 to paint the inner curved surface of a cylindrical vessel 10 m deep. If the cost of painting is at the rate of $20 per m2 , find (i) inner curved surface area of the vessel, (ii) radius of the base, (iii) capacity of the vessel.
+#### 6. The capacity of a closed cylindrical vessel of height 1 m is 15.4 litres. How many square metres of metal sheet would be needed to make it?
+#### 7. A lead pencil consists of a cylinder of wood with a solid cylinder of graphite filled in the interior. The diameter of the pencil is 7 mm and the diameter of the graphite is 1 mm. If the length of the pencil is 14 cm, find the volume of the wood and that of the graphite.
+#### 8. A patient in a hospital is given soup daily in a cylindrical bowl of diameter 7 cm. If the bowl is filled with soup to a height of 4 cm, how much soup the hospital has to prepare daily to serve 250 patients?
