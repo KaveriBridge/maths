@@ -5,7 +5,7 @@
 #### 4. Total surface area of a cylinder = 2πr(r + h)
 #### 5. Curved surface area of a cone = πrl
 #### 6. Total surface area of a right circular cone = πrl + πr<sup>2</sup> = πr (l + r)
-#### 7. Surface area of a sphere of radius r = 4 p r<sup>2</sup>
+#### 7. Surface area of a sphere of radius r = 4πr<sup>2</sup>
 #### 8. Curved surface area of a hemisphere = 2πr<sup>2</sup>
 #### 9. Total surface area of a hemisphere = 3πr<sup>2</sup>
 #### 10. Volume of a cuboid = l × b × h
