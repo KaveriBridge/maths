@@ -1,3 +1,4 @@
+## EXERCISE 13.3
 #### 1. Diameter of the base of a cone is 10.5 cm and its slant height is 10 cm. Find its curved surface area.
 #### 2. Find the total surface area of a cone, if its slant height is 21 m and diameter of its base is 24 m.
 #### 3. Curved surface area of a cone is 308 cm2 and its slant height is 14 cm. Find (i) radius of the base and (ii) total surface area of the cone.
