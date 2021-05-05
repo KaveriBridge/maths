@@ -1,6 +1,7 @@
+## EXERCISE 10.4
 #### 1. Find the nature of the roots of the following quadratic equations. If the real roots exist, find them:
 * (i) 2x<sup>2</sup> – 3x + 5 = 0 
-* (ii) 3x<sup>2</sup> – 4 3 x + 4 = 0
+* (ii) 3x<sup>2</sup> – 4√3 x + 4 = 0
 * (iii) 2x<sup>2</sup> – 6x + 3 = 0
 #### 2. Find the values of k for each of the following quadratic equations, so that they have two equal roots.
 * (i) 2x<sup>2</sup> + kx + 3 = 0 
