@@ -31,6 +31,8 @@
 * (C) cot<sup>2</sup>A
 * (D) tan<sup>2</sup>A
 
+[![](https://img.youtube.com/vi/1o52AG3wCc8/0.jpg)](https://www.youtube.com/watch?v=1o52AG3wCc8)
+
 #### 5.Prove the following identities, where the angles involved are acute angles for which the expressions are defined.
 ##### 5.(i)  (cosecθ - cotθ)<sup>2</sup> = (1 - cosθ)/(1 + cosθ)
 [![](https://img.youtube.com/vi/YZjbHKHQDwc/0.jpg)](https://www.youtube.com/watch?v=YZjbHKHQDwc)
