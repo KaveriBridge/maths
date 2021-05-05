@@ -2,7 +2,7 @@
 #### 1. A plastic box 1.5 m long, 1.25 m wide and 65 cm deep is to be made. It is opened at the top. Ignoring the thickness of the plastic sheet, determine:
 * (i) The area of the sheet required for making the box.
 * (ii) The cost of sheet for it, if a sheet measuring 1m<sup>2</sup> costs ₹20.
-#### 2. The length, breadth and height of a room are 5 m, 4 m and 3 m respectively. Find the cost of white washing the walls of the room and the ceiling at the rate of ₹7.50 per m2.
+#### 2. The length, breadth and height of a room are 5 m, 4 m and 3 m respectively. Find the cost of white washing the walls of the room and the ceiling at the rate of ₹7.50 per m<sup>2</sup>.
 #### 3. The floor of a rectangular hall has a perimeter 250 m. If the cost of painting the four walls at the rate of ₹10 per m<sup>2</sup> is ₹15000, find the height of the hall.
 * [Hint : Area of the four walls = Lateral surface area.]
 #### 4. The paint in a certain container is sufficient to paint an area equal to 9.375 m<sup>2</sup>. How many bricks of dimensions 22.5 cm × 10 cm × 7.5 cm can be painted out of this container?
