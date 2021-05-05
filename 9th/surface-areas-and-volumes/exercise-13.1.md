@@ -6,6 +6,7 @@
 #### 3. The floor of a rectangular hall has a perimeter 250 m. If the cost of painting the four walls at the rate of ₹10 per m<sup>2</sup> is ₹15000, find the height of the hall.
 * [Hint : Area of the four walls = Lateral surface area.]
 #### 4. The paint in a certain container is sufficient to paint an area equal to 9.375 m2. How many bricks of dimensions 22.5 cm × 10 cm × 7.5 cm can be painted out of this container?
+[![](https://img.youtube.com/vi/Q0oC_3VIyp4/0.jpg)](https://www.youtube.com/watch?v=Q0oC_3VIyp4)
 #### 5. A cubical box has each edge 10 cm and another cuboidal box is 12.5 cm long, 10 cm wide and 8 cm high.
 * (i) Which box has the greater lateral surface area and by how much?
 * (ii) Which box has the smaller total surface area and by how much?
