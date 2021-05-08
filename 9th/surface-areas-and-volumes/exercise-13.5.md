@@ -1,6 +1,6 @@
 ## EXERCISE 13.5
 #### 1. A matchbox measures 4 cm × 2.5 cm × 1.5 cm. What will be the volume of a packet containing 12 such boxes?
-#### 2. A cuboidal water tank is 6 m long, 5 m wide and 4.5 m deep. How many litres of water can it hold? (1 m3 = 1000 l)
+#### 2. A cuboidal water tank is 6 m long, 5 m wide and 4.5 m deep. How many litres of water can it hold? (1 m<sup>3</sup> = 1000 l)
 #### 3. A cuboidal vessel is 10 m long and 8 m wide. How high must it be made to hold 380 cubic metres of a liquid?
 #### 4. Find the cost of digging a cuboidal pit 8 m long, 6 m broad and 3 m deep at the rate of ₹ 30 per m3.
 #### 5. The capacity of a cuboidal tank is 50000 litres of water. Find the breadth of the tank, if its length and depth are respectively 2.5 m and 10 m.
