@@ -1,5 +1,6 @@
 ## Examples
 #### Example 2 : Given tan A = 4/3, find the other trigonometric ratios of the angle A.
+https://www.youtube.com/watch?v=P6cvK1x9kJI
 #### Example 2 : If ∠B and ∠Q are acute angles such that sin B = sin Q, then prove that ∠B = ∠Q.
 #### Example 3 : Consider △ACB, right-angled at C, in which AB = 29 units, BC = 21 units and ∠ABC = θ (see Fig. 8.10). Determine the values of
 * (i) cos<sup>2</sup> θ + sin<sup>2</sup> θ
