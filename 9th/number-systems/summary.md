@@ -9,7 +9,7 @@ In this chapter, you have studied the following points:
 #### 7. If r is rational and s is irrational, then r + s and r – s are irrational numbers, and rs and r/s are irrational numbers, r ≠ 0.
 #### 8. For positive real numbers a and b, the following identities hold:
 * (i) √ab = √a√b
-* (ii)√a/b = √a/√b
+* (ii)√(a/b) = √a/√b
 * (iii) (√a+√b)(√a-√b) = a-b
 * (iv) (a+√b)(a-√b) = a<sup2</sup>-b
 * (v) (√a+√b)<sup>2</sup> = a + b + 2√ab
