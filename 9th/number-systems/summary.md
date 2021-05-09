@@ -8,14 +8,14 @@ In this chapter, you have studied the following points:
 #### 6. There is a unique real number corresponding to every point on the number line. Also, corresponding to each real number, there is a unique point on the number line.
 #### 7. If r is rational and s is irrational, then r + s and r – s are irrational numbers, and rs and r/s are irrational numbers, r ≠ 0.
 #### 8. For positive real numbers a and b, the following identities hold:
-* (i) ab a b = * 
-* (ii) a ab b=
-* (iii) ( a b a b a b + − = − ) ( ) 
-* (iv) ( ) ( )2a b a b a b + − = −
-* (v) ( )2a b a ab b + = + + 2
-#### 9. To rationalise the denominator of 1,a b + we multiply this by ,a ba b−− where a and b are integers.
+* (i) √ab = √a√b
+* (ii)√a/b = √a/√b
+* (iii) (√a+√b)(√a-√b) = a-b
+* (iv) (a+√b)(a-√b) = a<sup2</sup>-b
+* (v) (√a+√b)<sup>2</sup> = a + b + 2√ab
+#### 9. To rationalise the denominator of 1/(√a + b) + we multiply this by (√a - b)/(√a - b) where a and b are integers.
 #### 10. Let a > 0 be a real number and p and q be rational numbers. Then 
-* (i) ap . aq = ap + q 
-* (ii) (ap)q = apq
-* (iii)pp qqaaa−= 
-* (iv) apbp = (ab)p
+* (i) a<sup>p</sup>.a<sup>q</sup> = a<sup>p + q</sup>
+* (ii) (a<sup>p</sup>)<sup>q</sup> = a<sup>pq</sup>
+* (iii)a<sup>p</sup>/a<sup>q</sup> = a<sup>p - q</sup>
+* (iv) a<sup>p</sup>.b<sup>p</sup> = (ab)<sup>p</sup>
