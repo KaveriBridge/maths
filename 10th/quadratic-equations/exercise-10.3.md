@@ -1,5 +1,5 @@
 
-## 10.3
+## EXERCISE 10.3
 #### 1.Find the roots of the following quadratic equations, if they exist, by the method of completing the square:
 #### 2.Find the roots of the quadratic equations given in Q.1 above by applying the quadratic formula.
 #### 3. Find the roots of the following equations:
