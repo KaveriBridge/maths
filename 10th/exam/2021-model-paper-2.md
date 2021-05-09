@@ -160,6 +160,7 @@ Solution:
 [![](https://img.youtube.com/vi/AfM1V82wBbU/0.jpg)](https://www.youtube.com/watch?v=AfM1V82wBbU)
 #### OR
 #### 31. The circumference of the base of a cylinder is 132cm and its height is 25cm. Find the volume of the cylinder?
+[![](https://img.youtube.com/vi/BQyC_Ctryl0/0.jpg)](https://www.youtube.com/watch?v=BQyC_Ctryl0)
 #### 32. Draw a “less than type ogive” for the data given in the following table.
 #### 33. Construct tangents to a circle of radius 5cm such that the angle between the tangents is 60°.
 
