@@ -17,5 +17,5 @@
 #### Example 13 : Prove that sec A (1 – sin A)(sec A + tan A) = 1.
 [![](https://img.youtube.com/vi/sV73h_EyTgo/0.jpg)](https://www.youtube.com/watch?v=sV73h_EyTgo)
 #### Example 14 : Prove that (cot A – cos A)/(cot A + cos A) = cosec A – 1/ cosec A + 1
-[![](https://img.youtube.com/vi/sV73h_EyTgo/0.jpg)](https://www.youtube.com/watch?v=sV73h_EyTgo)
+[![](https://img.youtube.com/vi/B8Fquw__O_g/0.jpg)](https://www.youtube.com/watch?v=B8Fquw__O_g)
 #### Example 15 : Prove that (sinθ -cosθ + 1)/(sinθ +cosθ - 1) = 1/(secθ-tanθ) using the identity sec^2θ = 1 + tan^2θ.
