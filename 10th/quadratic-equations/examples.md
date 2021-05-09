@@ -6,5 +6,5 @@ Rs 750. We would like to find out the number of toys produced on that day
 #### Example 2 : Check whether the following are quadratic equations:
 * (i) (x – 2)<sup>2</sup> + 1 = 2x – 3 
 * (ii) x(x + 1) + 8 = (x + 2) (x – 2)
-* (iii) x (2x + 3) = x2 + 1 
+* (iii) x (2x + 3) = x<sup>2</sup> + 1 
 * (iv) (x + 2)<sup>3</sup> = x<sup>3</sup> – 4
