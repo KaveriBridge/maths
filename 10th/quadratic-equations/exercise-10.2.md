@@ -1,5 +1,10 @@
 ## 10.2
 #### 1. Find the roots of the following quadratic equations by factorisation:
+* (i) x<sup>2</sup> – 3x – 10 = 0 
+* (ii) 2x<sup>2</sup> + x – 6 = 0
+* (iii) √2x<sup>2</sup> +7x+5√2 = 0
+* (iv) 2x<sup>2</sup> – x + 1/8 = 0
+* (v) 100 x<sup>2</sup> – 20x + 1 = 0
 #### 2. Solve the problems given in Example 1.
 #### 3. Find two numbers whose sum is 27 and product is 182.
 [![](https://img.youtube.com/vi/0iHbnqVM8pU/0.jpg)](https://www.youtube.com/watch?v=0iHbnqVM8pU)
