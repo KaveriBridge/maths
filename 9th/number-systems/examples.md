@@ -30,6 +30,6 @@
 #### Example 21 : Simplify 
 * (i) 2<sup>2/3</sup> . 2<sup>1/3</sup>
 * (ii) (3<sup>1/5</sup>)<sup>4</sup>
-* (iii)7<sup>1/5</sup> . 7<sup>1/3</sup>
+* (iii)7<sup>1/5</sup> / 7<sup>1/3</sup>
 * (iv) 13<sup>1/5</sup> . 17<sup>1/5</sup>
 
