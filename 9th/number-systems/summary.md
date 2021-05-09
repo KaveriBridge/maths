@@ -11,7 +11,7 @@ In this chapter, you have studied the following points:
 * (i) √ab = √a√b
 * (ii)√(a/b) = √a/√b
 * (iii) (√a+√b)(√a-√b) = a-b
-* (iv) (a+√b)(a-√b) = a<sup2</sup>-b
+* (iv) (a+√b)(a-√b) = a<sup>2</sup>-b
 * (v) (√a+√b)<sup>2</sup> = a + b + 2√ab
 #### 9. To rationalise the denominator of 1/(√a + b) + we multiply this by (√a - b)/(√a - b) where a and b are integers.
 #### 10. Let a > 0 be a real number and p and q be rational numbers. Then 
