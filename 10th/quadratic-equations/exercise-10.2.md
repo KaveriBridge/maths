@@ -1,4 +1,4 @@
-## 10.2
+## EXERCISE 10.2
 #### 1. Find the roots of the following quadratic equations by factorisation:
 * (i) x<sup>2</sup> – 3x – 10 = 0 
 * (ii) 2x<sup>2</sup> + x – 6 = 0
