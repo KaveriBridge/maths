@@ -28,3 +28,8 @@ Rs 750. We would like to find out the number of toys produced on that day
 * (ii) 1/x - 1/(x-2) = 3, x ≠ 0,2
 
 #### Example 15 : A motor boat whose speed is 18 km/h in still water takes 1 hour more to go 24 km upstream than to return downstream to the same spot. Find the speed of the stream.
+
+#### Example 16 : Find the discriminant of the quadratic equation 2x2 – 4x + 3 = 0, and hence find the nature of its roots.
+#### Example 17 : A pole has to be erected at a point on the boundary of a circular park of diameter 13 metres in such a way that the differences of its distances from two diametrically opposite fixed gates A and B on the boundary is 7 metres. Is it possible to do so? If yes, at what distances from the two gates should the pole be erected?
+#### Example 18 : Find the discriminant of the equation 3x2 – 2x + 1/3 = 0 and hence findthe nature of its roots. Find them, if they are real.
+
