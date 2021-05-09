@@ -26,3 +26,5 @@ Rs 750. We would like to find out the number of toys produced on that day
 #### Example 14 : Find the roots of the following equations:
 * (i) x + 1/x = 3, x ≠ 0
 * (ii) 1/x - 1/(x-2) = 3, x ≠ 0,2
+
+#### Example 15 : A motor boat whose speed is 18 km/h in still water takes 1 hour more to go 24 km upstream than to return downstream to the same spot. Find the speed of the stream.
