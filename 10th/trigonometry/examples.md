@@ -15,5 +15,7 @@
 #### Example 11 : Express cot 85° + cos 75° in terms of trigonometric ratios of angles between 0° and 45°.
 #### Example 12 : Express the ratios cos A, tan A and sec A in terms of sin A.
 #### Example 13 : Prove that sec A (1 – sin A)(sec A + tan A) = 1.
+[![](https://img.youtube.com/vi/sV73h_EyTgo/0.jpg)](https://www.youtube.com/watch?v=sV73h_EyTgo)
 #### Example 14 : Prove that (cot A – cos A)/(cot A + cos A) = cosec A – 1/ cosec A + 1
+[![](https://img.youtube.com/vi/sV73h_EyTgo/0.jpg)](https://www.youtube.com/watch?v=sV73h_EyTgo)
 #### Example 15 : Prove that (sinθ -cosθ + 1)/(sinθ +cosθ - 1) = 1/(secθ-tanθ) using the identity sec^2θ = 1 + tan^2θ.
