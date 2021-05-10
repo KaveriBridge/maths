@@ -23,6 +23,7 @@ Rs 750. We would like to find out the number of toys produced on that day
 * (i) 3x<sup>2</sup> – 5x + 2 = 0 
 * (ii) x<sup>2</sup> + 4x + 5 = 0 
 * (iii) 2x<sup>2</sup> – 2√2 x + 1 = 0
+
 [![](https://img.youtube.com/vi/xlVQKqD3zYA/0.jpg)](https://www.youtube.com/watch?v=xlVQKqD3zYA)
 
 #### Example 14 : Find the roots of the following equations:
