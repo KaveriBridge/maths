@@ -2,6 +2,7 @@
 #### Example 1 : Rasheed got a playing top as his birthday present, which surprisingly had no colour on it. He wanted to colour it with his crayons. The top is shaped like a cone surmounted by a hemisphere. The entire top is 5 cm in height and the diameter of the top is 3.5 cm. Find the area he has to colour.
 
 #### Example 2 : The decorative block is made of two solids - a cube and a hemisphere. The base of the block is a cube with edge 5 cm, and the hemisphere fixed on the top has a diameter of 4.2 cm. Find the total surface area of the block.
+[![](https://img.youtube.com/vi/n-d976qCKck/0.jpg)](https://www.youtube.com/watch?v=n-d976qCKck)
 
 #### Example 3 : A wooden toy rocket is in the shape of a cone mounted on a cylinder, as shown in Fig. 15.8. The height of the entire rocket is 26 cm, while the height of the conical part is 6 cm. The base of the conical portion has a diameter of 5 cm, while the base diameter of the cylindrical portion is 3 cm. If the conical portion is to be painted orange and the cylindrical portion yellow, find the area of the rocket painted with each of these colours.
 
