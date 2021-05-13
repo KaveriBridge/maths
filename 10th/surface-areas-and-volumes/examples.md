@@ -22,7 +22,7 @@
 
 #### Example 11 : A hemispherical tank full of water is emptied by a pipe at the rate of 4 3 7 litres per second. How much time will it take to empty half the tank, if it is 3m in diameter?    
 
-#### Example 12 : The radii of the ends of a frustum of a cone 45 cm high are 28 cm and 7 cm (see Fig. 15.21). Find its volume, the curved surface ar ea and the total suface area.
+#### Example 12 : The radii of the ends of a frustum of a cone 45 cm high are 28 cm and 7 cm (see Fig. 15.21). Find its volume, the curved surface area and the total suface area.
 
 #### Example 13 : Hanumappa and his wife Gangamma are busy making jaggery out of sugarcane juice. They have processed the sugarcane juice to make the molasses, which is poured into moulds in the shape of a frustum of a cone having the diameters of its two circular faces as 30 cm and 35 cm and the vertical height of the mould is 14 cm (see Fig. 15.22). If each cm3  of molasses has mass about 1.2 g, find the mass of the molasses that can be poured into each mould.
 
