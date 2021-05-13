@@ -20,7 +20,7 @@
 
 #### Example 10 : A copper rod of diameter 1 cm and length 8 cm is drawn into a wire of length 18 m of uniform thickness. Find the thickness of the wire.  
 
-#### Example 11 : A hemispherical tank full of water is emptied by a pipe at the rate of 4 3 7 litres per second. How much time will it take to empty half the tank, if it is 3m in diameter?    
+#### Example 11 : A hemispherical tank full of water is emptied by a pipe at the rate of 4 3/7 litres per second. How much time will it take to empty half the tank, if it is 3m in diameter?    
 
 #### Example 12 : The radii of the ends of a frustum of a cone 45 cm high are 28 cm and 7 cm (see Fig. 15.21). Find its volume, the curved surface area and the total suface area.
 
