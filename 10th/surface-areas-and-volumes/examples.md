@@ -19,6 +19,7 @@
 #### Example 9 : Selvi’s house has an overhead tank in the shape of a cylinder. This is filled by pumping water from a sump (an underground tank) which is in the shape of a cuboid. The sump has dimensions 1.57 m × 1.44 m × 95cm. The overhead tank has its radius 60 cm and height 95 cm. Find the height of the water left in the sump after the overhead tank has been completely filled with water from the sump which had been full. Compare the capacity of the tank with that of the sump.   
 
 #### Example 10 : A copper rod of diameter 1 cm and length 8 cm is drawn into a wire of length 18 m of uniform thickness. Find the thickness of the wire.  
+[![](https://img.youtube.com/vi/JKiToQT5-hA/0.jpg)](https://www.youtube.com/watch?v=JKiToQT5-hA)
 
 #### Example 11 : A hemispherical tank full of water is emptied by a pipe at the rate of 3 4/7 litres per second. How much time will it take to empty half the tank, if it is 3m in diameter?    
 [![](https://img.youtube.com/vi/WPJmPwp-MPY/0.jpg)](https://www.youtube.com/watch?v=WPJmPwp-MPY)
