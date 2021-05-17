@@ -1,3 +1,4 @@
+## Summary
 #### 1. Two figures having the same shape but not necessarily the same size are called similar figures.
 #### 2. All the congruent figures are similar but the converse is not true.
 #### 3. Two polygons of the same number of sides are similar, if (i) their corresponding angles are equal and (ii) their corresponding sides are in the same ratio (i.e., proportion).
