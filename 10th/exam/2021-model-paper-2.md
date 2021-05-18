@@ -181,4 +181,4 @@ OR
 ## VI. Answer the following question : 1 x 5 = 5
 #### 38. State and Prove “Basic proportionally theorem”.
 ##### English medium - Kannada explanation
-[![](https://img.youtube.com/vi/nbGuQZr1e4w/0.jpg)](https://www.youtube.com/watch?v=nbGuQZr1e4w)
+[![](https://img.youtube.com/vi/5ZBrOx8_9dM/0.jpg)](https://www.youtube.com/watch?v=5ZBrOx8_9dM)
