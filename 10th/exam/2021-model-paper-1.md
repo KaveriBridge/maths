@@ -83,6 +83,7 @@ Solution: C. 616 cm<sup>2</sup>
 #### 11. Find the value of tanθ - cot (90 - θ ).
 #### 12. In the figure ∠B=900, ∠A = ∠C and BC=10cm, then find the value of tan 45
 #### 13. Write the co-ordinates of the midpoint of the line segment joining the points A(x1, y1) and B (x2, y2).
+[![](https://img.youtube.com/vi/wOBj0USqWUk/0.jpg)](https://www.youtube.com/watch?v=wOBj0USqWUk)
 #### 14. Find the median of the scores 5, 8, 14, 16, 19 and 20 ?
 #### 15. State ‘Thale’s theorem ?
 #### 16. Write the formula to find the curved surface area of the frustum of a cone as shown in the figure?
