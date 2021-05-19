@@ -86,6 +86,7 @@ Solution: C. 616 cm<sup>2</sup>
 [![](https://img.youtube.com/vi/wOBj0USqWUk/0.jpg)](https://www.youtube.com/watch?v=wOBj0USqWUk)
 #### 14. Find the median of the scores 5, 8, 14, 16, 19 and 20 ?
 #### 15. State ‘Thale’s theorem ?
+[![](https://img.youtube.com/vi/5ZBrOx8_9dM/0.jpg)](https://www.youtube.com/watch?v=5ZBrOx8_9dM)
 #### 16. Write the formula to find the curved surface area of the frustum of a cone as shown in the figure?
 
 ## III. Answer the following questions. 8 x 2 = 16
