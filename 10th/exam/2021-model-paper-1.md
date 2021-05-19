@@ -159,7 +159,7 @@ OR
  2x + y = 10
  x + y = 6
 ##### English medium - Kannada explanation
-[![](https://img.youtube.com/vi/S6AgcHv77MQ/0.jpg)](https://www.youtube.com/watch?v=S6AgcHv77MQ)
+[![](https://img.youtube.com/vi/yryfY8WZdik/0.jpg)](https://www.youtube.com/watch?v=yryfY8WZdik)
  
 #### 35. An arithmetic progression consists of 37 terms. The sum of the first 3 terms of it is 12 and the sum of its last 3 terms is 318, then find the first and last terms of the progression.
 [![](https://img.youtube.com/vi/sFmWqZ1U7EY/0.jpg)](https://www.youtube.com/watch?v=sFmWqZ1U7EY)
