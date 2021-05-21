@@ -10,7 +10,7 @@
 #### Example 5 : In △OPQ, right-angled at P, OP = 7 cm and OQ – PQ = 1 cm. Determine the values of sin Q and cos Q.
 [![](https://img.youtube.com/vi/XBUb5P6zb8o/0.jpg)](https://www.youtube.com/watch?v=XBUb5P6zb8o)
 #### Example 6 : In △ABC, right-angled at B, AB = 5 cm and ∠ACB = 30°. Determine the lengths of the sides BC and AC.
-#### Example 7 : In △PQR, right -angled at Q (see Fig. 8.20), PQ = 3 cm and PR = 6 cm. Determine ∠QPR and ∠PRQ.
+#### Example 7 : In △PQR, right -angled at Q, PQ = 3 cm and PR = 6 cm. Determine ∠QPR and ∠PRQ.
 #### Example 8 : If sin (A – B) = 1/2, cos (A + B) = 1/2, 0° < A + B <= 90°, A > B, find A and B.
 #### Example 9 : Evaluate tan 65°/cot 25°
 #### Example 10 : If sin 3A = cos (A – 26°), where 3A is an acute angle, find the value of A.
