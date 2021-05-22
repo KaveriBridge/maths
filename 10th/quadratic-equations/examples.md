@@ -18,6 +18,7 @@ Rs 750. We would like to find out the number of toys produced on that day
 #### Example 9 : Find the roots of 4x2 + 3x + 5 = 0 by the method of completing the square.
 #### Example 10 : Solve Q. 2(i) of Exercise 10.1 by using the quadratic formula
 #### Example 11 : Find two consecutive odd positive integers, sum of whose squares is 290
+[![](https://img.youtube.com/vi/NVh4bRmtOro/0.jpg)](https://www.youtube.com/watch?v=NVh4bRmtOro)
 #### Example 12 : A rectangular park is to be designed whose breadth is 3 m less than its length. Its area is to be 4 square metres more than the area of a park that has already been made in the shape of an isosceles triangle with its base as the breadth of the rectangular park and of altitude 12 m (see Fig. 10.3). Find its length and breadth.
 #### Example 13 : Find the roots of the following quadratic equations, if they exist, using the quadratic formula
 * (i) 3x<sup>2</sup> – 5x + 2 = 0 
