@@ -97,24 +97,18 @@ Solution: C. 616 cm<sup>2</sup>
 [![](https://img.youtube.com/vi/_Gsdd8JJuWA/0.jpg)](https://www.youtube.com/watch?v=_Gsdd8JJuWA)
 
 #### 18. Find the sum of first 20 terms of the arithmetic progression 3, 8, 13, . . . . . . using the formula.
-[![](https://img.youtube.com/vi/eGD5EeSqygk/0.jpg)](https://www.youtube.com/watch?v=eGD5EeSqygk)
 
 #### OR
 
 #### 18. Find the sum of the first 30 positive integers divisible by 6.
-[![](https://img.youtube.com/vi/dc0j5xsz5EA/0.jpg)](https://www.youtube.com/watch?v=dc0j5xsz5EA)
 
 #### 19. Solve : 3x + y = 15, 2x ˗ y = 5
-[![](https://img.youtube.com/vi/4nTH8Gkd8vs/0.jpg)](https://www.youtube.com/watch?v=4nTH8Gkd8vs)
 
 #### 20. Solve by using quadratic formula : x<sup>2</sup>-3x+1=0.
-[![](https://img.youtube.com/vi/ANsWaNpF4SY/0.jpg)](https://www.youtube.com/watch?v=ANsWaNpF4SY)
 
 #### 21. Find the discriminant of the quadratic equation 2x<sup>2</sup>˗6x+3=0 and hence write the nature of roots.
-[![](https://img.youtube.com/vi/GHqFlNAUSfg/0.jpg)](https://www.youtube.com/watch?v=GHqFlNAUSfg)
 OR
 #### 21. Prove that the quadratic equation x<sup>2</sup>+ax˗4=0 has distinct, real roots.
-[![](https://img.youtube.com/vi/XAlTNadZK1s/0.jpg)](https://www.youtube.com/watch?v=XAlTNadZK1s)
 
 #### 22. Find the distance between the co-ordinate of the points A(2, 3) and B(10, -3).
 #### 23. Draw a line segment of AB=8cm and divide it in the ratio 3:2 by geomtrical construction.
