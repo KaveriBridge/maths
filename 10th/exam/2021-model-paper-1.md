@@ -90,12 +90,7 @@ Solution: C. 616 cm<sup>2</sup>
 #### 16. Write the formula to find the curved surface area of the frustum of a cone as shown in the figure?
 
 ## III. Answer the following questions. 8 x 2 = 16
-### All solutions for Kannada medium
-[![](https://img.youtube.com/vi/Lc2ng_U_B5M/0.jpg)](https://www.youtube.com/watch?v=Lc2ng_U_B5M)
-
 #### 17. Find the 25th term of an arithmetic progression 2, 6, 10, 14, . . . . . . .
-[![](https://img.youtube.com/vi/_Gsdd8JJuWA/0.jpg)](https://www.youtube.com/watch?v=_Gsdd8JJuWA)
-
 #### 18. Find the sum of first 20 terms of the arithmetic progression 3, 8, 13, . . . . . . using the formula.
 
 #### OR
@@ -166,5 +161,3 @@ OR
 #### 37. A toy is made in the shape of a cylinder with one hemisphere stuck to one end and a cone to the other end, as shown in the figure, the length of the cylindrical part of the toy is 20cm and its diameter is 10cm. If the slant height of the cone is 13cm. Find the surface area of the toy.
 ## VI. Answer the following question : 1 x 5 = 5
 #### 38. Prove that the ratio of the areas of two similar triangles is equal to the square of the ratio of their corresponding sides.
-#### English medium - Explained in Kannada
-[![](https://img.youtube.com/vi/zhqZUhFTEJk/0.jpg)](https://www.youtube.com/watch?v=zhqZUhFTEJk)
