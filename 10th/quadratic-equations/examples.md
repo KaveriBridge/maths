@@ -15,7 +15,7 @@ Rs 750. We would like to find out the number of toys produced on that day
 #### Example 6 : Find the dimensions of the prayer hall discussed in Section 10.1
 #### Example 7 : Solve the equation given in Example 3 by the method of completing the square.
 #### Example 8 : Find the roots of the equation 5x<sup>2</sup> – 6x – 2 = 0 by the method of completing the square
-#### Example 9 : Find the roots of 4x2 + 3x + 5 = 0 by the method of completing the square.
+#### Example 9 : Find the roots of 4x<sup>2</sup> + 3x + 5 = 0 by the method of completing the square.
 #### Example 10 : Solve Q. 2(i) of Exercise 10.1 by using the quadratic formula
 #### Example 11 : Find two consecutive odd positive integers, sum of whose squares is 290
 [![](https://img.youtube.com/vi/NVh4bRmtOro/0.jpg)](https://www.youtube.com/watch?v=NVh4bRmtOro)
