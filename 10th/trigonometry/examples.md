@@ -13,7 +13,7 @@
 #### Example 7 : In △PQR, right -angled at Q, PQ = 3 cm and PR = 6 cm. Determine ∠QPR and ∠PRQ.
 [![](https://img.youtube.com/vi/XBUb5P6zb8o/0.jpg)](https://www.youtube.com/watch?v=XBUb5P6zb8o)
 #### Example 8 : If sin (A – B) = 1/2, cos (A + B) = 1/2, 0° < A + B <= 90°, A > B, find A and B.
-[![](https://img.youtube.com/vi/XBUb5P6zb8o/0.jpg)](https://www.youtube.com/watch?v=XBUb5P6zb8o)
+[![](https://img.youtube.com/vi/uop-7YkhWQc/0.jpg)](https://www.youtube.com/watch?v=uop-7YkhWQc)
 #### Example 9 : Evaluate tan 65°/cot 25°
 #### Example 10 : If sin 3A = cos (A – 26°), where 3A is an acute angle, find the value of A.
 #### Example 11 : Express cot 85° + cos 75° in terms of trigonometric ratios of angles between 0° and 45°.
