@@ -11,7 +11,7 @@
 [![](https://img.youtube.com/vi/XBUb5P6zb8o/0.jpg)](https://www.youtube.com/watch?v=XBUb5P6zb8o)
 #### Example 6 : Check whether 301 is a term of the list of numbers 5, 11, 17, 23, . . .
 #### Example 7 : How many two-digit numbers are divisible by 3?
-[![](https://img.youtube.com/vi/XBUb5P6zb8o/0.jpg)](https://www.youtube.com/watch?v=XBUb5P6zb8o)
+[![](https://img.youtube.com/vi/ig9pHQMy5xk/0.jpg)](https://www.youtube.com/watch?v=ig9pHQMy5xk)
 #### Example 8 : Find the 11th term from the last term (towards the first term) of the AP : 10, 7, 4, . . ., – 62.
 
 [![](https://img.youtube.com/vi/uop-7YkhWQc/0.jpg)](https://www.youtube.com/watch?v=uop-7YkhWQc)
