@@ -1,3 +1,4 @@
+## EXERCISE 4.2
 In Q.1 to 3, choose the correct option and give justification.
 #### 1. From a point Q, the length of the tangent to a circle is 24 cm and the distance of Q from the centre is 25 cm. The radius of the circle is
 * (A) 7 cm (B) 12 cm (C) 15 cm (D) 24.5 cm
