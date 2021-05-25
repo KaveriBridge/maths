@@ -7,3 +7,4 @@
 #### 11. Write the measure of angle formed between tangent to a circle and radius drawn from the centre of the circle to the point of contact of the tangent.
 #### 23. Construct a tangent to a circle of radius 4cm at any point P on its circumference.
 #### 30. Prove that “length of tangents drawn from an external point to a circle are equal"
+#### 33. Construct tangents to a circle of radius 5cm such that the angle between the tangents is 60°.
