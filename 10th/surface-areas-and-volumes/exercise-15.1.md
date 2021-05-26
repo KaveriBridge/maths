@@ -1,5 +1,6 @@
 ## EXERCISE 15.1
 #### 1. 2 cubes each of volume 64 cm<sup>3</sup> are joined end to end. Find the surface area of the resulting cuboid.
+[![](https://img.youtube.com/vi/c9VW43sN4do/0.jpg)](https://www.youtube.com/watch?v=c9VW43sN4do)
 #### 2. A vessel is in the form of a hollow hemisphere mounted by a hollow cylinder. The diameter of the hemisphere is 14 cm and the total height of the vessel is 13 cm. Find the inner surface area of the vessel.
 #### 3. A toy is in the form of a cone of radius 3.5 cm mounted on a hemisphere of same radius. The total height of the toy is 15.5 cm. Find the total surface area of the toy.
 #### 4. A cubical block of side 7 cm is surmounted by a hemisphere. What is the greatest diameter the hemisphere can have? Find the surface area of the solid.
