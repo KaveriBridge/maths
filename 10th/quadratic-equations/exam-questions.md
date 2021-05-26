@@ -18,6 +18,7 @@
 ## 2020 main paper
 #### 15.Write (x+1)/2 = 1/x in the standard form of a quadratic equation
 #### 20. Find the discriminant of the equation 2x2 -5x + 3 = 0and hence write the nature of the roots.
+#### 26. To save fuel, to avoid air pollution and for good health two persons A and B ride bicycle for a distance of 12 km to reach their office. As the cycling speed of B is 2 km/h more than that of A, B takes 30 minutes less than that of A to reach the office. Find the time taken by A and B to reach the office.
 
 ## 2020 supplementary paper
 #### 15.If one root of the equation (x + 4)(x + 3)= 0 is – 4, then find the another root of the equation.
