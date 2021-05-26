@@ -25,5 +25,5 @@
 #### Example 14 : Prove that (cot A – cos A)/(cot A + cos A) = cosec A – 1/ cosec A + 1
 [![](https://img.youtube.com/vi/B8Fquw__O_g/0.jpg)](https://www.youtube.com/watch?v=B8Fquw__O_g)
 #### Example 15 : Prove that (sinθ -cosθ + 1)/(sinθ +cosθ - 1) = 1/(secθ-tanθ) using the identity sec^2θ = 1 + tan^2θ.
-[![](https://img.youtube.com/vi/B8Fquw__O_g/0.jpg)](https://www.youtube.com/watch?v=B8Fquw__O_g)
+[![](https://img.youtube.com/vi/zZh6-pKhTLw/0.jpg)](https://www.youtube.com/watch?v=zZh6-pKhTLw)
 [![](https://img.youtube.com/vi/mDn3vEyh--A/0.jpg)](https://www.youtube.com/watch?v=mDn3vEyh--A)
