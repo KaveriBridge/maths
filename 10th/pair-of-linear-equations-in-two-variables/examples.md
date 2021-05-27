@@ -27,3 +27,8 @@
 #### Example 16 : For what values of k will the following pair of linear equations have infinitely many solutions?
 * kx + 3y – (k – 3) = 0
 * 12x + ky – k = 0
+#### Example 17 : Solve the pair of equations:
+* 2/x + 3/y = 13
+* 5/x- 4/y = -2
+#### Example 18 : Solve the following pair of equations by reducing them to a pair of linear equations :
+#### Example 19 : A boat goes 30 km upstream and 44 km downstream in 10 hours. In 13 hours, it can go 40 km upstream and 55 km down-stream. Determine the speed of the stream and that of the boat in still water.
