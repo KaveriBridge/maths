@@ -12,5 +12,5 @@
 #### Example 11: Find the greatest 4-digit number which is a perfect square.  
 #### Example 12: Find the least number that must be added to 1300 so as to get a perfect square. Also find the square root of the perfect square. 
 #### Example 13: Find the square root of 12.25.  
-#### Example 14: Area of a square plot is 2304 m2  
+#### Example 14: Area of a square plot is 2304 m<sup>2</sup>  
 #### Example 15: There are 2401 students in a school. P.T. teacher wants them to stand in rows and columns such that the number of rows is equal to the number of columns. Find the number of rows. 
