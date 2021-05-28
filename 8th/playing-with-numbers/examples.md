@@ -1,5 +1,7 @@
 ## Examples
-#### Example 1: Find Q in the addition. 3 1 Q + 1 Q 3 5 0 1 
+#### Example 1: Find Q in the addition
+https://youtu.be/ylpbKr7pDEM
+https://youtu.be/aJlFi-0lkHw
 #### Example 2: Find A and B in the addition. A + A + A B A 
 #### Example 3: Find the digits A and B. B A × B 3 5 7 A
 #### Example 4: Check the divisibility of 21436587 by 9.
