@@ -1,7 +1,6 @@
 ## EXERCISE 15.3
 #### 1. A metallic sphere of radius 4.2 cm is melted and recast into the shape of a cylinder of radius 6 cm. Find the height of the cylinder.
-https://youtu.be/9Nj99wTr9Ww
-https://youtu.be/DnRyAmrMk1I
+[![](https://img.youtube.com/vi/9Nj99wTr9Ww/0.jpg)](https://www.youtube.com/watch?v=DnRyAmrMk1I)
 #### 2. Metallic spheres of radii 6 cm, 8 cm and 10 cm, respectively, are melted to form a single solid sphere. Find the radius of the resulting sphere.
 #### 3. A 20 m deep well with diameter 7 m is dug and the earth from digging is evenly spread out to form a platform 22 m by 14 m. Find the height of the platform.
 #### 4. A well of diameter 3 m is dug 14 m deep. The earth taken out of it has been spread evenly all around it in the shape of a circular ring of width 4 m to form an embankment. Find the height of the embankment.
