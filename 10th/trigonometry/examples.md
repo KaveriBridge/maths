@@ -17,6 +17,8 @@
 #### Example 9 : Evaluate tan 65°/cot 25°
 [![](https://img.youtube.com/vi/v_vxp_OBo3A/0.jpg)](https://www.youtube.com/watch?v=v_vxp_OBo3A)
 #### Example 10 : If sin 3A = cos (A – 26°), where 3A is an acute angle, find the value of A.
+[![](https://img.youtube.com/vi/AxSqONKsJ88/0.jpg)](https://www.youtube.com/watch?v=AxSqONKsJ88)
+[![](https://img.youtube.com/vi/tTxQbrk8JI4/0.jpg)](https://www.youtube.com/watch?v=tTxQbrk8JI4)
 #### Example 11 : Express cot 85° + cos 75° in terms of trigonometric ratios of angles between 0° and 45°.
 #### Example 12 : Express the ratios cos A, tan A and sec A in terms of sin A.
 [![](https://img.youtube.com/vi/XaiYYi1qDCs/0.jpg)](https://www.youtube.com/watch?v=XaiYYi1qDCs)
