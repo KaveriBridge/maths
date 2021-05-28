@@ -16,6 +16,8 @@
 #### Example 7 : A solid toy is in the form of a hemisphere surmounted by a right circular cone. The height of the cone is 2 cm and the diameter of the base is 4 cm. Determine the volume of the toy. If a right circular cylinder circumscribes the toy, find the difference of the volumes of the cylinder and the toy.
 
 #### Example 8: A cone of height 24 cm and radius of base 6 cm is made up of modelling clay. A child reshapes it in the form of a sphere. Find the radius of the sphere.
+[![](https://img.youtube.com/vi/XPvSoQ8Rbk0/0.jpg)](https://www.youtube.com/watch?v=XPvSoQ8Rbk0)
+[![](https://img.youtube.com/vi/HsJutONGmlY/0.jpg)](https://www.youtube.com/watch?v=HsJutONGmlY)
 
 #### Example 9 : Selvi’s house has an overhead tank in the shape of a cylinder. This is filled by pumping water from a sump (an underground tank) which is in the shape of a cuboid. The sump has dimensions 1.57 m × 1.44 m × 95cm. The overhead tank has its radius 60 cm and height 95 cm. Find the height of the water left in the sump after the overhead tank has been completely filled with water from the sump which had been full. Compare the capacity of the tank with that of the sump.   
 
