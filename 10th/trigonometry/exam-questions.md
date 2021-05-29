@@ -50,4 +50,17 @@ Solution: (C). 1
 
 
 ## 2020 Main paper
+#### 4.If 13 sin θ = 12, then the value of cosec θ is
+#### 27. If x = p tan θ + q sec θ and y = p sec θ + q tan θ then prove that x<sup>2</sup> − y<sup>2</sup> = q<sup>2</sup> − p<sup>2</sup>
+[![](https://img.youtube.com/vi/TJqxmUhSju8/0.jpg)](https://www.youtube.com/watch?v=TJqxmUhSju8)
+#### OR
+#### 27. Prove that cot<sup>2</sup>(90 - θ)/(tan<sup>2</sup>θ - 1) + cosec<sup>2</sup>θ/(sec<sup>2</sup>θ - cosec<sup>2</sup>θ) = 1 / (sin<sup>2</sup>θ - cos<sup>2</sup>θ).
+[![](https://img.youtube.com/vi/pG59JZGY4ZE/0.jpg)](https://www.youtube.com/watch?v=pG59JZGY4ZE)
 ## 2020 Supplementary Paper
+#### 2.The value of sec<sup>2</sup> 26° − tan<sup>2</sup> 26° is:
+#### 10.If cos θ = 24/25, then write the value of sec θ.
+#### 21. Prove that cosec A ( 1 – cos A ) ( cosec A + cot A ) = 1. 
+[![](https://img.youtube.com/vi/mmH_l1_fimE/0.jpg)](https://www.youtube.com/watch?v=mmH_l1_fimE)
+#### OR
+#### 21. Prove that (tan A - sinA)/(tanA + sinA) = (secA - 1)/(sec A + 1)
+[![](https://img.youtube.com/vi/zrtW4KBdsiU/0.jpg)](https://www.youtube.com/watch?v=zrtW4KBdsiU)
