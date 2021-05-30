@@ -1,3 +1,4 @@
+## Exercise 6.1
 #### 1. Identify the terms, their coefficients for each of the following expressions.
 * (i) 5xyz<sup>2</sup> - 3zy 
 * (ii) 1 + x + x<sup>2</sup>
