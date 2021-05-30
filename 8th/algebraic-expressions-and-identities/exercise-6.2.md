@@ -1,3 +1,5 @@
+## Exercise 6.2
+
 #### 1. Find the product of the following pairs of monomials.
 * (i) 4, 7p (ii) – 4p, 7p (iii) – 4p, 7pq (iv) 4p<sup>3</sup>, – 3p (v) 4p, 0
 #### 2. Find the areas of rectangles with the following pairs of monomials as their lengths and breadths respectively.
