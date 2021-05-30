@@ -13,7 +13,7 @@
 * (iv) (p<sup>2</sup> – q<sup>2</sup>) (2p + q)
 #### 3. Simplify.
 * (i) (x<sup>2</sup> – 5) (x + 5) + 25 
-* (ii) (a2 + 5) (b3 + 3) + 5
+* (ii) (a<sup>2</sup> + 5) (b<sup>3</sup> + 3) + 5
 * (iii) (t + s<sup>2</sup>) (t<sup>2</sup> – s)
 * (iv) (a + b) (c – d) + (a – b) (c + d) + 2 (ac + bd)
 * (v) (x + y)(2x + y) + (x + 2y)(x – y) 
