@@ -3,6 +3,7 @@
 * (i) Every irrational number is a real number.
 * (ii) Every point on the number line is of the form √m , where m is a natural number.
 * (iii) Every real number is an irrational number.
+
 [![](https://img.youtube.com/vi/AimN2wlZj4A/0.jpg)](https://www.youtube.com/watch?v=AimN2wlZj4A)
 #### 2. Are the square roots of all positive integers irrational? If not, give an example of the square root of a number that is a rational number.
 #### 3. Show how √5 can be represented on the number line.
