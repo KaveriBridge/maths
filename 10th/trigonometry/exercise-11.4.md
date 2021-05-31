@@ -17,6 +17,7 @@
 * (B) 1 
 * (C) 2 
 * (D) –1
+
 [![](https://img.youtube.com/vi/kixetORVKC8/0.jpg)](https://www.youtube.com/watch?v=kixetORVKC8)
 [![](https://img.youtube.com/vi/k1KRYp02ITI/0.jpg)](https://www.youtube.com/watch?v=k1KRYp02ITI)
 
