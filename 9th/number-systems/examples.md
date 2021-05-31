@@ -3,6 +3,8 @@
 * (i) Every whole number is a natural number.
 * (ii) Every integer is a rational number.
 * (iii) Every rational number is an integer
+[![](https://img.youtube.com/vi/AimN2wlZj4A/0.jpg)](https://www.youtube.com/watch?v=AimN2wlZj4A)
+
 
 #### Example 2 : Find five rational numbers between 1 and 2.
 #### Example 3 : Locate √2 on the number line.
