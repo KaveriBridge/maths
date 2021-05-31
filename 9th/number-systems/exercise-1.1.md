@@ -6,3 +6,5 @@
 * (i) Every natural number is a whole number.
 * (ii) Every integer is a whole number.
 * (iii) Every rational number is a whole number.
+
+[![](https://img.youtube.com/vi/AimN2wlZj4A/0.jpg)](https://www.youtube.com/watch?v=AimN2wlZj4A)
