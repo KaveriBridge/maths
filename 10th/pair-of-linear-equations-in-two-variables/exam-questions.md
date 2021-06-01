@@ -53,3 +53,62 @@ Solution: y = 7 - x = 7 - 3 = 4
   x + y = 5
  2x ˗ y = 4
 
+
+
+# 2020 Supplementary PAPER - MATHEMATICS KSEEB
+## I. Four alternatives are given for each of the following questions / incomplete statements. Choose the correct alternative and write the complete answer along with its letter of alphabet. 8 x 1 = 8
+
+#### 5. The lines represented by x + 2y – 4 = 0 and 2x + 4y – 12 = 0 are,
+* (A) intersecting lines
+* (B) parallel lines
+* (C) coincident lines
+* (D) perpendicular lines to each other
+ 
+## II. Answer the following questions in a sentence each. 8 x 1 = 8
+
+#### 9. In two linear equations a<sub>1</sub>x+b<sub>1</sub>x+c<sub>1</sub>=0 and a<sub>2</sub>x+b<sub>2</sub>y+c<sub>2</sub>=0, if a<sub>1</sub>/a<sub>2</sub> ≠ b<sub>1</sub>/b<sub>2</sub>, then write the number of solutions these pair of equations have.
+
+
+
+## III. Answer the following questions. 8 x 2 = 16
+#### 17. Solve the following pair of linear equations : 2x + 3y = 11, 2x – 4y = – 24 
+[![](https://img.youtube.com/vi/FoWrYhjf5tM/0.jpg)](https://www.youtube.com/watch?v=FoWrYhjf5tM)
+
+
+## V. Answer the following. 4 x 4 = 16
+#### 34. Find the solution of the following pair of linear equations by the graphical method.: 2x + y = 8, x + y = 5
+
+# 2020 MAIN PAPER - MATHEMATICS KSEEB
+* KARNATAKA SECONDARY EDUCATION EXAMINATION BOARD
+* Malleshwaram, Bengaluru - 560003.
+* Subject : MATHEMATICS 
+* Subject Code : 81E
+* Time : 3 hrs. 15 minutes 
+* Max. Marks : 80
+* English Medium
+* Regular Fresh
+
+## I. Four alternatives are given for each of the following questions / incomplete statements. Choose the correct alternative and write the complete answer along with its letter of alphabet. 8 x 1 = 8
+
+#### 1.In the pair of linear equations a<sub>1</sub>x+b<sub>1</sub>y+c=0 and a<sub>2</sub>x+b<sub>1</sub>y+c=0, if a<sub>1</sub>/a<sub>2</sub> ≠ b<sub>1</sub>/b<sub>2</sub> then the
+* A. equations have no solution 
+* B. equations have unique solution 
+* C. equations have three solutions 
+* D. equations have infinitely many solutions
+
+[![](https://img.youtube.com/vi/1mFOZY5-Cd0/0.jpg)](https://www.youtube.com/watch?v=1mFOZY5-Cd0)
+
+## II. Answer the following questions in a sentence each. 8 x 1 = 8
+## III. Answer the following questions. 8 x 2 = 16
+#### 17. Solve : 2x + y = 11, x + y = 8 
+[![](https://img.youtube.com/vi/nHPrehEJ25Y/0.jpg)](https://www.youtube.com/watch?v=nHPrehEJ25Y)
+
+#### 19. Find the value of k, if the pair of linear equations 2x – 3y = 8 and 2(k–4)x –ky = k + 3 are inconsistent
+[![](https://img.youtube.com/vi/ZRKA-lGHuNk/0.jpg)](https://www.youtube.com/watch?v=ZRKA-lGHuNk)
+
+
+## V. Answer the following. 4 x 4 = 16
+#### 34. Find the solution of the pair of linear equations by graphical method: x + y = 7, 3x – y = 1
+[![](https://img.youtube.com/vi/HXHaE2aN7ow/0.jpg)](https://www.youtube.com/watch?v=HXHaE2aN7ow)
+
+
