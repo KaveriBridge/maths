@@ -5,6 +5,7 @@
 #### Example 3 : Consider △ACB, right-angled at C, in which AB = 29 units, BC = 21 units and ∠ABC = θ. Determine the values of
 * (i) cos<sup>2</sup> θ + sin<sup>2</sup> θ
 * (ii) cos<sup>2</sup> θ – sin<sup>2</sup> θ
+
 [![](https://img.youtube.com/vi/9i7F_i2ZOOo/0.jpg)](https://www.youtube.com/watch?v=9i7F_i2ZOOo)
 #### Example 4 : In a right triangle △ABC, right-angled at B, if tan A = 1, then verify that 2 sin A cos A = 1.
 [![](https://img.youtube.com/vi/osjy9TREHk8/0.jpg)](https://www.youtube.com/watch?v=osjy9TREHk8)
