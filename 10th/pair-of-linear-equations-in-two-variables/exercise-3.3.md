@@ -6,6 +6,8 @@
 * (v) √2x + √3y = 0; √3x-√8y = 0
 * (vi) 3x/2 -5y/3 = -2; x/3 + y/2 = 13/6
 
+[![](https://img.youtube.com/vi/kDu0zotm1pg/0.jpg)](https://www.youtube.com/watch?v=kDu0zotm1pg)
+
 #### 2. Solve 2x + 3y = 11 and 2x – 4y = – 24 and hence find the value of ‘m’ for which y = mx + 3.
 
 #### 3. Form the pair of linear equations for the following problems and find their solution by substitution method.
@@ -16,3 +18,5 @@
 25 km?
 * (v) A fraction becomes 9/11, if 2 is added to both the numerator and the denominator. If, 3 is added to both the numerator and the denominator it becomes 5/6. Find the fraction.
 * (vi) Five years hence, the age of Jacob will be three times that of his son. Five years ago, Jacob’s age was seven times that of his son. What are their present ages?
+
+[![](https://img.youtube.com/vi/53ktiGJBiFM/0.jpg)](https://www.youtube.com/watch?v=53ktiGJBiFM)
