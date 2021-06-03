@@ -1,6 +1,8 @@
 ## In this chapter, you have studied the following points: 
-#### 1. A polynomial p(x) in one variable x is an algebraic expression in x of the form p(x) = a<sub>n</sub>x<sup>n</sup> + a<sub>n-1</sub>x<sup>n-1</sup> + . . . + a<sub>2</sub>x<sup>2</sup>  + a<sub>1</sub>x<sup>1</sup> + a<sub>0</sub>, where a<sub>0</sub> , a<sub>1</sub> , a<sub>2</sub> , . . ., a<sub>n</sub>  are constants and a<sub>n</sub>  ≠  0. 
-* a<sub>0</sub> , a<sub>1</sub> , a<sub>2</sub> , . . ., a<sub>n</sub>  are respectively the coefficients of x<sup>0</sup> , x<sup>1</sup>, x<sup>2</sup> , . . ., x<sup>n</sup>, and n is called the degree of the polynomial. 
+#### 1. A polynomial p(x) in one variable x is an algebraic expression in x of the form p(x) = a<sub>n</sub>x<sup>n</sup> + a<sub>n-1</sub>x<sup>n-1</sup> + . . . + a<sub>2</sub>x<sup>2</sup>  + a<sub>1</sub>x<sup>1</sup> + a<sub>0</sub>, where 
+* a<sub>0</sub> , a<sub>1</sub> , a<sub>2</sub> , . . ., a<sub>n</sub>  are constants and a<sub>n</sub>  ≠  0. 
+* a<sub>0</sub> , a<sub>1</sub> , a<sub>2</sub> , . . ., a<sub>n</sub>  are respectively the coefficients of x<sup>0</sup> , x<sup>1</sup>, x<sup>2</sup> , . . ., x<sup>n</sup>
+* n is called the degree of the polynomial. 
 * Each of an a<sub>n</sub>x<sup>n</sup>, a<sub>n-1</sub>x<sup>n-1</sup>,..., a<sub>2</sub>x<sup>2</sup>, a<sub>1</sub>x<sup>1</sup>, a<sub>0</sub> with a<sub>n</sub> ≠ 0, is called a term of the polynomial p(x). 
 #### 2. A polynomial of one term is called a monomial. 
 #### 3. A polynomial of two terms is called a binomial. 
