@@ -10,7 +10,7 @@
 #### 9. Every linear polynomial in one variable has a unique zero, a non-zero constant polynomial has no zero, and every real number is a zero of the zero polynomial. 
 #### 10. Remainder Theorem : If p(x) is any polynomial of degree greater than or equal to 1 and p(x) is divided by the linear polynomial x - a, then the remainder is p(a). 
 #### 11. Factor Theorem : x - a is a factor of the polynomial p(x), if p(a) = 0. Also, if x - a is a factor of p(x), then p(a) = 0. 
-#### 12. (x + y + z)<sup>2</sup>  = x<sup>2</sup>  + y<sup>2</sup>  + z<sup>2</sup> +<sup>2</sup>xy +<sup>2</sup>yz +<sup>2</sup>zx 
-#### 13. (x + y)<sup>3</sup>  = x<sup>3</sup>  + y<sup>3</sup>  +<sup>3</sup>xy(x + y) 
-#### 14. (x - y)<sup>3</sup>  = x<sup>3</sup>  - y<sup>3</sup>  -<sup>3</sup>xy(x - y) 
-#### 15. x<sup>3</sup>  + y<sup>3</sup>  + z<sup>3</sup>  -<sup>3</sup>xyz = (x + y + z) (x<sup>2</sup>  + y<sup>2</sup>  + z<sup>2</sup>  - xy - yz - zx)
+#### 12. (x + y + z)<sup>2</sup>  = x<sup>2</sup>  + y<sup>2</sup>  + z<sup>2</sup> +2xy +2yz +2zx 
+#### 13. (x + y)<sup>3</sup>  = x<sup>3</sup>  + y<sup>3</sup>  +3xy(x + y) 
+#### 14. (x - y)<sup>3</sup>  = x<sup>3</sup>  - y<sup>3</sup>  -3xy(x - y) 
+#### 15. x<sup>3</sup>  + y<sup>3</sup>  + z<sup>3</sup>  -3xyz = (x + y + z) (x<sup>2</sup>  + y<sup>2</sup>  + z<sup>2</sup>  - xy - yz - zx)
