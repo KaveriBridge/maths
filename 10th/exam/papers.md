@@ -21,15 +21,14 @@
 * Main - https://sslc.karnataka.gov.in/storage/pdf-files/81-E%20RF_PR_m1.pdf
 * Supplementary - https://sslc.karnataka.gov.in/storage/pdf-files/81-E-CCE-RR_M1.pdf
 ## 2015
-* Main
-* Supplementary 
+* Main - https://sslc.karnataka.gov.in/storage/pdf-files/81-E-%20RF_m1.pdf
+* Supplementary  - https://sslc.karnataka.gov.in/storage/pdf-files/81-E-(CCE%20RR)_m1.pdf
 ## 2014
-* Main
-* Supplementary 
+* Main - https://sslc.karnataka.gov.in/storage/pdf-files/81-E_m1.pdf
+* Supplementary  - https://sslc.karnataka.gov.in/storage/pdf-files/81-E_june_2014_mat_english.pdf
 ## 2013
-* Main
-* Supplementary 
+* Main - https://sslc.karnataka.gov.in/storage/pdf-files/m_1.pdf
+* Supplementary  - https://sslc.karnataka.gov.in/storage/pdf-files/81-E_m1.pdf
 ## 2012
-* Main
-* Supplementary 
+* Supplementary  - https://sslc.karnataka.gov.in/storage/pdf-files/81-m1.pdf
 
