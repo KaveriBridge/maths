@@ -1,7 +1,7 @@
 ## 2021
 * Model Paper 1 - https://sslc.karnataka.gov.in/storage/pdf-files/Maths%20Set%201%20English.pdf
 * Model Paper 2 - https://sslc.karnataka.gov.in/storage/pdf-files/Maths%20Set%202%20English.pdf
-* Bangalore District Preparatory Paper - https://drive.google.com/file/d/1vYHNU6paOftu9kF_49Na3CHNl5mRSS2X/view 
+* Bangalore District Preparatory Paper - https://github.com/KaveriBridge/maths/blob/main/10th/exam/2021-Bangalore-Preparatory.pdf
 * Mysore District Preparatory Paper - 
 
 
