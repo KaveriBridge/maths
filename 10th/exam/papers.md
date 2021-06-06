@@ -12,14 +12,14 @@
 ## 2018-19 Model Papers
 * Paper 1, 2, 3 - https://sslc.karnataka.gov.in/storage/pdf-files/81-KE_m.pdf
 ## 2018
-* Main
-* Supplementary 
+* Main - https://sslc.karnataka.gov.in/storage/pdf-files/81-E-CCE%20RF%20&%20RR_M1.pdf
+* Supplementary - https://sslc.karnataka.gov.in/storage/pdf-files/81-E%20(PR)%20(Revised%20Un-Revised)_m1.pdf
 ## 2017 
-* Main
-* Supplementary 
+* Main - https://sslc.karnataka.gov.in/storage/pdf-files/81-E%20CCE%20RF_RR_m1.pdf
+* Supplementary - https://sslc.karnataka.gov.in/storage/pdf-files/81-E-(RR)-(B)_m1.pdf
 ## 2016 
-* Main
-* Supplementary 
+* Main - https://sslc.karnataka.gov.in/storage/pdf-files/81-E%20RF_PR_m1.pdf
+* Supplementary - https://sslc.karnataka.gov.in/storage/pdf-files/81-E-CCE-RR_M1.pdf
 ## 2015
 * Main
 * Supplementary 
