@@ -1,6 +1,10 @@
-## 2021 Model Papers
+## 2021
 * Model Paper 1 - https://sslc.karnataka.gov.in/storage/pdf-files/Maths%20Set%201%20English.pdf
 * Model Paper 2 - https://sslc.karnataka.gov.in/storage/pdf-files/Maths%20Set%202%20English.pdf
+* Bangalore District Preparatory Paper - https://drive.google.com/file/d/1vYHNU6paOftu9kF_49Na3CHNl5mRSS2X/view 
+* Mysore District Preparatory Paper - 
+
+
 ## 2020 
 * Main - https://sslc.karnataka.gov.in/storage/pdf-files/81E-A%20Version.pdf
 * Supplementary  - https://sslc.karnataka.gov.in/storage/pdf-files/81E-AsepVersion.pdf
