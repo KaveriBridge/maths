@@ -1,4 +1,5 @@
 ## 2021
+* MCQ Model Paper - Set 1 - https://sslc.karnataka.gov.in/storage/pdf-files/QP-Paper1-Core%20Subject%20MCQ%20Based%202021.pdf
 * Model Paper 1 - https://sslc.karnataka.gov.in/storage/pdf-files/Maths%20Set%201%20English.pdf
 * Model Paper 2 - https://sslc.karnataka.gov.in/storage/pdf-files/Maths%20Set%202%20English.pdf
 * Bangalore District Preparatory Paper - https://github.com/KaveriBridge/maths/blob/main/10th/exam/2021-Bangalore-Preparatory.pdf
