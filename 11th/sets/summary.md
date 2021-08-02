@@ -8,7 +8,7 @@
 #### The intersection of two sets A and B is the set of all elements which are common. 
 #### The difference of two sets A and B in this order is the set of elements which belong to A but not to B.
 #### The complement of a subset A of universal set U is the set of all elements of U which are not the elements of A.
-#### For any two sets A and B, (A ? B)' = A' n B' and ( A n B )' = A' ? B'
+#### For any two sets A and B, (A ∪ B)' = A' ∩ B' and ( A ∩ B )' = A' ∪ B'
 #### If A and B are finite sets such that A n B = f, then (A ? B) = n (A) + n (B).
 #### If A n B ? f, then (A ? B) = n (A) + n (B) - n (A n B)
 
