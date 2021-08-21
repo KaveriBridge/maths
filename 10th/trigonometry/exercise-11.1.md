@@ -7,7 +7,7 @@
 [![](https://img.youtube.com/vi/5V2a0RCvPss/0.jpg)](https://www.youtube.com/watch?v=5V2a0RCvPss)
 
 ##### 3. If sin A = 3/4, calculate cos A and tan A.
-[![](https://img.youtube.com/vi/_p5wbqXSUoI/0.jpg)](https://www.youtube.com/watch?v=_p5wbqXSUoI)
+[![](https://img.youtube.com/vi/9Se4UTYAkqY/0.jpg)](https://www.youtube.com/watch?v=9Se4UTYAkqY)
 
 ##### 4. Given 15 cot A = 8, find sin A and sec A.
 [![](https://img.youtube.com/vi/dO2JaE1iFxk/0.jpg)](https://www.youtube.com/watch?v=dO2JaE1iFxk)
