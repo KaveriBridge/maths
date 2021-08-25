@@ -15,3 +15,4 @@
 #### 5. If sec 4A = cosec (A – 20°), where 4A is an acute angle, find the value of A
 #### 6. If A, B and C are interior angles of a triangle ABC, then show that sin ((B+C)/2) = cos A/2
 #### 7. Express sin 67° + cos 75° in terms of trigonometric ratios of angles between 0° and 45
+[![](https://img.youtube.com/vi/WV-kJ6vcW04/0.jpg)](https://www.youtube.com/watch?v=WV-kJ6vcW04)
