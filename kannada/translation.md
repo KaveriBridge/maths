@@ -9,3 +9,4 @@
 |ಸಮದ್ವಿಬಾಹು| Isoceles|
 |ಬಾಹು| Side|
 |ಬಹುಭುಜಾಕೃತಿ | Polygon|
+|ಕೋನ|Angle|
