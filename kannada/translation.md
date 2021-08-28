@@ -16,3 +16,6 @@
 |ಕೋನ|Angle|
 |ಸಮಅನುಪಾತ|Proportional|
 |ಅನುಪಾತ|Ratio|
+|ಬಿಂದು|Point|
+|ಪ್ರಮೇಯ|Theorem|
+|ಛೇದಿಸು|Intersect|
