@@ -7,6 +7,7 @@
 |ವರ್ಗ| Square|
 |ಆಯಾತ| Rectangle|
 |ಚತುರ್ಭುಜ| Quadrilateral|
+|ಅನುರೊಪ| Corresponding|
 |ಆಕೃತಿ|Figure|
 |ಸಮಬಾಹು| Equilateral|
 |ಸಮದ್ವಿಬಾಹು| Isoceles|
