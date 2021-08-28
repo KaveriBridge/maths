@@ -19,3 +19,4 @@
 |ಬಿಂದು|Point|
 |ಪ್ರಮೇಯ|Theorem|
 |ಛೇದಿಸು|Intersect|
+|ರೇಖೆ|Line|
