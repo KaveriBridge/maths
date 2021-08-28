@@ -23,16 +23,16 @@
 |ಆಯಾತ| Rectangle|
 |ಚತುರ್ಭುಜ| Quadrilateral|
 |ಬಹುಭುಜಾಕೃತಿ | Polygon|
+|ಸಮಬಾಹು| Equilateral|
+|ಸಮದ್ವಿಬಾಹು| Isoceles|
+|ಸಮರೂಪ| Similar|
+|ಸರ್ವಸಮ| Congruent|
 
 ### All
 | Word| English|
 |-|-|
-|ಸಮಅನುಪಾತ|Proportional|
 |ಅನುಪಾತ|Ratio|
-|ಸಮರೂಪ| Similar|
-|ಸರ್ವಸಮ| Congruent|
+|ಸಮಅನುಪಾತ|Proportional|
 |ಅನುರೊಪ| Corresponding|
-|ಸಮಬಾಹು| Equilateral|
-|ಸಮದ್ವಿಬಾಹು| Isoceles|
 |ಪ್ರಮೇಯ|Theorem|
 |ಛೇದಿಸು|Intersect|
