@@ -15,3 +15,4 @@
 |ಬಹುಭುಜಾಕೃತಿ | Polygon|
 |ಕೋನ|Angle|
 |ಸಮಅನುಪಾತ|Proportional|
+|ಅನುಪಾತ|Ratio|
