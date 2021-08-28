@@ -5,8 +5,11 @@
 |ಸರ್ವಸಮ| Congruent|
 |ವೃತ್ತ|Circle|
 |ವರ್ಗ| Square|
+|ಆಯಾತ| Rectangle|
+|ಆಕೃತಿ|Figure|
 |ಸಮಬಾಹು| Equilateral|
 |ಸಮದ್ವಿಬಾಹು| Isoceles|
 |ಬಾಹು| Side|
 |ಬಹುಭುಜಾಕೃತಿ | Polygon|
 |ಕೋನ|Angle|
+|ಸಮಅನುಪಾತ|Proportional|
