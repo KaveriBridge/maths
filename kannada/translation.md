@@ -17,13 +17,13 @@
 ### Shapes
 | Word| Sound| English|
 |-|-|-|
-|ತ್ರಿಭುಜ| Thribuja | Triangle|
+|ತ್ರಿಭುಜ| Tribhuja | Triangle|
 |ವೃತ್ತ|Vrutha | Circle|
 |ವರ್ಗ| Varga| Square|
 |ಆಯಾತ| Ayatha | Rectangle|
 |ಚತುರ್ಭುಜ| Chaturbhuja | Quadrilateral|
 |ಬಹುಭುಜಾಕೃತಿ | Bahubhujakruti | Polygon|
-|ಸಮಬಾಹು| Samabahu| Equilateral|
+|ಸಮಬಾಹು| Sama bahu| Equilateral|
 |ಸಮದ್ವಿಬಾಹು| Sama Dwibahu| Isoceles|
 |ಸಮರೂಪ| Samarupa | Similar|
 |ಸರ್ವಸಮ| Sarvasama | Congruent|
@@ -36,3 +36,13 @@
 |ಅನುರೊಪ| Anu roopa | Corresponding|
 |ಪ್ರಮೇಯ|Premeya | Theorem|
 |ಛೇದಿಸು|Chedisu| Intersect|
+|ವರ್ಗ ಮೂಲ|Varga moola| Square root|
+
+### Trigonometry
+|Word|Sound|English|
+|-|-|-|
+|ತ್ರಿಕೋನಮಿತಿ| Trikōnamiti| Trigonometry|
+|ಅಭಿಮುಖ ಬಾಹು| Abhimuka Bahu| Opposite|
+|ಪಾರ್ಶ್ವ ಬಾಹು| Parshva Bahu| Adjacent side|
+|ವಿಕರ್ಣ|Vikarna|Hypotenuse| 
+|ಲಂಬ ಕೋನ|Lamba kona| Right angle|
