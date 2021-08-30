@@ -37,7 +37,7 @@
 |ಪ್ರಮೇಯ|Premeya | Theorem|
 |ಛೇದಿಸು|Chedisu| Intersect|
 |ವರ್ಗ ಮೂಲ|Varga moola| Square root|
-
+|ಪರಿಕಲ್ಪನೆ| Pari kalpane | Concept|
 ### Trigonometry
 |Word|Sound|English|
 |-|-|-|
