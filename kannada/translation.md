@@ -43,6 +43,6 @@
 |-|-|-|
 |ತ್ರಿಕೋನಮಿತಿ| Trikōnamiti| Trigonometry|
 |ಅಭಿಮುಖ ಬಾಹು| Abhimuka Bahu| Opposite|
-|ಪಾರ್ಶ್ವ ಬಾಹು| Parshva Bahu| Adjacent side|
+|ಪಾರ್ಶ್ವ ಬಾಹು| Pārśva bahu| Adjacent side|
 |ವಿಕರ್ಣ|Vikarna|Hypotenuse| 
 |ಲಂಬ ಕೋನ|Lamba kona| Right angle|
