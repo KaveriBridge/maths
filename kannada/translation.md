@@ -12,7 +12,7 @@
 | Word| Sound| English|
 |-|-|-|
 |ಗೋಳ| Gola| Sphere|
-|ಘನಾಕೃತಿ|Ghanakruti|Cube|
+|ಘನಾಕೃತಿ|Ghana kruti|Cube|
 
 ### Shapes
 | Word| Sound| English|
@@ -22,11 +22,11 @@
 |ವರ್ಗ| Varga| Square|
 |ಆಯಾತ| Ayatha | Rectangle|
 |ಚತುರ್ಭುಜ| Chaturbhuja | Quadrilateral|
-|ಬಹುಭುಜಾಕೃತಿ | Bahubhujakruti | Polygon|
+|ಬಹುಭುಜಾಕೃತಿ | Bahu bhuja kruti | Polygon|
 |ಸಮಬಾಹು| Sama bahu| Equilateral|
 |ಸಮದ್ವಿಬಾಹು| Sama Dwibahu| Isoceles|
-|ಸಮರೂಪ| Samarupa | Similar|
-|ಸರ್ವಸಮ| Sarvasama | Congruent|
+|ಸಮರೂಪ| Sama rupa | Similar|
+|ಸರ್ವಸಮ| Sarva sama | Congruent|
 
 ### All
 | Word| Sound| English|
@@ -41,7 +41,7 @@
 ### Trigonometry
 |Word|Sound|English|
 |-|-|-|
-|ತ್ರಿಕೋನಮಿತಿ| Trikōnamiti| Trigonometry|
+|ತ್ರಿಕೋನಮಿತಿ| Trikōna miti| Trigonometry|
 |ಅಭಿಮುಖ ಬಾಹು| Abhimuka Bahu| Opposite|
 |ಪಾರ್ಶ್ವ ಬಾಹು| Pārśva bahu| Adjacent side|
 |ವಿಕರ್ಣ|Vikarna|Hypotenuse| 
