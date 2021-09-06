@@ -33,3 +33,5 @@
 * (xiii) √3, √6, √9 , √12 , . . . 
 * (xiv) 1<sup>2</sup>, 3<sup>2</sup>, 5<sup>2</sup>, 7<sup>2</sup>, . . .
 * (xv) 1<sup>2</sup>, 5<sup>2</sup>, 7<sup>2</sup>, 73, . . .
+
+[![](https://img.youtube.com/vi/3vCigA-DFXQ/0.jpg)](https://www.youtube.com/watch?v=3vCigA-DFXQ) 
