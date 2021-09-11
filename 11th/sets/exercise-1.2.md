@@ -32,3 +32,5 @@
 * F = { 0, a}, 
 * G = {1, –1}, 
 * H = { 0, 1}
+
+https://youtu.be/JiQsfOd50dk
