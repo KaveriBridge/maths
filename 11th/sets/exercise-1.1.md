@@ -40,5 +40,7 @@
 * (ii) {2, 3} (b) {x : x is an odd natural number less than 10}
 * (iii) {M,A,T,H,E,I,C,S} (c) {x : x is natural number and divisor of 6}
 * (iv) {1, 3, 5, 7, 9} (d) {x : x is a letter of the word MATHEMATICS}.
+
+
 [![](https://img.youtube.com/vi/1GzaXyVPGcg/0.jpg)](https://www.youtube.com/watch?v=1GzaXyVPGcg) 
 
