@@ -32,5 +32,4 @@
 * F = { 0, a}, 
 * G = {1, –1}, 
 * H = { 0, 1}
-
-https://youtu.be/JiQsfOd50dk
+[![](https://img.youtube.com/vi/JiQsfOd50dk/0.jpg)](https://www.youtube.com/watch?v=JiQsfOd50dk) 
