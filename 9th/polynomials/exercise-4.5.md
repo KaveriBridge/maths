@@ -1,4 +1,6 @@
 #### Questions
+![image](https://user-images.githubusercontent.com/20998959/133594422-8e984c6b-28dc-4e90-a09f-c45c25b4f246.png)
+
 ##### 1. Use suitable identities to find the following products:
 ##### 2. Evaluate the following products without multiplying directly:
 ###### (i) 103 × 107 
