@@ -13,7 +13,8 @@
 * (iv) { a } ⊂ { a, b, c }
 * (v) { a } ∈ { a, b, c }
 * (vi) { x : x is an even natural number less than 6} ⊂ { x : x is a natural number which divides 36}
-https://youtu.be/ZPA8QjiUItg
+
+[![](https://img.youtube.com/vi/ZPA8QjiUItg/0.jpg)](https://www.youtube.com/watch?v=ZPA8QjiUItg) 
 
 #### 3. Let A = { 1, 2, { 3, 4 }, 5 }. Which of the following statements are incorrect and why?
 * (i) {3, 4} ⊂ A (ii) {3, 4} ∈ A (iii) {{3, 4}} ⊂ A
