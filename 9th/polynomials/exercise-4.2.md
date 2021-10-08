@@ -9,3 +9,12 @@
 [![](https://img.youtube.com/vi/fr3BpmwYo8g/0.jpg)](https://www.youtube.com/watch?v=fr3BpmwYo8g)
 [![](https://img.youtube.com/vi/EBv2TOZ8YZs/0.jpg)](https://www.youtube.com/watch?v=EBv2TOZ8YZs)
 ##### 4. Find the zero of the polynomial in each of the following cases:
+* (i) p(x) = x+5 
+* (ii) p(x) = x–5
+* (iii) p(x) = 2x+5
+* (iv) p(x) = 3x–2 
+* (v) p(x) = 3x 
+* (vi) p(x) = ax, a0
+* (vii) p(x) = cx+d, c ≠ 0, c, d are real numbers.
+
+[![](https://img.youtube.com/vi/Ot5boTpVjKc/0.jpg)](https://www.youtube.com/watch?v=Ot5boTpVjKc)
