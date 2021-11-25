@@ -8,5 +8,5 @@
 #### 4. Find the area of the quadrilateral whose vertices, taken in order, are (– 4, – 2), (– 3, – 5),(3, – 2) and (2, 3).
 #### 5. You have studied in Class IX, (Chapter 9, Example 3), that a median of a triangle divides it into two triangles of equal areas. Verify this result for △ ABC whose vertices are A(4, – 6), B(3, –2) and C(5, 2).
 
-YouTube Solution
-https://youtu.be/H8-PIekM8m0
+[![](https://img.youtube.com/vi/H8-PIekM8m0/0.jpg)](https://www.youtube.com/watch?v=H8-PIekM8m0) 
+
