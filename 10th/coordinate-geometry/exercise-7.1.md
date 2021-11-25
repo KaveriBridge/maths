@@ -6,6 +6,10 @@
 #### 3. Determine if the points (1, 5), (2, 3) and (– 2, – 11) are collinear.
 #### 4. Check whether (5, – 2), (6, 4) and (7, – 2) are the vertices of an isosceles triangle.
 #### 5. In a classroom, 4 friends are seated at the points A, B, C and D as shown in Fig. 7.8. Champa and Chameli walk into the class and after observing for a few minutes Champa asks Chameli, “Don’t you think ABCD is a square?” Chameli disagrees. Using distance formula, find which of them is correct.
+
+[![](https://img.youtube.com/vi/Duad_LBNI7k/0.jpg)](https://www.youtube.com/watch?v=Duad_LBNI7k)
+
+
 #### 6. Name the type of quadrilateral formed, if any, by the following points, and give reasons for your answer:
 * (i) (– 1, – 2), (1, 0), (– 1, 2), (– 3, 0)
 * (ii) (–3, 5), (3, 1), (0, 3), (–1, – 4)
