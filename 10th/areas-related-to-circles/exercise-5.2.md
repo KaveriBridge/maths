@@ -1,3 +1,4 @@
+## EXERCISE 5.2
 #### 1. Find the area of a sector of a circle with radius 6 cm if angle of the sector is 60°.
 #### 2. Find the area of a quadrant of a circle whose circumference is 22 cm.
 #### 3. The length of the minute hand of a clock is 14 cm. Find the area swept by the minute hand in 5 minutes.
