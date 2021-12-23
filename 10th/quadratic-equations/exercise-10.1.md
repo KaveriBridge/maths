@@ -8,7 +8,7 @@
 * (vi) x<sup>2</sup> + 3x + 1 = (x – 2)2
 * (vii) (x + 2)<sup>3</sup> = 2x (x2 – 1) 
 * (viii) x<sup>3</sup> – 4x<sup>2</sup> – x + 1 = (x – 2)<sup>3</sup>
-
+[![](https://img.youtube.com/vi/WUSfQ8BuNJM/0.jpg)](https://www.youtube.com/watch?v=WUSfQ8BuNJM)
 #### 2. Represent the following situations in the form of quadratic equations :
 ##### (i) The area of a rectangular plot is 528 m<sup>2</sup>. The length of the plot (in metres) is one more than twice its breadth. We need to find the length and breadth of the plot.
 ##### (ii) The product of two consecutive positive integers is 306. We need to find the integers.
