@@ -12,6 +12,9 @@
 * (Use π = 3.14 and √3 = 1.73)
 #### 7. A chord of a circle of radius 12 cm subtends an angle of 120° at the centre. Find the area of the corresponding segment of the circle.
 * (Use π = 3.14 and √3 = 1.73)
+
+[![](https://img.youtube.com/vi/yty7ngxqkdw/0.jpg)](https://www.youtube.com/watch?v=yty7ngxqkdw)
+
 #### 8. A horse is tied to a peg at one corner of a square shaped grass field of side 15 m by means of a 5 m long rope (see Fig. 5.11). Find 
 * (i) the area of that part of the field in which the horse can graze.
 * (ii) the increase in the grazing area if the rope were 10 m long instead of 5 m. (Use π = 3.14)
@@ -26,3 +29,5 @@
 * (B) p/180 × πR<sup>2</sup>
 * (C) p/360 × 2πR
 * (D) p/720 × 2πR<sup>2</sup>
+
+[![](https://img.youtube.com/vi/yty7ngxqkdw/0.jpg)](https://www.youtube.com/watch?v=yty7ngxqkdw)
