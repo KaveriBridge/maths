@@ -30,4 +30,5 @@
 * (C) p/360 × 2πR
 * (D) p/720 × 2πR<sup>2</sup>
 
-[![](https://img.youtube.com/vi/yty7ngxqkdw/0.jpg)](https://www.youtube.com/watch?v=yty7ngxqkdw)
+[![](https://img.youtube.com/vi/qoAs10EzkT0/0.jpg)](https://www.youtube.com/watch?v=qoAs10EzkT0)
+
