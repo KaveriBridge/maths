@@ -6,5 +6,7 @@
 #### 5. Tick the correct answer in the following and justify your choice : If the perimeter and the area of a circle are numerically equal, then the radius of the circle is
 * (A) 2 units (B) π units (C) 4 units (D) 7 units
 
-[![](https://img.youtube.com/vi/oqTFgYl22ks/0.jpg)](https://www.youtube.com/watch?v=oqTFgYl22ks)
+[![](https://img.youtube.com/vi/Q-DwRXh_1Tw/0.jpg)](https://www.youtube.com/watch?v=Q-DwRXh_1Tw)
+
+
 
