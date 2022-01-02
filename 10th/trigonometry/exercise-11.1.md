@@ -37,3 +37,7 @@
 * (v) sin θ = 4/3 for some angle θ.
 
 [![](https://img.youtube.com/vi/F1EI_hUuFhE/0.jpg)](https://www.youtube.com/watch?v=F1EI_hUuFhE)
+
+# Solution in Kannada
+[![](https://img.youtube.com/vi/PNTTXShuG60/0.jpg)](https://www.youtube.com/watch?v=PNTTXShuG60)
+[![](https://img.youtube.com/vi/Zg_ee-Q0IVc/0.jpg)](https://www.youtube.com/watch?v=Zg_ee-Q0IVc)
