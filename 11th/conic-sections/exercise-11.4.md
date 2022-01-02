@@ -4,8 +4,8 @@
 2. y²/9-x²/27 = 1
 3. 9y² – 4x² = 36
 4. 16x² – 9y² = 576 
-5. 5. 5y² – 9x² = 36 
-6. 6. 49y² – 16x² = 784.
+5. 5y² – 9x² = 36 
+6. 49y² – 16x² = 784.
 
 * In each of the Exercises 7 to 15, find the equations of the hyperbola satisfying the given conditions.
 
