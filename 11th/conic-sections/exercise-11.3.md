@@ -1,5 +1,5 @@
 # EXERCISE 11.3
-In each of the Exercises 1 to 9, find the coordinates of the foci, the vertices, the length of major axis, the minor axis, the eccentricity and the length of the latus rectum of the ellipse.
+#### In each of the Exercises 1 to 9, find the coordinates of the foci, the vertices, the length of major axis, the minor axis, the eccentricity and the length of the latus rectum of the ellipse.
 1. x²/36 + y²/16 = 1
 2. x²/4 + y²/25 = 1
 3. x²/16 + y²/9 = 1
@@ -10,7 +10,7 @@ In each of the Exercises 1 to 9, find the coordinates of the foci, the vertices,
 8. 16x² + y² = 16 
 9. 4x² + 9y² = 36
 
-In each of the following Exercises 10 to 20, find the equation for the ellipse that satisfies the given conditions:
+#### In each of the following Exercises 10 to 20, find the equation for the ellipse that satisfies the given conditions:
 
 10. Vertices (± 5, 0), foci (± 4, 0)
 11. Vertices (0, ± 13), foci (0, ± 5)
