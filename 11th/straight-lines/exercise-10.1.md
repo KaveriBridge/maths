@@ -1,5 +1,6 @@
 ## Solution in Kannada
-https://youtu.be/S-X2O7dHeCs
+[![](https://img.youtube.com/vi/S-X2O7dHeCs/0.jpg)](https://www.youtube.com/watch?v=S-X2O7dHeCs)
+
 ## Exercise 10.1
 1. Draw a quadrilateral in the Cartesian plane, whose vertices are (– 4, 5), (0, 7),(5, – 5) and (– 4, –2). Also, find its area.
 2. The base of an equilateral triangle with side 2a lies along the y-axis such that the
