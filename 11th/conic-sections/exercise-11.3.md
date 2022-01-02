@@ -23,3 +23,6 @@
 18. b = 3, c = 4, centre at the origin; foci on the x axis.
 19. Centre at (0,0), major axis on the y-axis and passes through the points (3, 2) and (1,6).
 20. Major axis on the x-axis and passes through the points (4,3) and (6,2)
+
+# Solution
+![image](https://user-images.githubusercontent.com/20998959/147884838-67868f01-6598-4cb2-a235-2b1e206ba32a.png)
