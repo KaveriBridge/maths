@@ -1,5 +1,5 @@
 # EXERCISE 11.4
-### In each of the Exercises 1 to 6, find the coordinates of the foci and the vertices, the eccentricity and the length of the latus rectum of the hyperbolas.
+#### In each of the Exercises 1 to 6, find the coordinates of the foci and the vertices, the eccentricity and the length of the latus rectum of the hyperbolas.
 1. x²/16-y²/9 = 1 
 2. y²/9-x²/27 = 1
 3. 9y² – 4x² = 36
@@ -7,7 +7,7 @@
 5. 5y² – 9x² = 36 
 6. 49y² – 16x² = 784.
 
-###  In each of the Exercises 7 to 15, find the equations of the hyperbola satisfying the given conditions.
+####  In each of the Exercises 7 to 15, find the equations of the hyperbola satisfying the given conditions.
 
 7. Vertices (± 2, 0), foci (± 3, 0)
 8. Vertices (0, ± 5), foci (0, ± 8)
