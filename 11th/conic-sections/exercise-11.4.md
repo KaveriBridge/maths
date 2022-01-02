@@ -18,3 +18,6 @@
 13. Foci (± 4, 0), the latus rectum is of length 12
 14. vertices (± 7,0), e = 4/3.
 15. Foci (0, ± 10 ), passing through (2,3)
+
+# Solution
+![image](https://user-images.githubusercontent.com/20998959/147884737-a3e1dcd6-88f5-4f5b-969c-f342a18ca426.png)
