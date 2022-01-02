@@ -17,7 +17,7 @@ In each of the Exercises 7 to 12, find the equation of the parabola that satisfi
 11. Vertex (0,0) passing through (2,3) and axis is along x-axis.
 12. Vertex (0,0), passing through (5,2) and symmetric with respect to y-axis
 
-# Solution
+# Answers
 1. F (3, 0), axis - x - axis, directrix x = –3, length of the Latus rectum = 12
 2. F (0,3/2), axis - y - axis, directrix y = –3/2, length of the Latus rectum = 6
 3. F (–2, 0), axis - x - axis, directrix x = 2, length of the Latus rectum = 8
