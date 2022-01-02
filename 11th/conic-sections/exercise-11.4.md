@@ -7,7 +7,7 @@
 5. 5. 5y² – 9x² = 36 
 6. 6. 49y² – 16x² = 784.
 
-In each of the Exercises 7 to 15, find the equations of the hyperbola satisfying the given conditions.
+* In each of the Exercises 7 to 15, find the equations of the hyperbola satisfying the given conditions.
 
 7. Vertices (± 2, 0), foci (± 3, 0)
 8. Vertices (0, ± 5), foci (0, ± 8)
