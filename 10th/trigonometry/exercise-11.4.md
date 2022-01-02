@@ -1,6 +1,7 @@
 ### Questions
 #### Solution in Kannada
 [![](https://img.youtube.com/vi/5I6B6e1wzTw/0.jpg)](https://www.youtube.com/watch?v=5I6B6e1wzTw)
+[![](https://img.youtube.com/vi/PdYGlm4-ECM/0.jpg)](https://www.youtube.com/watch?v=PdYGlm4-ECM)
 
 #### 1: Express the trigonometric ratios sin A, sec A and tan A in terms of cot A.
 [![](https://img.youtube.com/vi/ASwo4HJ-PLE/0.jpg)](https://www.youtube.com/watch?v=ASwo4HJ-PLE)
