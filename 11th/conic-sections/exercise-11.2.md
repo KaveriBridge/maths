@@ -1,6 +1,5 @@
 # EXERCISE 11.2
-In each of the following Exercises 1 to 6, find the coordinates of the focus, axis of the
-parabola, the equation of the directrix and the length of the latus rectum.
+#### In each of the following Exercises 1 to 6, find the coordinates of the focus, axis of the parabola, the equation of the directrix and the length of the latus rectum.
 1. y² = 12x 
 2. x² = 6y 
 3. y² = – 8x
@@ -8,7 +7,7 @@ parabola, the equation of the directrix and the length of the latus rectum.
 5. y² = 10x 
 6. x² = – 9y
 
-In each of the Exercises 7 to 12, find the equation of the parabola that satisfies the given conditions:
+#### In each of the Exercises 7 to 12, find the equation of the parabola that satisfies the given conditions:
 
 7. Focus (6,0); directrix x = –6 
 8. Focus (0,–3); directrix y = 3
