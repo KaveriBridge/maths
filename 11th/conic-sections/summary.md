@@ -1,4 +1,4 @@
-In this Chapter the following concepts and generalisations are studied.
+## Summary
 * A circle is the set of all points in a plane that are equidistant from a fixed point in the plane.
 * The equation of a circle with centre (h, k) and the radius r is (x – h)² + (y – k)² = r².
 * A parabola is the set of all points in a plane that are equidistant from a fixed line and a fixed point in the plane.
