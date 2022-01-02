@@ -1,14 +1,14 @@
 # EXERCISE 11.3
 In each of the Exercises 1 to 9, find the coordinates of the foci, the vertices, the length of major axis, the minor axis, the eccentricity and the length of the latus rectum of the ellipse.
-1. 2 2136 16x y+ = 
-2. 2 214 25x y+ = 
-3. 2 2116 9x y+ =
-4. 2 2125 100x y+ = 
-5. 2 2149 36x y+ = 
-6. 40010022yx+ = 1
-7. 36x2 + 4y2 = 144 
-8. 16x2 + y2 = 16 
-9. 4x2 + 9y2 = 36
+1. x²/36 + y²/16 = 1
+2. x²/4 + y²/25 = 1
+3. x²/16 + y²/9 = 1
+4. x²/25 + y²/100 = 1
+5. x²/49 + y²/36 = 1
+6. x²/100 + y²/400 = 1
+7. 36x² + 4y² = 144 
+8. 16x² + y² = 16 
+9. 4x² + 9y² = 36
 
 In each of the following Exercises 10 to 20, find the equation for the ellipse that satisfies the given conditions:
 
