@@ -1,5 +1,5 @@
 ## 2021 Model Paper 1
-#### 7. The volume of a cylinder is 300 m3 then the volume of a cone having the same radius and height as that of the cylinder is :
+#### 7. The volume of a cylinder is 300 m<sup>3</sup> then the volume of a cone having the same radius and height as that of the cylinder is :
 #### 8. The surface area of a sphere of radius 7cm is :
 #### 16. Write the formula to find the curved surface area of the frustum of a cone as shown in the figure?
 #### 33. A right circular metalic cone of height 20cm and base radius 5cm is melted and recast into a solid sphere. Find the radius of the sphere.
