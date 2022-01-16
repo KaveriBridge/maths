@@ -9,10 +9,12 @@
 
 ## 2020 
 * Main - https://sslc.karnataka.gov.in/storage/pdf-files/81E-A%20Version.pdf
+* Main - Solution - https://sslc.karnataka.gov.in/storage/pdf-files/81E-A%20Version.pdf
 * Supplementary  - https://sslc.karnataka.gov.in/storage/pdf-files/81E-AsepVersion.pdf
 * Model - https://sslc.karnataka.gov.in/storage/pdf-files/81-KE_m.pdf
 ## 2019
 * Main - https://sslc.karnataka.gov.in/storage/pdf-files/81E-A%20Version_e1.pdf
+* Main - Solution -https://sslc.karnataka.gov.in/storage/pdf-files/81E-A%20Version_5.pdf
 * Supplementary - https://sslc.karnataka.gov.in/storage/pdf-files/81-E-(RR)-(502-A)_21.pdf
 * Model Paper - https://sslc.karnataka.gov.in/storage/pdf-files/81-Model-Question-Paper-Eng_2.pdf
 ## 2018
