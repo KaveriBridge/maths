@@ -1,6 +1,6 @@
-[![](https://img.youtube.com/vi/n1KVVFChSGg/0.jpg)](https://www.youtube.com/watch?v=n1KVVFChSGg)
-[![](https://img.youtube.com/vi/u7HRcQlYiao/0.jpg)](https://www.youtube.com/watch?v=u7HRcQlYiao)
-[![](https://img.youtube.com/vi/l3tPddK8hYA/0.jpg)](https://www.youtube.com/watch?v=l3tPddK8hYA)
+[![](https://img.youtube.com/vi/n1KVVFChSGg/1.jpg)](https://www.youtube.com/watch?v=n1KVVFChSGg)
+[![](https://img.youtube.com/vi/u7HRcQlYiao/1.jpg)](https://www.youtube.com/watch?v=u7HRcQlYiao)
+[![](https://img.youtube.com/vi/l3tPddK8hYA/1.jpg)](https://www.youtube.com/watch?v=l3tPddK8hYA)
 ## EXERCISE 5.3
 ![image](https://user-images.githubusercontent.com/20998959/143479289-98c0ec23-60a2-436d-8f64-5f754c837be4.png)
 ![image](https://user-images.githubusercontent.com/20998959/143481841-7f38e9f0-b3e9-4c45-a155-0a513d7916f4.png)
