@@ -1,3 +1,5 @@
+https://youtu.be/HzxQiUWdda4
+
 ## EXERCISE 11.2
 #### 1. Evaluate the following :
 * (i) sin 60° cos 30° + sin 30° cos 60° 
