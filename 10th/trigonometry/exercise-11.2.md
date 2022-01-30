@@ -1,3 +1,7 @@
+##### Solution in Kannada
+[![](https://img.youtube.com/vi/HzxQiUWdda4/0.jpg)](https://www.youtube.com/watch?v=HzxQiUWdda4)
+[![](https://img.youtube.com/vi/G40vIf0qJlk/0.jpg)](https://www.youtube.com/watch?v=G40vIf0qJlk)
+
 ## EXERCISE 11.2
 #### 1. Evaluate the following :
 * (i) sin 60° cos 30° + sin 30° cos 60° 
@@ -5,9 +9,6 @@
 * (iii)cos 45°/ (sec 30° + cosec 30°)
 * (iv) (sin 30° + tan 45° – cosec 60°)/(sec 30° + cos 60° + cot 45°)
 * (v) (5 cos<sup>2</sup> 60° + 4 sec<sup>2</sup> 30° - tan<sup>2</sup> 45°)/(sin<sup>2</sup> 30° + cos<sup>2</sup> 30°)
-##### Solution in Kannada
-[![](https://img.youtube.com/vi/HzxQiUWdda4/0.jpg)](https://www.youtube.com/watch?v=HzxQiUWdda4)
-
 #### 2. Choose the correct option and justify your choice :
 ##### 2. (i) 2 tan30°/(1 + tan<sup>2</sup>30°)
 * (A) sin 60° 
