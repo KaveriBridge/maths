@@ -1,3 +1,6 @@
+## Solution in Kannada
+[![](https://img.youtube.com/vi/qWzFcU76dwE/0.jpg)](https://www.youtube.com/watch?v=qWzFcU76dwE)
+
 # Exercise 11.1
 #### In each of the following Exercises 1 to 5, find the equation of the circle with 
 1. centre (0,2) and radius 2 
