@@ -1,10 +1,14 @@
+
 ## EXERCISE 15.1
 #### 1. 2 cubes each of volume 64 cm<sup>3</sup> are joined end to end. Find the surface area of the resulting cuboid.
-[![](https://img.youtube.com/vi/c9VW43sN4do/0.jpg)](https://www.youtube.com/watch?v=c9VW43sN4do)
 #### 2. A vessel is in the form of a hollow hemisphere mounted by a hollow cylinder. The diameter of the hemisphere is 14 cm and the total height of the vessel is 13 cm. Find the inner surface area of the vessel.
 #### 3. A toy is in the form of a cone of radius 3.5 cm mounted on a hemisphere of same radius. The total height of the toy is 15.5 cm. Find the total surface area of the toy.
 #### 4. A cubical block of side 7 cm is surmounted by a hemisphere. What is the greatest diameter the hemisphere can have? Find the surface area of the solid.
 #### 5. A hemispherical depression is cut out from one face of a cubical wooden block such that the diameter l of the hemisphere is equal to the edge of the cube. Determine the surface area of the remaining solid.
+
+[![](https://img.youtube.com/vi/c9VW43sN4do/0.jpg)](https://www.youtube.com/watch?v=c9VW43sN4do)
+[![](https://img.youtube.com/vi/5WfLzgxp3bQ/0.jpg)](https://www.youtube.com/watch?v=5WfLzgxp3bQ)
+
 #### 6. A medicine capsule is in the shape of a cylinder with two hemispheres stuck to each of its ends (see Fig. 13.10). The length of the entire capsule is 14 mm and the diameter of the capsule is 5 mm. Find its surface area.
 [![](https://img.youtube.com/vi/yvk5isgn4Z4/0.jpg)](https://www.youtube.com/watch?v=yvk5isgn4Z4)
 #### 7. 7. A tent is in the shape of a cylinder surmounted by a conical top. If the height and diameter of the cylindrical part are 2.1 m and 4 m respectively, and the slant height of the top is 2.8 m, find the area of the canvas used for making the tent. Also, find the cost of the canvas of the tent at the rate of ₹500 per m2
