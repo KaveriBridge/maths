@@ -7,3 +7,11 @@
 #### 4. How many 5-digit telephone numbers can be constructed using the digits 0 to 9 if each number starts with 67 and no digit appears more than once?
 #### 5. A coin is tossed 3 times and the outcomes are recorded. How many possible outcomes are there?
 #### 6. Given 5 flags of different colours, how many different signals can be generated if each signal requires the use of 2 flags, one below the other?
+
+## Answers
+#### 1. (i) 125, (ii) 60. 
+#### 2. 108 
+#### 3. 5040 
+#### 4. 336 
+#### 5. 8 
+#### 6. 20
