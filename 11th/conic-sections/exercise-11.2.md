@@ -1,5 +1,5 @@
-# Solution in Kannada
-https://youtu.be/cCtoDPdIjyg
+## Solution in Kannada
+[![](https://img.youtube.com/vi/cCtoDPdIjyg/0.jpg)](https://www.youtube.com/watch?v=cCtoDPdIjyg)
 
 # EXERCISE 11.2
 #### In each of the following Exercises 1 to 6, find the coordinates of the focus, axis of the parabola, the equation of the directrix and the length of the latus rectum.
