@@ -1,3 +1,6 @@
+# Solution in Kannada
+https://youtu.be/cCtoDPdIjyg
+
 # EXERCISE 11.2
 #### In each of the following Exercises 1 to 6, find the coordinates of the focus, axis of the parabola, the equation of the directrix and the length of the latus rectum.
 1. y² = 12x 
