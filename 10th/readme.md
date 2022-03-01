@@ -13,5 +13,3 @@
 * Chapter 13 Statistics
 * Chapter 14 Probability
 * Chapter 15 Surface Areas And Volumes
-* Chapter A1 Proofs In Mathematics
-* Chapter A2 Mathematical Modelling
