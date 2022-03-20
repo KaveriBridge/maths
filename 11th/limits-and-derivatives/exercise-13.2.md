@@ -1,6 +1,6 @@
 ## Solution in Kannada
 [![](https://img.youtube.com/vi/46dcLVTKH90/0.jpg)](https://www.youtube.com/watch?v=46dcLVTKH90)
-[![](https://img.youtube.com/vi/DImjA2dn4Tg/0.jpg)](https://www.youtube.com/watch?v=DImjA2dn4Tg)
+[![](https://img.youtube.com/vi/sI8PlZYLW5A/0.jpg)](https://www.youtube.com/watch?v=sI8PlZYLW5A)
 [![](https://img.youtube.com/vi/dfHpt5RO0rw/0.jpg)](https://www.youtube.com/watch?v=dfHpt5RO0rw)
 
 ## Exercises
